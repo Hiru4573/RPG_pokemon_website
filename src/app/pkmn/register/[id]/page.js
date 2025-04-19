@@ -128,22 +128,22 @@ export default function Home() {
           <div className="flex flex-col w-full px-2">
           {selectedRanges.map((range, index) => (
             <div key={index} className={`flex ${range.color} items-center justify-between mb-2`}>
-            <span className="text-white mr-2 ">{range.name}:</span>
+            <span className="text-white mr-2 p-2">{range.name}:</span>
             <div className="flex">
               <button
                 key={0}
-                className={`w-6 h-6 rounded-full mx-1 ${
-                0 <= range.value ? 'bg-red-500' : 'bg-gray-500'
-                } hover:bg-red-500 focus:outline-none`}
+                className={`w-6 h-6 rounded-full mx-1 text-white ${
+                0 <= range.value ? 'bg-neutral-900' : 'bg-gray-400'
+                } hover:bg-neutral-900 focus:outline-none`}
                 onClick={() => handleRangeChange(index, 0)}
               >
               </button>
               {rangesVal.map((value) => (
               <button
                 key={value}
-                className={`w-6 h-6 rounded-full mx-1 ${
-                value <= range.value ? 'bg-red-500' : 'bg-gray-500'
-                } hover:bg-red-500 focus:outline-none`}
+                className={`w-6 h-6 rounded-full mx-1 text-white ${
+                value <= range.value ? 'bg-neutral-900' : 'bg-gray-400'
+                } hover:bg-neutral-900 focus:outline-none`}
                 onClick={() => handleRangeChange(index, value)}
               >
                 {value}

@@ -17,7 +17,7 @@ export default function Home() {
           <button className="text-white capitalize bg-red-900 hover:bg-red-800 mx-2 w-full cursor-pointer" onClick={()=>window.location.href = `/`}>Menu Inicial</button>
           <button className="text-white capitalize bg-red-900 hover:bg-red-800 mx-2 w-full cursor-pointer" onClick={()=>window.location.href = `/pkmn/list`}>Cadastrados</button>
         </div>
-        <div className="sticky top-0 bg-neutral-950 z-10">
+        <div className="sticky top-0 z-10">
           <input
             type="text"
             placeholder="Search Pokémon"

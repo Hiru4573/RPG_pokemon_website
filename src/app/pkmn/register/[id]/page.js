@@ -20,17 +20,17 @@ export default function Home() {
   const [filteredAttacks, setfilteredAttacks] = useState(selectedPkmn.types);
   const [selectedAttacks, setSelectedAttacks] = useState([]);
   const [selectedRanges, setSelectedRanges] = useState([
-    { name: "STRENGTH", value: 0, color: "bg-blue-500"},
-    { name: "DEXTERITY", value: 0, color: "bg-blue-500" },
-    { name: "VITALITY", value: 0, color: "bg-blue-500" },
-    { name: "SPECIAL", value: 0, color: "bg-blue-500" },
-    { name: "INSIGHT", value: 0, color: "bg-blue-500" },
+    { name: "STRENGTH", value: 1, color: "bg-blue-500"},
+    { name: "DEXTERITY", value: 1, color: "bg-blue-500" },
+    { name: "VITALITY", value: 1, color: "bg-blue-500" },
+    { name: "SPECIAL", value: 1, color: "bg-blue-500" },
+    { name: "INSIGHT", value: 1, color: "bg-blue-500" },
     
-    { name: "TOUGH", value: 0, color: "bg-green-500" },
-    { name: "COOL", value: 0, color: "bg-green-500" },
-    { name: "BEAUTY", value: 0, color: "bg-green-500" },
-    { name: "CUTE", value: 0, color: "bg-green-500" },
-    { name: "CLEVER", value: 0, color: "bg-green-500" },
+    { name: "TOUGH", value: 1, color: "bg-green-500" },
+    { name: "COOL", value: 1, color: "bg-green-500" },
+    { name: "BEAUTY", value: 1, color: "bg-green-500" },
+    { name: "CUTE", value: 1, color: "bg-green-500" },
+    { name: "CLEVER", value: 1, color: "bg-green-500" },
 
     { name: "BRAWL", value: 0, color: "bg-red-500" },
     { name: "CHANNEL", value: 0, color: "bg-red-500" },

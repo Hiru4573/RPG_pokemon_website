@@ -17,34 +17,38 @@ export default function Home() {
   const [filteredAttacks, setfilteredAttacks] = useState(selectedPkmn.types);
   const [selectedAttacks, setSelectedAttacks] = useState([]);
   const [selectedRanges, setSelectedRanges] = useState([
-    { name: "STRENGTH", value: 0 },
-    { name: "DEXTERITY", value: 0 },
-    { name: "VITALITY", value: 0 },
-    { name: "SPECIAL", value: 0 },
-    { name: "INSIGHT", value: 0 },
+    { name: "STRENGTH", value: 0, color: "bg-blue-500"},
+    { name: "DEXTERITY", value: 0, color: "bg-blue-500" },
+    { name: "VITALITY", value: 0, color: "bg-blue-500" },
+    { name: "SPECIAL", value: 0, color: "bg-blue-500" },
+    { name: "INSIGHT", value: 0, color: "bg-blue-500" },
     
-    { name: "TOUGH", value: 0 },
-    { name: "COOL", value: 0 },
-    { name: "BEAUTY", value: 0 },
-    { name: "CUTE", value: 0 },
-    { name: "CLEVER", value: 0 },
+    { name: "TOUGH", value: 0, color: "bg-green-500" },
+    { name: "COOL", value: 0, color: "bg-green-500" },
+    { name: "BEAUTY", value: 0, color: "bg-green-500" },
+    { name: "CUTE", value: 0, color: "bg-green-500" },
+    { name: "CLEVER", value: 0, color: "bg-green-500" },
 
-    { name: "BRAWL", value: 0 },
-    { name: "CHANNEL", value: 0 },
-    { name: "CLASH", value: 0 },
-    { name: "EVASION", value: 0 },
+    { name: "BRAWL", value: 0, color: "bg-red-500" },
+    { name: "CHANNEL", value: 0, color: "bg-red-500" },
+    { name: "CLASH", value: 0, color: "bg-red-500" },
+    { name: "EVASION", value: 0, color: "bg-red-500" },
 
-    { name: "ALERT", value: 0 },
-    { name: "ATHLETIC", value: 0 },
-    { name: "NATURE", value: 0 },
-    { name: "STEALTH", value: 0 },
+    { name: "ALERT", value: 0, color: "bg-red-500" },
+    { name: "ATHLETIC", value: 0, color: "bg-red-500" },
+    { name: "NATURE", value: 0, color: "bg-red-500" },
+    { name: "STEALTH", value: 0, color: "bg-red-500" },
 
-    { name: "ALLURE", value: 0 },
-    { name: "ETIQUETTE", value: 0 },
-    { name: "INTIMIDATE", value: 0 },
-    { name: "PERFORM", value: 0 },
+    { name: "ALLURE", value: 0, color: "bg-red-500" },
+    { name: "ETIQUETTE", value: 0, color: "bg-red-500" },
+    { name: "INTIMIDATE", value: 0, color: "bg-red-500" },
+    { name: "PERFORM", value: 0, color: "bg-red-500" },
+    
+    { name: "HAPPINESS", value: 0, color: "bg-fuchsia-700" },
+    { name: "LOYALTY", value: 0, color: "bg-fuchsia-700" },
   ]);
   const [nickname, setNickname] = useState(selectedPkmn.name.charAt(0).toUpperCase() + selectedPkmn.name.slice(1));
+  const [ability, setAbility] = useState("");
 
   function handleTypeClick(attack) {
     setSelectedAttacks((prevSelectedAttacks) => [...prevSelectedAttacks, attack]);
@@ -91,6 +95,18 @@ export default function Home() {
           />
         </div>
 
+        
+        <div className="flex items-center justify-between mt-2"></div>
+          <label htmlFor="ability" className="mr-2">Ability:</label>
+          <input
+            id="ability"
+            type="text"
+            className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
+            placeholder="Enter ability"
+            onChange={(e) => setAbility(e.target.value)}
+            value={ability}
+          />
+
         <div className="flex items-center justify-between p-2 mt-3 border-t">
           <button className="text-white capitalize bg-red-500  hover:bg-red-600 w-5 cursor-pointer" onClick={()=>{openPokemonPage(lastId)}}>{'<'}</button>
           <span className="text-white text-center capitalize bg-red-900 w-full">{selectedPkmn.name}</span>
@@ -111,8 +127,8 @@ export default function Home() {
         
           <div className="flex flex-col w-full px-2">
           {selectedRanges.map((range, index) => (
-            <div key={index} className="flex items-center justify-between mb-2">
-            <span className="text-white mr-2">{range.name}:</span>
+            <div key={index} className={`flex ${range.color} items-center justify-between mb-2`}>
+            <span className="text-white mr-2 ">{range.name}:</span>
             <div className="flex">
               <button
                 key={0}

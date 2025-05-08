@@ -20,7 +20,7 @@ export default function PokemonDetails({
         id="nickname"
         type="text"
         className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
-        placeholder="Enter nickname"
+        placeholder="Apelido"
         onChange={(e) => setNickname(e.target.value)}
         value={nickname}
       />
@@ -30,7 +30,7 @@ export default function PokemonDetails({
         id="ability"
         type="text"
         className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
-        placeholder="Enter ability"
+        placeholder="Habilidades"
         onChange={(e) => setAbility(e.target.value)}
         value={ability}
       />
@@ -40,7 +40,7 @@ export default function PokemonDetails({
         id="hp"
         type="number"
         className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
-        placeholder="Enter HP"
+        placeholder="HP Total"
         onChange={(e) => setHP(Number(e.target.value))}
         value={HP}
       />
@@ -50,7 +50,7 @@ export default function PokemonDetails({
         id="battle"
         type="number"
         className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
-        placeholder="Enter battles won"
+        placeholder="Batalhas Ganhas"
         onChange={(e) => setBattlesWon(Number(e.target.value))}
         value={battlesWon}
       />

@@ -1,4 +1,4 @@
-export default function NavigationButtons({ onSave }) {
+export default function NavigationButtons({ onSave, updating = false }) {
     return (
       <div className="flex mb-1">
         <button
@@ -17,7 +17,7 @@ export default function NavigationButtons({ onSave }) {
           className="text-white capitalize bg-red-900 hover:bg-red-800 mx-2 w-full cursor-pointer"
           onClick={onSave}
         >
-          Salvar
+          {updating?'Atualizar':'Salvar'}
         </button>
       </div>
     );

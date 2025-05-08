@@ -1,18 +1,17 @@
-export async function GET(req) {
-  const { searchParams } = new URL(req.url);
-  const name = searchParams.get("name");
+export async function POST(req) {
+  const requestData = await req.json();
 
   const API_URL = process.env.API_URL;
   const URL_KEY = process.env.URL_KEY;
 
   try {
-    const response = await fetch(`${API_URL}/api/PKMN/get`, {
+    const response = await fetch(`${API_URL}/api/PKMN/update`, {
       method: "POST",
       headers: {
         Authorization: `Bearer ${URL_KEY}`,
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({}),
+      body: JSON.stringify(requestData),
     });
 
     if (!response.ok) {

@@ -52,8 +52,10 @@ export default function Home() {
     { name: "LOYALTY", value: 0, color: "bg-fuchsia-700" },
   ]);
   const [nickname, setNickname] = useState(selectedPkmn.name.charAt(0).toUpperCase() + selectedPkmn.name.slice(1));
-  const [ability, setAbility] = useState("");
+  const [ability, setAbility] = useState(selectedPkmn.ability);
   const [message, setMessage] = useState("");
+  const [HP, setHP] = useState(selectedPkmn.total_hp);
+  const [battlesWon, setBattlesWon] = useState(0);
 
 
   function handleTypeClick(attack) {
@@ -67,11 +69,21 @@ export default function Home() {
       newRanges[index] = { ...newRanges[index], value: value };
       return newRanges;
     });
-  }
+}
 
   async function handleSave() {
     const selectedAttackIds = selectedAttacks.map((attack) => attack.id);
-    const data = { id_dex: parseInt(id), attacks: selectedAttackIds, trainer_id: 1, nickname, ranges: selectedRanges };
+    const data = { 
+      id_dex: parseInt(id),
+      attacks: selectedAttackIds,
+      trainer_id: 1,
+      nickname,
+      ranges: selectedRanges,
+      ability,
+      total_hp: HP,
+      battles_won: battlesWon,
+      obs: ""
+    };
 
     try {
       const response = await fetch(`/api/pkmn/insert`, {
@@ -105,6 +117,10 @@ export default function Home() {
           setNickname={setNickname}
           ability={ability}
           setAbility={setAbility}
+          HP={HP}
+          setHP={setHP}
+          battlesWon={battlesWon}
+          setBattlesWon={setBattlesWon}
           lastId={lastId}
           nextId={nextId}
         />

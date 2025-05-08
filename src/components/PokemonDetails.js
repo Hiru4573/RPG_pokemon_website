@@ -6,6 +6,10 @@ export default function PokemonDetails({
   setNickname,
   ability,
   setAbility,
+  HP,
+  setHP,
+  battlesWon,
+  setBattlesWon,
   lastId,
   nextId,
 }) {
@@ -29,6 +33,26 @@ export default function PokemonDetails({
         placeholder="Enter ability"
         onChange={(e) => setAbility(e.target.value)}
         value={ability}
+      />
+
+      <label htmlFor="hp" className="mr-2 mt-2">HP:</label>
+      <input
+        id="hp"
+        type="number"
+        className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
+        placeholder="Enter HP"
+        onChange={(e) => setHP(Number(e.target.value))}
+        value={HP}
+      />
+
+      <label htmlFor="battle" className="mr-2 mt-2">Batalhas Ganhas:</label>
+      <input
+        id="battle"
+        type="number"
+        className="w-full px-4 py-2 border border-white-300 focus:outline-none focus:ring-2 focus:ring-red-500"
+        placeholder="Enter battles won"
+        onChange={(e) => setBattlesWon(Number(e.target.value))}
+        value={battlesWon}
       />
 
       <div className="flex items-center justify-between p-2 mt-3 border-t">

@@ -4,10 +4,11 @@ import Pkmn from "public/data/pkmn.json";
 import attacks from "public/data/attacks.json";
 import NavigationButtons from "@/components/NavigationButtons";
 import PokemonDetails from "@/components/PokemonDetails";
+import Notification from "@/components/Notification";
 import RangeList from "@/components/RangeList";
 import AttackSelector from "@/components/AttackSelector";
 import { useParams } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Home() {
   const { id } = useParams();
@@ -52,6 +53,8 @@ export default function Home() {
   ]);
   const [nickname, setNickname] = useState(selectedPkmn.name.charAt(0).toUpperCase() + selectedPkmn.name.slice(1));
   const [ability, setAbility] = useState("");
+  const [message, setMessage] = useState("");
+
 
   function handleTypeClick(attack) {
     setSelectedAttacks((prevSelectedAttacks) => [...prevSelectedAttacks, attack]);
@@ -82,6 +85,8 @@ export default function Home() {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
       const result = await response.json();
+
+      setMessage('Pokémon Salvo com sucesso!');
 
     } catch (err) {
       console.error("Error fetching data:", err);
@@ -117,6 +122,10 @@ export default function Home() {
           setSelectedAttacks={setSelectedAttacks}
           attacks={attacks}
           handleTypeClick={handleTypeClick}
+        />
+        <Notification
+          message={message}
+          setMessage={setMessage}
         />
       </div>
     </main>

@@ -11,7 +11,7 @@ export default function Home() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const response = await fetch(`/api/pkmn/get`); // Call the API route
+        const response = await fetch(`/api/pkmn/get_basic`); // Call the API route
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }

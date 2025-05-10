@@ -1,4316 +1,4316 @@
 [
-	{
-		"id": 1,
-		"type": "Bug",
-		"name": "Attack Order",
-		"img_name": "1_3"
-	},
-	{
-		"id": 2,
-		"type": "Bug",
-		"name": "Bug Bite",
-		"img_name": "1_4"
-	},
-	{
-		"id": 3,
-		"type": "Bug",
-		"name": "Bug Buzz",
-		"img_name": "1_5"
-	},
-	{
-		"id": 4,
-		"type": "Bug",
-		"name": "Defend Order",
-		"img_name": "1_6"
-	},
-	{
-		"id": 5,
-		"type": "Bug",
-		"name": "Fell Stinger",
-		"img_name": "1_7"
-	},
-	{
-		"id": 6,
-		"type": "Bug",
-		"name": "First Impression",
-		"img_name": "1_8"
-	},
-	{
-		"id": 7,
-		"type": "Bug",
-		"name": "Fury Cutter",
-		"img_name": "1_9"
-	},
-	{
-		"id": 8,
-		"type": "Bug",
-		"name": "Heal Order",
-		"img_name": "1_10"
-	},
-	{
-		"id": 9,
-		"type": "Bug",
-		"name": "Infestation",
-		"img_name": "2_1"
-	},
-	{
-		"id": 10,
-		"type": "Bug",
-		"name": "Leech Life",
-		"img_name": "2_2"
-	},
-	{
-		"id": 11,
-		"type": "Bug",
-		"name": "Lunge",
-		"img_name": "2_3"
-	},
-	{
-		"id": 12,
-		"type": "Bug",
-		"name": "Megahorn",
-		"img_name": "2_4"
-	},
-	{
-		"id": 13,
-		"type": "Bug",
-		"name": "Pin Missile",
-		"img_name": "2_5"
-	},
-	{
-		"id": 14,
-		"type": "Bug",
-		"name": "Pollen Puff",
-		"img_name": "2_6"
-	},
-	{
-		"id": 15,
-		"type": "Bug",
-		"name": "Powder",
-		"img_name": "2_7"
-	},
-	{
-		"id": 16,
-		"type": "Bug",
-		"name": "Quiver Dance",
-		"img_name": "2_8"
-	},
-	{
-		"id": 17,
-		"type": "Bug",
-		"name": "Rage Powder",
-		"img_name": "2_9"
-	},
-	{
-		"id": 18,
-		"type": "Bug",
-		"name": "Signal Beam",
-		"img_name": "2_10"
-	},
-	{
-		"id": 19,
-		"type": "Bug",
-		"name": "Silver Wind",
-		"img_name": "3_1"
-	},
-	{
-		"id": 20,
-		"type": "Bug",
-		"name": "Spider Web",
-		"img_name": "3_2"
-	},
-	{
-		"id": 21,
-		"type": "Bug",
-		"name": "Steamroller",
-		"img_name": "3_3"
-	},
-	{
-		"id": 22,
-		"type": "Bug",
-		"name": "Sticky Web",
-		"img_name": "3_4"
-	},
-	{
-		"id": 23,
-		"type": "Bug",
-		"name": "String Shot",
-		"img_name": "3_5"
-	},
-	{
-		"id": 24,
-		"type": "Bug",
-		"name": "Struggle Bug",
-		"img_name": "3_6"
-	},
-	{
-		"id": 25,
-		"type": "Bug",
-		"name": "Tail Glow",
-		"img_name": "3_7"
-	},
-	{
-		"id": 26,
-		"type": "Bug",
-		"name": "Twineedle",
-		"img_name": "3_8"
-	},
-	{
-		"id": 27,
-		"type": "Bug",
-		"name": "U-Turn",
-		"img_name": "3_9"
-	},
-	{
-		"id": 28,
-		"type": "Bug",
-		"name": "X-Scissor",
-		"img_name": "3_10"
-	},
-	{
-		"id": 29,
-		"type": "Dark",
-		"name": "Assurance",
-		"img_name": "4_3"
-	},
-	{
-		"id": 30,
-		"type": "Dark",
-		"name": "Baddy Bad",
-		"img_name": "4_4"
-	},
-	{
-		"id": 31,
-		"type": "Dark",
-		"name": "Beat Up",
-		"img_name": "4_5"
-	},
-	{
-		"id": 32,
-		"type": "Dark",
-		"name": "Bite",
-		"img_name": "4_6"
-	},
-	{
-		"id": 33,
-		"type": "Dark",
-		"name": "Brutal Swing",
-		"img_name": "4_7"
-	},
-	{
-		"id": 34,
-		"type": "Dark",
-		"name": "Crunch",
-		"img_name": "4_8"
-	},
-	{
-		"id": 35,
-		"type": "Dark",
-		"name": "Dark Pulse",
-		"img_name": "4_9"
-	},
-	{
-		"id": 36,
-		"type": "Dark",
-		"name": "Dark Void",
-		"img_name": "4_10"
-	},
-	{
-		"id": 37,
-		"type": "Dark",
-		"name": "Darkest Lariat",
-		"img_name": "5_1"
-	},
-	{
-		"id": 38,
-		"type": "Dark",
-		"name": "Embargo",
-		"img_name": "5_2"
-	},
-	{
-		"id": 39,
-		"type": "Dark",
-		"name": "Fake Tears",
-		"img_name": "5_3"
-	},
-	{
-		"id": 40,
-		"type": "Dark",
-		"name": "False Surrender",
-		"img_name": "5_4"
-	},
-	{
-		"id": 41,
-		"type": "Dark",
-		"name": "Feint Attack",
-		"img_name": "5_5"
-	},
-	{
-		"id": 42,
-		"type": "Dark",
-		"name": "Flatter",
-		"img_name": "5_6"
-	},
-	{
-		"id": 43,
-		"type": "Dark",
-		"name": "Fling",
-		"img_name": "5_7"
-	},
-	{
-		"id": 44,
-		"type": "Dark",
-		"name": "Foul Play",
-		"img_name": "5_8"
-	},
-	{
-		"id": 45,
-		"type": "Dark",
-		"name": "Hone Claws",
-		"img_name": "5_9"
-	},
-	{
-		"id": 46,
-		"type": "Dark",
-		"name": "Hyperspace Fury",
-		"img_name": "5_10"
-	},
-	{
-		"id": 47,
-		"type": "Dark",
-		"name": "Jaw Lock",
-		"img_name": "6_1"
-	},
-	{
-		"id": 48,
-		"type": "Dark",
-		"name": "Knock Off",
-		"img_name": "6_2"
-	},
-	{
-		"id": 49,
-		"type": "Dark",
-		"name": "Memento",
-		"img_name": "6_3"
-	},
-	{
-		"id": 50,
-		"type": "Dark",
-		"name": "Nasty Plot",
-		"img_name": "6_4"
-	},
-	{
-		"id": 51,
-		"type": "Dark",
-		"name": "Night Daze",
-		"img_name": "6_5"
-	},
-	{
-		"id": 52,
-		"type": "Dark",
-		"name": "Night Slash",
-		"img_name": "6_6"
-	},
-	{
-		"id": 53,
-		"type": "Dark",
-		"name": "Obstruct",
-		"img_name": "6_7"
-	},
-	{
-		"id": 54,
-		"type": "Dark",
-		"name": "Parting Shot",
-		"img_name": "6_8"
-	},
-	{
-		"id": 55,
-		"type": "Dark",
-		"name": "Payback",
-		"img_name": "6_9"
-	},
-	{
-		"id": 56,
-		"type": "Dark",
-		"name": "Power Trip",
-		"img_name": "6_10"
-	},
-	{
-		"id": 57,
-		"type": "Dark",
-		"name": "Punishment",
-		"img_name": "7_1"
-	},
-	{
-		"id": 58,
-		"type": "Dark",
-		"name": "Pursuit",
-		"img_name": "7_2"
-	},
-	{
-		"id": 59,
-		"type": "Dark",
-		"name": "Quash",
-		"img_name": "7_3"
-	},
-	{
-		"id": 60,
-		"type": "Dark",
-		"name": "Snarl",
-		"img_name": "7_4"
-	},
-	{
-		"id": 61,
-		"type": "Dark",
-		"name": "Snatch",
-		"img_name": "7_4"
-	},
-	{
-		"id": 62,
-		"type": "Dark",
-		"name": "Sucker Punch",
-		"img_name": "7_6"
-	},
-	{
-		"id": 63,
-		"type": "Dark",
-		"name": "Switcheroo",
-		"img_name": "7_7"
-	},
-	{
-		"id": 64,
-		"type": "Dark",
-		"name": "Taunt",
-		"img_name": "7_8"
-	},
-	{
-		"id": 65,
-		"type": "Dark",
-		"name": "Thief",
-		"img_name": "7_9"
-	},
-	{
-		"id": 66,
-		"type": "Dark",
-		"name": "Throat Chop",
-		"img_name": "7_10"
-	},
-	{
-		"id": 67,
-		"type": "Dark",
-		"name": "Topsy-Turvy",
-		"img_name": "8_1"
-	},
-	{
-		"id": 68,
-		"type": "Dark",
-		"name": "Torment",
-		"img_name": "8_2"
-	},
-	{
-		"id": 69,
-		"type": "Dragon",
-		"name": "Breaking Swipe",
-		"img_name": "8_5"
-	},
-	{
-		"id": 70,
-		"type": "Dragon",
-		"name": "Clanging Scales",
-		"img_name": "8_6"
-	},
-	{
-		"id": 71,
-		"type": "Dragon",
-		"name": "Clangorous Soul",
-		"img_name": "8_7"
-	},
-	{
-		"id": 72,
-		"type": "Dragon",
-		"name": "Core Enforcer",
-		"img_name": "8_8"
-	},
-	{
-		"id": 73,
-		"type": "Dragon",
-		"name": "Dragon Breath",
-		"img_name": "8_9"
-	},
-	{
-		"id": 74,
-		"type": "Dragon",
-		"name": "Dragon Claw",
-		"img_name": "9_1"
-	},
-	{
-		"id": 75,
-		"type": "Dragon",
-		"name": "Dragon Dance",
-		"img_name": "9_2"
-	},
-	{
-		"id": 76,
-		"type": "Dragon",
-		"name": "Dragon Darts",
-		"img_name": "9_3"
-	},
-	{
-		"id": 77,
-		"type": "Dragon",
-		"name": "Dragon Hammer",
-		"img_name": "9_4"
-	},
-	{
-		"id": 78,
-		"type": "Dragon",
-		"name": "Dragon Meteor",
-		"img_name": "8_9"
-	},
-	{
-		"id": 79,
-		"type": "Dragon",
-		"name": "Dragon Pulse",
-		"img_name": "9_5"
-	},
-	{
-		"id": 80,
-		"type": "Dragon",
-		"name": "Dragon Rage",
-		"img_name": "9_6"
-	},
-	{
-		"id": 81,
-		"type": "Dragon",
-		"name": "Dragon Rush",
-		"img_name": "9_7"
-	},
-	{
-		"id": 82,
-		"type": "Dragon",
-		"name": "Dragon Tail",
-		"img_name": "9_8"
-	},
-	{
-		"id": 83,
-		"type": "Dragon",
-		"name": "Dual Chop",
-		"img_name": "9_9"
-	},
-	{
-		"id": 84,
-		"type": "Dragon",
-		"name": "Dynamax Cannon",
-		"img_name": "9_10"
-	},
-	{
-		"id": 85,
-		"type": "Dragon",
-		"name": "Eternabeam",
-		"img_name": "10_1"
-	},
-	{
-		"id": 86,
-		"type": "Dragon",
-		"name": "Outrage",
-		"img_name": "10_2"
-	},
-	{
-		"id": 87,
-		"type": "Dragon",
-		"name": "Roar of Time",
-		"img_name": "10_3"
-	},
-	{
-		"id": 88,
-		"type": "Dragon",
-		"name": "Spacial Rend",
-		"img_name": "10_4"
-	},
-	{
-		"id": 89,
-		"type": "Dragon",
-		"name": "Twister",
-		"img_name": "10_5"
-	},
-	{
-		"id": 90,
-		"type": "Electric",
-		"name": "Aura Wheel",
-		"img_name": "10_8"
-	},
-	{
-		"id": 91,
-		"type": "Electric",
-		"name": "Bolt Beak",
-		"img_name": "10_9"
-	},
-	{
-		"id": 92,
-		"type": "Electric",
-		"name": "Bolt Strike",
-		"img_name": "10_10"
-	},
-	{
-		"id": 93,
-		"type": "Electric",
-		"name": "Buzzy Buzz",
-		"img_name": "11_1"
-	},
-	{
-		"id": 94,
-		"type": "Electric",
-		"name": "Charge",
-		"img_name": "11_2"
-	},
-	{
-		"id": 95,
-		"type": "Electric",
-		"name": "Charge Beam",
-		"img_name": "11_3"
-	},
-	{
-		"id": 96,
-		"type": "Electric",
-		"name": "Discharge",
-		"img_name": "11_4"
-	},
-	{
-		"id": 97,
-		"type": "Electric",
-		"name": "Eerie Impulse",
-		"img_name": "11_5"
-	},
-	{
-		"id": 98,
-		"type": "Electric",
-		"name": "Electric Terrain",
-		"img_name": "11_6"
-	},
-	{
-		"id": 99,
-		"type": "Electric",
-		"name": "Electrify",
-		"img_name": "11_7"
-	},
-	{
-		"id": 100,
-		"type": "Electric",
-		"name": "Electro Ball",
-		"img_name": "11_8"
-	},
-	{
-		"id": 101,
-		"type": "Electric",
-		"name": "Electroweb",
-		"img_name": "11_8"
-	},
-	{
-		"id": 102,
-		"type": "Electric",
-		"name": "Fusion Bolt",
-		"img_name": "11_10"
-	},
-	{
-		"id": 103,
-		"type": "Electric",
-		"name": "Ion Deluge",
-		"img_name": "12_1"
-	},
-	{
-		"id": 104,
-		"type": "Electric",
-		"name": "Magnet Rise",
-		"img_name": "12_2"
-	},
-	{
-		"id": 105,
-		"type": "Electric",
-		"name": "Magnetic Flux",
-		"img_name": "12_3"
-	},
-	{
-		"id": 106,
-		"type": "Electric",
-		"name": "Nuzzle",
-		"img_name": "12_4"
-	},
-	{
-		"id": 107,
-		"type": "Electric",
-		"name": "Overdrive",
-		"img_name": "12_5"
-	},
-	{
-		"id": 108,
-		"type": "Electric",
-		"name": "Parabolic Charge",
-		"img_name": "12_6"
-	},
-	{
-		"id": 109,
-		"type": "Electric",
-		"name": "Pika Papow",
-		"img_name": "12_6"
-	},
-	{
-		"id": 110,
-		"type": "Electric",
-		"name": "Plasma Fists",
-		"img_name": "12_8"
-	},
-	{
-		"id": 111,
-		"type": "Electric",
-		"name": "Shock Wave",
-		"img_name": "12_8"
-	},
-	{
-		"id": 112,
-		"type": "Electric",
-		"name": "Spark",
-		"img_name": "12_10"
-	},
-	{
-		"id": 113,
-		"type": "Electric",
-		"name": "Thunder",
-		"img_name": "13_1"
-	},
-	{
-		"id": 114,
-		"type": "Electric",
-		"name": "Thunder Fang",
-		"img_name": "13_2"
-	},
-	{
-		"id": 115,
-		"type": "Electric",
-		"name": "Thunder Punch",
-		"img_name": "13_3"
-	},
-	{
-		"id": 116,
-		"type": "Electric",
-		"name": "Thunder Shock",
-		"img_name": "13_4"
-	},
-	{
-		"id": 117,
-		"type": "Electric",
-		"name": "Thunder Wave",
-		"img_name": "13_5"
-	},
-	{
-		"id": 118,
-		"type": "Electric",
-		"name": "Thunderbolt",
-		"img_name": "13_6"
-	},
-	{
-		"id": 119,
-		"type": "Electric",
-		"name": "Volt Switch",
-		"img_name": "13_7"
-	},
-	{
-		"id": 120,
-		"type": "Electric",
-		"name": "Volt Tackle",
-		"img_name": "13_8"
-	},
-	{
-		"id": 121,
-		"type": "Electric",
-		"name": "Wild Charge",
-		"img_name": "13_9"
-	},
-	{
-		"id": 122,
-		"type": "Electric",
-		"name": "Zap Cannon",
-		"img_name": "13_10"
-	},
-	{
-		"id": 123,
-		"type": "Electric",
-		"name": "Zing Zap",
-		"img_name": "13_10"
-	},
-	{
-		"id": 124,
-		"type": "Electric",
-		"name": "Zippy Zap",
-		"img_name": "14_2"
-	},
-	{
-		"id": 125,
-		"type": "Fairy",
-		"name": "Aromatic Mist",
-		"img_name": "14_5"
-	},
-	{
-		"id": 126,
-		"type": "Fairy",
-		"name": "Baby-Doll Eyes",
-		"img_name": "14_6"
-	},
-	{
-		"id": 127,
-		"type": "Fairy",
-		"name": "Charm",
-		"img_name": "14_7"
-	},
-	{
-		"id": 128,
-		"type": "Fairy",
-		"name": "Crafty Shield",
-		"img_name": "14_8"
-	},
-	{
-		"id": 129,
-		"type": "Fairy",
-		"name": "Dazzling Gleam",
-		"img_name": "14_9"
-	},
-	{
-		"id": 130,
-		"type": "Fairy",
-		"name": "Decorate",
-		"img_name": "14_10"
-	},
-	{
-		"id": 131,
-		"type": "Fairy",
-		"name": "Disarming Voice",
-		"img_name": "15_1"
-	},
-	{
-		"id": 132,
-		"type": "Fairy",
-		"name": "Draining Kiss",
-		"img_name": "15_2"
-	},
-	{
-		"id": 133,
-		"type": "Fairy",
-		"name": "Fairy Lock",
-		"img_name": "15_3"
-	},
-	{
-		"id": 134,
-		"type": "Fairy",
-		"name": "Fairy Wind",
-		"img_name": "15_4"
-	},
-	{
-		"id": 135,
-		"type": "Fairy",
-		"name": "Fleur Cannon",
-		"img_name": "15_5"
-	},
-	{
-		"id": 136,
-		"type": "Fairy",
-		"name": "Floral Healing",
-		"img_name": "15_6"
-	},
-	{
-		"id": 137,
-		"type": "Fairy",
-		"name": "Flower Shield",
-		"img_name": "15_7"
-	},
-	{
-		"id": 138,
-		"type": "Fairy",
-		"name": "Geomancy",
-		"img_name": "15_8"
-	},
-	{
-		"id": 139,
-		"type": "Fairy",
-		"name": "Light of Ruin",
-		"img_name": "15_9"
-	},
-	{
-		"id": 140,
-		"type": "Fairy",
-		"name": "Misty Terrain",
-		"img_name": "15_10"
-	},
-	{
-		"id": 141,
-		"type": "Fairy",
-		"name": "Moonblast",
-		"img_name": "16_1"
-	},
-	{
-		"id": 142,
-		"type": "Fairy",
-		"name": "Moonlight",
-		"img_name": "16_2"
-	},
-	{
-		"id": 143,
-		"type": "Fairy",
-		"name": "Nature's Madness",
-		"img_name": "16_3"
-	},
-	{
-		"id": 144,
-		"type": "Fairy",
-		"name": "Play Rough",
-		"img_name": "16_4"
-	},
-	{
-		"id": 145,
-		"type": "Fairy",
-		"name": "Sparkly Swirl",
-		"img_name": "16_5"
-	},
-	{
-		"id": 146,
-		"type": "Fairy",
-		"name": "Spirit Break",
-		"img_name": "16_6"
-	},
-	{
-		"id": 147,
-		"type": "Fairy",
-		"name": "Strange Steam",
-		"img_name": "16_7"
-	},
-	{
-		"id": 148,
-		"type": "Fairy",
-		"name": "Sweet Kiss",
-		"img_name": "16_8"
-	},
-	{
-		"id": 149,
-		"type": "Fighting",
-		"name": "Arm Thrust",
-		"img_name": "17_1"
-	},
-	{
-		"id": 150,
-		"type": "Fighting",
-		"name": "Aura Sphere",
-		"img_name": "17_2"
-	},
-	{
-		"id": 151,
-		"type": "Fighting",
-		"name": "Body Press",
-		"img_name": "17_3"
-	},
-	{
-		"id": 152,
-		"type": "Fighting",
-		"name": "Brick Break",
-		"img_name": "17_4"
-	},
-	{
-		"id": 153,
-		"type": "Fighting",
-		"name": "Bulk Up",
-		"img_name": "17_5"
-	},
-	{
-		"id": 154,
-		"type": "Fighting",
-		"name": "Circle Throw",
-		"img_name": "17_6"
-	},
-	{
-		"id": 155,
-		"type": "Fighting",
-		"name": "Close Combat",
-		"img_name": "17_7"
-	},
-	{
-		"id": 156,
-		"type": "Fighting",
-		"name": "Counter",
-		"img_name": "17_8"
-	},
-	{
-		"id": 157,
-		"type": "Fighting",
-		"name": "Cross Chop",
-		"img_name": "17_9"
-	},
-	{
-		"id": 158,
-		"type": "Fighting",
-		"name": "Detect",
-		"img_name": "17_10"
-	},
-	{
-		"id": 159,
-		"type": "Fighting",
-		"name": "Double Kick",
-		"img_name": "18_1"
-	},
-	{
-		"id": 160,
-		"type": "Fighting",
-		"name": "Drain Punch",
-		"img_name": "18_2"
-	},
-	{
-		"id": 161,
-		"type": "Fighting",
-		"name": "Dynamic Punch",
-		"img_name": "18_3"
-	},
-	{
-		"id": 162,
-		"type": "Fighting",
-		"name": "Final Gambit",
-		"img_name": "18_4"
-	},
-	{
-		"id": 163,
-		"type": "Fighting",
-		"name": "Flying Press",
-		"img_name": "18_4"
-	},
-	{
-		"id": 164,
-		"type": "Fighting",
-		"name": "Focus Blast",
-		"img_name": "18_6"
-	},
-	{
-		"id": 165,
-		"type": "Fighting",
-		"name": "Focus Punch",
-		"img_name": "18_7"
-	},
-	{
-		"id": 166,
-		"type": "Fighting",
-		"name": "Force Palm",
-		"img_name": "18_8"
-	},
-	{
-		"id": 167,
-		"type": "Fighting",
-		"name": "Hammer Arm",
-		"img_name": "18_9"
-	},
-	{
-		"id": 168,
-		"type": "Fighting",
-		"name": "High Jump Kick",
-		"img_name": "18_10"
-	},
-	{
-		"id": 169,
-		"type": "Fighting",
-		"name": "Jump Kick",
-		"img_name": "19_1"
-	},
-	{
-		"id": 170,
-		"type": "Fighting",
-		"name": "Karate Chop",
-		"img_name": "19_2"
-	},
-	{
-		"id": 171,
-		"type": "Fighting",
-		"name": "Low Kick",
-		"img_name": "19_3"
-	},
-	{
-		"id": 172,
-		"type": "Fighting",
-		"name": "Low Sweep",
-		"img_name": "19_4"
-	},
-	{
-		"id": 173,
-		"type": "Fighting",
-		"name": "Mach Punch",
-		"img_name": "19_5"
-	},
-	{
-		"id": 174,
-		"type": "Fighting",
-		"name": "Mat Block",
-		"img_name": "19_6"
-	},
-	{
-		"id": 175,
-		"type": "Fighting",
-		"name": "Meteor Assault",
-		"img_name": "19_7"
-	},
-	{
-		"id": 176,
-		"type": "Fighting",
-		"name": "No Retrat",
-		"img_name": "19_8"
-	},
-	{
-		"id": 177,
-		"type": "Fighting",
-		"name": "Octolock",
-		"img_name": "19_9"
-	},
-	{
-		"id": 178,
-		"type": "Fighting",
-		"name": "Power-up Punch",
-		"img_name": "19_10"
-	},
-	{
-		"id": 179,
-		"type": "Fighting",
-		"name": "Quick Guard",
-		"img_name": "20_1"
-	},
-	{
-		"id": 180,
-		"type": "Fighting",
-		"name": "Revenge",
-		"img_name": "20_2"
-	},
-	{
-		"id": 181,
-		"type": "Fighting",
-		"name": "Reversal",
-		"img_name": "20_3"
-	},
-	{
-		"id": 182,
-		"type": "Fighting",
-		"name": "Rock Smash",
-		"img_name": "20_4"
-	},
-	{
-		"id": 183,
-		"type": "Fighting",
-		"name": "Rolling Kick",
-		"img_name": "20_5"
-	},
-	{
-		"id": 184,
-		"type": "Fighting",
-		"name": "Sacred Sword",
-		"img_name": "20_6"
-	},
-	{
-		"id": 185,
-		"type": "Fighting",
-		"name": "Secret Sword",
-		"img_name": "20_7"
-	},
-	{
-		"id": 186,
-		"type": "Fighting",
-		"name": "Seismic Toss",
-		"img_name": "20_8"
-	},
-	{
-		"id": 187,
-		"type": "Fighting",
-		"name": "Sky Uppercut",
-		"img_name": "20_9"
-	},
-	{
-		"id": 188,
-		"type": "Fighting",
-		"name": "Storm Throw",
-		"img_name": "20_10"
-	},
-	{
-		"id": 189,
-		"type": "Fighting",
-		"name": "Submission",
-		"img_name": "21_1"
-	},
-	{
-		"id": 190,
-		"type": "Fighting",
-		"name": "Superpower",
-		"img_name": "21_2"
-	},
-	{
-		"id": 191,
-		"type": "Fighting",
-		"name": "Triple Kick",
-		"img_name": "21_3"
-	},
-	{
-		"id": 192,
-		"type": "Fighting",
-		"name": "Vacuum Wave",
-		"img_name": "21_4"
-	},
-	{
-		"id": 193,
-		"type": "Fighting",
-		"name": "Vital Throw",
-		"img_name": "21_5"
-	},
-	{
-		"id": 194,
-		"type": "Fighting",
-		"name": "Wake-up Slap",
-		"img_name": "21_6"
-	},
-	{
-		"id": 195,
-		"type": "Fire",
-		"name": "Blast Burn",
-		"img_name": "21_9"
-	},
-	{
-		"id": 196,
-		"type": "Fire",
-		"name": "Blaze Kick",
-		"img_name": "21_10"
-	},
-	{
-		"id": 197,
-		"type": "Fire",
-		"name": "Blue Flare",
-		"img_name": "22_1"
-	},
-	{
-		"id": 198,
-		"type": "Fire",
-		"name": "Burn Up",
-		"img_name": "22_2"
-	},
-	{
-		"id": 199,
-		"type": "Fire",
-		"name": "Ember",
-		"img_name": "22_3"
-	},
-	{
-		"id": 200,
-		"type": "Fire",
-		"name": "Eruption",
-		"img_name": "22_4"
-	},
-	{
-		"id": 201,
-		"type": "Fire",
-		"name": "Fiery Dance",
-		"img_name": "22_5"
-	},
-	{
-		"id": 202,
-		"type": "Fire",
-		"name": "Fire Blast",
-		"img_name": "22_6"
-	},
-	{
-		"id": 203,
-		"type": "Fire",
-		"name": "Fire Fang",
-		"img_name": "22_7"
-	},
-	{
-		"id": 204,
-		"type": "Fire",
-		"name": "Fire Lash",
-		"img_name": "22_8"
-	},
-	{
-		"id": 205,
-		"type": "Fire",
-		"name": "Fire Pledge",
-		"img_name": "22_9"
-	},
-	{
-		"id": 206,
-		"type": "Fire",
-		"name": "Fire Punch",
-		"img_name": "22_10"
-	},
-	{
-		"id": 207,
-		"type": "Fire",
-		"name": "Fire Spin",
-		"img_name": "23_1"
-	},
-	{
-		"id": 208,
-		"type": "Fire",
-		"name": "Flame Burst",
-		"img_name": "23_2"
-	},
-	{
-		"id": 209,
-		"type": "Fire",
-		"name": "Flame Charge",
-		"img_name": "23_3"
-	},
-	{
-		"id": 210,
-		"type": "Fire",
-		"name": "Flame Wheel",
-		"img_name": "23_4"
-	},
-	{
-		"id": 211,
-		"type": "Fire",
-		"name": "Flamethrower",
-		"img_name": "23_5"
-	},
-	{
-		"id": 212,
-		"type": "Fire",
-		"name": "Flare Blitz",
-		"img_name": "23_6"
-	},
-	{
-		"id": 213,
-		"type": "Fire",
-		"name": "Fusion Flare",
-		"img_name": "23_7"
-	},
-	{
-		"id": 214,
-		"type": "Fire",
-		"name": "Heat Crash",
-		"img_name": "23_8"
-	},
-	{
-		"id": 215,
-		"type": "Fire",
-		"name": "Heat Wave",
-		"img_name": "23_9"
-	},
-	{
-		"id": 216,
-		"type": "Fire",
-		"name": "Incinerate",
-		"img_name": "23_10"
-	},
-	{
-		"id": 217,
-		"type": "Fire",
-		"name": "Inferno",
-		"img_name": "24_1"
-	},
-	{
-		"id": 218,
-		"type": "Fire",
-		"name": "Lava Plume",
-		"img_name": "24_2"
-	},
-	{
-		"id": 219,
-		"type": "Fire",
-		"name": "Magma Storm",
-		"img_name": "24_3"
-	},
-	{
-		"id": 220,
-		"type": "Fire",
-		"name": "Mind Blown",
-		"img_name": "24_4"
-	},
-	{
-		"id": 221,
-		"type": "Fire",
-		"name": "Mystical Fire",
-		"img_name": "24_5"
-	},
-	{
-		"id": 222,
-		"type": "Fire",
-		"name": "Overheat",
-		"img_name": "24_6"
-	},
-	{
-		"id": 223,
-		"type": "Fire",
-		"name": "Pyro Ball",
-		"img_name": "24_7"
-	},
-	{
-		"id": 224,
-		"type": "Fire",
-		"name": "Sacred Fire",
-		"img_name": "24_8"
-	},
-	{
-		"id": 225,
-		"type": "Fire",
-		"name": "Searing Shot",
-		"img_name": "24_9"
-	},
-	{
-		"id": 226,
-		"type": "Fire",
-		"name": "Shell Trap",
-		"img_name": "24_10"
-	},
-	{
-		"id": 227,
-		"type": "Fire",
-		"name": "Sizzly Slide",
-		"img_name": "25_1"
-	},
-	{
-		"id": 228,
-		"type": "Fire",
-		"name": "Sunny Day",
-		"img_name": "25_2"
-	},
-	{
-		"id": 229,
-		"type": "Fire",
-		"name": "V-Create",
-		"img_name": "25_3"
-	},
-	{
-		"id": 230,
-		"type": "Fire",
-		"name": "Will-o-Wisp",
-		"img_name": "25_4"
-	},
-	{
-		"id": 231,
-		"type": "Flying",
-		"name": "Acrobatics",
-		"img_name": "25_7"
-	},
-	{
-		"id": 232,
-		"type": "Flying",
-		"name": "Aerial Ace",
-		"img_name": "25_8"
-	},
-	{
-		"id": 233,
-		"type": "Flying",
-		"name": "Aeroblast",
-		"img_name": "25_9"
-	},
-	{
-		"id": 234,
-		"type": "Flying",
-		"name": "Air Cutter",
-		"img_name": "25_10"
-	},
-	{
-		"id": 235,
-		"type": "Flying",
-		"name": "Air Slash",
-		"img_name": "26_1"
-	},
-	{
-		"id": 236,
-		"type": "Flying",
-		"name": "Beak Blast",
-		"img_name": "26_2"
-	},
-	{
-		"id": 237,
-		"type": "Flying",
-		"name": "Bounce",
-		"img_name": "26_3"
-	},
-	{
-		"id": 238,
-		"type": "Flying",
-		"name": "Brave Bird",
-		"img_name": "26_4"
-	},
-	{
-		"id": 239,
-		"type": "Flying",
-		"name": "Chatter",
-		"img_name": "26_5"
-	},
-	{
-		"id": 240,
-		"type": "Flying",
-		"name": "Defog",
-		"img_name": "26_6"
-	},
-	{
-		"id": 241,
-		"type": "Flying",
-		"name": "Dragon Ascent",
-		"img_name": "26_7"
-	},
-	{
-		"id": 242,
-		"type": "Flying",
-		"name": "Drill Peck",
-		"img_name": "26_8"
-	},
-	{
-		"id": 243,
-		"type": "Flying",
-		"name": "Feather Dance",
-		"img_name": "26_9"
-	},
-	{
-		"id": 244,
-		"type": "Flying",
-		"name": "Floaty Fall",
-		"img_name": "26_10"
-	},
-	{
-		"id": 245,
-		"type": "Flying",
-		"name": "Fly",
-		"img_name": "27_1"
-	},
-	{
-		"id": 246,
-		"type": "Flying",
-		"name": "Gust",
-		"img_name": "27_2"
-	},
-	{
-		"id": 247,
-		"type": "Flying",
-		"name": "Hurricane",
-		"img_name": "27_3"
-	},
-	{
-		"id": 248,
-		"type": "Flying",
-		"name": "Mirror Move",
-		"img_name": "27_4"
-	},
-	{
-		"id": 249,
-		"type": "Flying",
-		"name": "Oblivion Wing",
-		"img_name": "27_5"
-	},
-	{
-		"id": 250,
-		"type": "Flying",
-		"name": "Peck",
-		"img_name": "27_6"
-	},
-	{
-		"id": 251,
-		"type": "Flying",
-		"name": "Pluck",
-		"img_name": "27_7"
-	},
-	{
-		"id": 252,
-		"type": "Flying",
-		"name": "Roost",
-		"img_name": "27_8"
-	},
-	{
-		"id": 253,
-		"type": "Flying",
-		"name": "Sky Attack",
-		"img_name": "27_9"
-	},
-	{
-		"id": 254,
-		"type": "Flying",
-		"name": "Sky Drop",
-		"img_name": "27_10"
-	},
-	{
-		"id": 255,
-		"type": "Flying",
-		"name": "Tailwind",
-		"img_name": "28_1"
-	},
-	{
-		"id": 256,
-		"type": "Flying",
-		"name": "Wing Attack",
-		"img_name": "28_2"
-	},
-	{
-		"id": 257,
-		"type": "Ghost",
-		"name": "Astonish",
-		"img_name": "28_5"
-	},
-	{
-		"id": 258,
-		"type": "Ghost",
-		"name": "Confuse Ray",
-		"img_name": "28_6"
-	},
-	{
-		"id": 259,
-		"type": "Ghost",
-		"name": "Curse",
-		"img_name": "28_7"
-	},
-	{
-		"id": 260,
-		"type": "Ghost",
-		"name": "Curse (Non-Ghost User)",
-		"img_name": "28_8"
-	},
-	{
-		"id": 261,
-		"type": "Ghost",
-		"name": "Destiny Bond",
-		"img_name": "28_9"
-	},
-	{
-		"id": 262,
-		"type": "Ghost",
-		"name": "Grudge",
-		"img_name": "28_10"
-	},
-	{
-		"id": 263,
-		"type": "Ghost",
-		"name": "Hex",
-		"img_name": "29_1"
-	},
-	{
-		"id": 264,
-		"type": "Ghost",
-		"name": "Lick",
-		"img_name": "29_2"
-	},
-	{
-		"id": 265,
-		"type": "Ghost",
-		"name": "Moongeist Beam",
-		"img_name": "29_3"
-	},
-	{
-		"id": 266,
-		"type": "Ghost",
-		"name": "Night Shade",
-		"img_name": "29_4"
-	},
-	{
-		"id": 267,
-		"type": "Ghost",
-		"name": "Nightmare",
-		"img_name": "29_5"
-	},
-	{
-		"id": 268,
-		"type": "Ghost",
-		"name": "Ominous Wind",
-		"img_name": "29_6"
-	},
-	{
-		"id": 269,
-		"type": "Ghost",
-		"name": "Phantom Force",
-		"img_name": "29_7"
-	},
-	{
-		"id": 270,
-		"type": "Ghost",
-		"name": "Shadow Ball",
-		"img_name": "29_8"
-	},
-	{
-		"id": 271,
-		"type": "Ghost",
-		"name": "Shadow Bone",
-		"img_name": "29_9"
-	},
-	{
-		"id": 272,
-		"type": "Ghost",
-		"name": "Shadow Claw",
-		"img_name": "29_10"
-	},
-	{
-		"id": 273,
-		"type": "Ghost",
-		"name": "Shadow Force",
-		"img_name": "29_10"
-	},
-	{
-		"id": 274,
-		"type": "Ghost",
-		"name": "Shadow Punch",
-		"img_name": "30_2"
-	},
-	{
-		"id": 275,
-		"type": "Ghost",
-		"name": "Shadow Sneak",
-		"img_name": "30_3"
-	},
-	{
-		"id": 276,
-		"type": "Ghost",
-		"name": "Spectral Thief",
-		"img_name": "30_4"
-	},
-	{
-		"id": 277,
-		"type": "Ghost",
-		"name": "Spirit Shackle",
-		"img_name": "30_5"
-	},
-	{
-		"id": 278,
-		"type": "Ghost",
-		"name": "Spite",
-		"img_name": "30_6"
-	},
-	{
-		"id": 279,
-		"type": "Ghost",
-		"name": "Trick-or-Treat",
-		"img_name": "30_7"
-	},
-	{
-		"id": 280,
-		"type": "Grass",
-		"name": "Absorb",
-		"img_name": "30_10"
-	},
-	{
-		"id": 281,
-		"type": "Grass",
-		"name": "Apple Acid",
-		"img_name": "31_1"
-	},
-	{
-		"id": 282,
-		"type": "Grass",
-		"name": "Aromatherapy",
-		"img_name": "31_2"
-	},
-	{
-		"id": 283,
-		"type": "Grass",
-		"name": "Branch Poke",
-		"img_name": "31_3"
-	},
-	{
-		"id": 284,
-		"type": "Grass",
-		"name": "Bullet Seed",
-		"img_name": "31_4"
-	},
-	{
-		"id": 285,
-		"type": "Grass",
-		"name": "Cotton Guard",
-		"img_name": "31_5"
-	},
-	{
-		"id": 286,
-		"type": "Grass",
-		"name": "Cotton Spore",
-		"img_name": "31_6"
-	},
-	{
-		"id": 287,
-		"type": "Grass",
-		"name": "Drum Beating",
-		"img_name": "31_7"
-	},
-	{
-		"id": 288,
-		"type": "Grass",
-		"name": "Energy Ball",
-		"img_name": "31_8"
-	},
-	{
-		"id": 289,
-		"type": "Grass",
-		"name": "Forest's Curse",
-		"img_name": "31_9"
-	},
-	{
-		"id": 290,
-		"type": "Grass",
-		"name": "Frenzy Plant",
-		"img_name": "31_10"
-	},
-	{
-		"id": 291,
-		"type": "Grass",
-		"name": "Giga Drain",
-		"img_name": "32_1"
-	},
-	{
-		"id": 292,
-		"type": "Grass",
-		"name": "Grass Knot",
-		"img_name": "32_2"
-	},
-	{
-		"id": 293,
-		"type": "Grass",
-		"name": "Grass Pledge",
-		"img_name": "32_3"
-	},
-	{
-		"id": 294,
-		"type": "Grass",
-		"name": "Grass Whistle",
-		"img_name": "32_4"
-	},
-	{
-		"id": 295,
-		"type": "Grass",
-		"name": "Grassy Terrain",
-		"img_name": "32_5"
-	},
-	{
-		"id": 296,
-		"type": "Grass",
-		"name": "Grav Apple",
-		"img_name": "32_6"
-	},
-	{
-		"id": 297,
-		"type": "Grass",
-		"name": "Horn Leech",
-		"img_name": "32_7"
-	},
-	{
-		"id": 298,
-		"type": "Grass",
-		"name": "Ingrain",
-		"img_name": "32_8"
-	},
-	{
-		"id": 299,
-		"type": "Grass",
-		"name": "Leaf Blade",
-		"img_name": "32_9"
-	},
-	{
-		"id": 300,
-		"type": "Grass",
-		"name": "Leaf Storm",
-		"img_name": "32_10"
-	},
-	{
-		"id": 301,
-		"type": "Grass",
-		"name": "Leaf Tornado",
-		"img_name": "33_1"
-	},
-	{
-		"id": 302,
-		"type": "Grass",
-		"name": "Leafage",
-		"img_name": "33_2"
-	},
-	{
-		"id": 303,
-		"type": "Grass",
-		"name": "Leech Seed",
-		"img_name": "33_3"
-	},
-	{
-		"id": 304,
-		"type": "Grass",
-		"name": "Magical Leaf",
-		"img_name": "33_4"
-	},
-	{
-		"id": 305,
-		"type": "Grass",
-		"name": "Mega Drain",
-		"img_name": "33_5"
-	},
-	{
-		"id": 306,
-		"type": "Grass",
-		"name": "Needle Arm",
-		"img_name": "33_6"
-	},
-	{
-		"id": 307,
-		"type": "Grass",
-		"name": "Petal Blizzard",
-		"img_name": "33_7"
-	},
-	{
-		"id": 308,
-		"type": "Grass",
-		"name": "Petal Dance",
-		"img_name": "33_8"
-	},
-	{
-		"id": 309,
-		"type": "Grass",
-		"name": "Power Whip",
-		"img_name": "33_9"
-	},
-	{
-		"id": 310,
-		"type": "Grass",
-		"name": "Razor Leaf",
-		"img_name": "33_10"
-	},
-	{
-		"id": 311,
-		"type": "Grass",
-		"name": "Sappy Seed",
-		"img_name": "34_1"
-	},
-	{
-		"id": 312,
-		"type": "Grass",
-		"name": "Seed Bomb",
-		"img_name": "34_2"
-	},
-	{
-		"id": 313,
-		"type": "Grass",
-		"name": "Seed Flare",
-		"img_name": "34_3"
-	},
-	{
-		"id": 314,
-		"type": "Grass",
-		"name": "Sleep Powder",
-		"img_name": "34_4"
-	},
-	{
-		"id": 315,
-		"type": "Grass",
-		"name": "Snap Trap",
-		"img_name": "34_5"
-	},
-	{
-		"id": 316,
-		"type": "Grass",
-		"name": "Solar Beam",
-		"img_name": "34_6"
-	},
-	{
-		"id": 317,
-		"type": "Grass",
-		"name": "Solar Blade",
-		"img_name": "34_7"
-	},
-	{
-		"id": 318,
-		"type": "Grass",
-		"name": "Spiky Shield",
-		"img_name": "34_8"
-	},
-	{
-		"id": 319,
-		"type": "Grass",
-		"name": "Spore",
-		"img_name": "34_9"
-	},
-	{
-		"id": 320,
-		"type": "Grass",
-		"name": "Strength Sap",
-		"img_name": "34_10"
-	},
-	{
-		"id": 321,
-		"type": "Grass",
-		"name": "Stun Spore",
-		"img_name": "35_1"
-	},
-	{
-		"id": 322,
-		"type": "Grass",
-		"name": "Synthesis",
-		"img_name": "35_2"
-	},
-	{
-		"id": 323,
-		"type": "Grass",
-		"name": "Trop Kick",
-		"img_name": "35_3"
-	},
-	{
-		"id": 324,
-		"type": "Grass",
-		"name": "Vine Whip",
-		"img_name": "35_4"
-	},
-	{
-		"id": 325,
-		"type": "Grass",
-		"name": "Wood Hammer",
-		"img_name": "35_5"
-	},
-	{
-		"id": 326,
-		"type": "Grass",
-		"name": "Worry Seed",
-		"img_name": "35_6"
-	},
-	{
-		"id": 327,
-		"type": "Ground",
-		"name": "Bone Club",
-		"img_name": "35_9"
-	},
-	{
-		"id": 328,
-		"type": "Ground",
-		"name": "Bone Rush",
-		"img_name": "35_10"
-	},
-	{
-		"id": 329,
-		"type": "Ground",
-		"name": "Bonemerang",
-		"img_name": "36_1"
-	},
-	{
-		"id": 330,
-		"type": "Ground",
-		"name": "Bulldoze",
-		"img_name": "36_2"
-	},
-	{
-		"id": 331,
-		"type": "Ground",
-		"name": "Dig",
-		"img_name": "36_3"
-	},
-	{
-		"id": 332,
-		"type": "Ground",
-		"name": "Drill Run",
-		"img_name": "36_4"
-	},
-	{
-		"id": 333,
-		"type": "Ground",
-		"name": "Earth Power",
-		"img_name": "36_5"
-	},
-	{
-		"id": 334,
-		"type": "Ground",
-		"name": "Earthquake",
-		"img_name": "36_6"
-	},
-	{
-		"id": 335,
-		"type": "Ground",
-		"name": "Fissure",
-		"img_name": "36_7"
-	},
-	{
-		"id": 336,
-		"type": "Ground",
-		"name": "High Horsepower",
-		"img_name": "36_8"
-	},
-	{
-		"id": 337,
-		"type": "Ground",
-		"name": "Land's Wrath",
-		"img_name": "36_9"
-	},
-	{
-		"id": 338,
-		"type": "Ground",
-		"name": "Magnitude",
-		"img_name": "36_10"
-	},
-	{
-		"id": 339,
-		"type": "Ground",
-		"name": "Mud Bomb",
-		"img_name": "37_1"
-	},
-	{
-		"id": 340,
-		"type": "Ground",
-		"name": "Mud Shot",
-		"img_name": "37_2"
-	},
-	{
-		"id": 341,
-		"type": "Ground",
-		"name": "Mud Slap",
-		"img_name": "37_3"
-	},
-	{
-		"id": 342,
-		"type": "Ground",
-		"name": "Mud Sport",
-		"img_name": "37_4"
-	},
-	{
-		"id": 343,
-		"type": "Ground",
-		"name": "Precipice Blades",
-		"img_name": "37_5"
-	},
-	{
-		"id": 344,
-		"type": "Ground",
-		"name": "Rototiller",
-		"img_name": "37_6"
-	},
-	{
-		"id": 345,
-		"type": "Ground",
-		"name": "Sand Attack",
-		"img_name": "37_7"
-	},
-	{
-		"id": 346,
-		"type": "Ground",
-		"name": "Sand Tomb",
-		"img_name": "37_8"
-	},
-	{
-		"id": 347,
-		"type": "Ground",
-		"name": "Shore Up",
-		"img_name": "37_9"
-	},
-	{
-		"id": 348,
-		"type": "Ground",
-		"name": "Spikes",
-		"img_name": "37_10"
-	},
-	{
-		"id": 349,
-		"type": "Ground",
-		"name": "Stomping Tantrum",
-		"img_name": "38_1"
-	},
-	{
-		"id": 350,
-		"type": "Ground",
-		"name": "Thousand Arrows",
-		"img_name": "38_2"
-	},
-	{
-		"id": 351,
-		"type": "Ground",
-		"name": "Thousand Waves",
-		"img_name": "38_3"
-	},
-	{
-		"id": 352,
-		"type": "Ice",
-		"name": "Aurora Beam",
-		"img_name": "38_6"
-	},
-	{
-		"id": 353,
-		"type": "Ice",
-		"name": "Aurora Veil",
-		"img_name": "38_7"
-	},
-	{
-		"id": 354,
-		"type": "Ice",
-		"name": "Avalanche",
-		"img_name": "38_8"
-	},
-	{
-		"id": 355,
-		"type": "Ice",
-		"name": "Blizzard",
-		"img_name": "38_9"
-	},
-	{
-		"id": 356,
-		"type": "Ice",
-		"name": "Freeze Shock",
-		"img_name": "38_10"
-	},
-	{
-		"id": 357,
-		"type": "Ice",
-		"name": "Freeze-Dry",
-		"img_name": "39_1"
-	},
-	{
-		"id": 358,
-		"type": "Ice",
-		"name": "Freezy Frost",
-		"img_name": "39_2"
-	},
-	{
-		"id": 359,
-		"type": "Ice",
-		"name": "Frost Breath",
-		"img_name": "39_3"
-	},
-	{
-		"id": 360,
-		"type": "Ice",
-		"name": "Glaciate",
-		"img_name": "39_4"
-	},
-	{
-		"id": 361,
-		"type": "Ice",
-		"name": "Hail",
-		"img_name": "39_5"
-	},
-	{
-		"id": 362,
-		"type": "Ice",
-		"name": "Haze",
-		"img_name": "39_6"
-	},
-	{
-		"id": 363,
-		"type": "Ice",
-		"name": "Ice Ball",
-		"img_name": "39_7"
-	},
-	{
-		"id": 364,
-		"type": "Ice",
-		"name": "Ice Beam",
-		"img_name": "39_8"
-	},
-	{
-		"id": 365,
-		"type": "Ice",
-		"name": "Ice Burn",
-		"img_name": "39_9"
-	},
-	{
-		"id": 366,
-		"type": "Ice",
-		"name": "Ice Fang",
-		"img_name": "39_10"
-	},
-	{
-		"id": 367,
-		"type": "Ice",
-		"name": "Ice Hammer",
-		"img_name": "40_1"
-	},
-	{
-		"id": 368,
-		"type": "Ice",
-		"name": "Ice Punch",
-		"img_name": "40_2"
-	},
-	{
-		"id": 369,
-		"type": "Ice",
-		"name": "Ice Shard",
-		"img_name": "40_3"
-	},
-	{
-		"id": 370,
-		"type": "Ice",
-		"name": "Icicle Crash",
-		"img_name": "40_4"
-	},
-	{
-		"id": 371,
-		"type": "Ice",
-		"name": "Icicle Spear",
-		"img_name": "40_5"
-	},
-	{
-		"id": 372,
-		"type": "Ice",
-		"name": "Icy Wind",
-		"img_name": "40_6"
-	},
-	{
-		"id": 373,
-		"type": "Ice",
-		"name": "Mist",
-		"img_name": "40_7"
-	},
-	{
-		"id": 374,
-		"type": "Ice",
-		"name": "Powder Snow",
-		"img_name": "40_8"
-	},
-	{
-		"id": 375,
-		"type": "Ice",
-		"name": "Sheer Cold",
-		"img_name": "40_9"
-	},
-	{
-		"id": 376,
-		"type": "Normal",
-		"name": "Accupressure",
-		"img_name": "41_2"
-	},
-	{
-		"id": 377,
-		"type": "Normal",
-		"name": "After You",
-		"img_name": "41_3"
-	},
-	{
-		"id": 378,
-		"type": "Normal",
-		"name": "Assist",
-		"img_name": "41_4"
-	},
-	{
-		"id": 379,
-		"type": "Normal",
-		"name": "Attract",
-		"img_name": "41_5"
-	},
-	{
-		"id": 380,
-		"type": "Normal",
-		"name": "Barrage",
-		"img_name": "41_6"
-	},
-	{
-		"id": 381,
-		"type": "Normal",
-		"name": "Batton Pass",
-		"img_name": "41_7"
-	},
-	{
-		"id": 382,
-		"type": "Normal",
-		"name": "Belly Drum",
-		"img_name": "41_8"
-	},
-	{
-		"id": 383,
-		"type": "Normal",
-		"name": "Bestow",
-		"img_name": "41_9"
-	},
-	{
-		"id": 384,
-		"type": "Normal",
-		"name": "Bide",
-		"img_name": "41_10"
-	},
-	{
-		"id": 385,
-		"type": "Normal",
-		"name": "Bind",
-		"img_name": "42_1"
-	},
-	{
-		"id": 386,
-		"type": "Normal",
-		"name": "Block",
-		"img_name": "42_2"
-	},
-	{
-		"id": 387,
-		"type": "Normal",
-		"name": "Body Slam",
-		"img_name": "42_3"
-	},
-	{
-		"id": 388,
-		"type": "Normal",
-		"name": "Boomburst",
-		"img_name": "42_4"
-	},
-	{
-		"id": 389,
-		"type": "Normal",
-		"name": "Camouflage",
-		"img_name": "42_5"
-	},
-	{
-		"id": 390,
-		"type": "Normal",
-		"name": "Captivate",
-		"img_name": "42_6"
-	},
-	{
-		"id": 391,
-		"type": "Normal",
-		"name": "Chip Away",
-		"img_name": "42_7"
-	},
-	{
-		"id": 392,
-		"type": "Normal",
-		"name": "Comet Punch",
-		"img_name": "42_8"
-	},
-	{
-		"id": 393,
-		"type": "Normal",
-		"name": "Confide",
-		"img_name": "42_9"
-	},
-	{
-		"id": 394,
-		"type": "Normal",
-		"name": "Constrict",
-		"img_name": "42_10"
-	},
-	{
-		"id": 395,
-		"type": "Normal",
-		"name": "Conversion",
-		"img_name": "43_1"
-	},
-	{
-		"id": 396,
-		"type": "Normal",
-		"name": "Conversion 2",
-		"img_name": "43_2"
-	},
-	{
-		"id": 397,
-		"type": "Normal",
-		"name": "Copycat",
-		"img_name": "43_3"
-	},
-	{
-		"id": 398,
-		"type": "Normal",
-		"name": "Court Change",
-		"img_name": "43_4"
-	},
-	{
-		"id": 399,
-		"type": "Normal",
-		"name": "Covet",
-		"img_name": "43_5"
-	},
-	{
-		"id": 400,
-		"type": "Normal",
-		"name": "Crush Claw",
-		"img_name": "43_6"
-	},
-	{
-		"id": 401,
-		"type": "Normal",
-		"name": "Crush Grip",
-		"img_name": "43_7"
-	},
-	{
-		"id": 402,
-		"type": "Normal",
-		"name": "Cut",
-		"img_name": "43_8"
-	},
-	{
-		"id": 403,
-		"type": "Normal",
-		"name": "Defense Curl",
-		"img_name": "43_9"
-	},
-	{
-		"id": 404,
-		"type": "Normal",
-		"name": "Disable",
-		"img_name": "43_10"
-	},
-	{
-		"id": 405,
-		"type": "Normal",
-		"name": "Dizzy Punch",
-		"img_name": "44_1"
-	},
-	{
-		"id": 406,
-		"type": "Normal",
-		"name": "Double Hit",
-		"img_name": "44_2"
-	},
-	{
-		"id": 407,
-		"type": "Normal",
-		"name": "Double Slap",
-		"img_name": "44_3"
-	},
-	{
-		"id": 408,
-		"type": "Normal",
-		"name": "Double Team",
-		"img_name": "44_4"
-	},
-	{
-		"id": 409,
-		"type": "Normal",
-		"name": "Double-Edge",
-		"img_name": "44_5"
-	},
-	{
-		"id": 410,
-		"type": "Normal",
-		"name": "Echoed Voice",
-		"img_name": "44_6"
-	},
-	{
-		"id": 411,
-		"type": "Normal",
-		"name": "Egg Bomb",
-		"img_name": "44_7"
-	},
-	{
-		"id": 412,
-		"type": "Normal",
-		"name": "Encore",
-		"img_name": "44_8"
-	},
-	{
-		"id": 413,
-		"type": "Normal",
-		"name": "Endeavor",
-		"img_name": "44_9"
-	},
-	{
-		"id": 414,
-		"type": "Normal",
-		"name": "Endure",
-		"img_name": "44_10"
-	},
-	{
-		"id": 415,
-		"type": "Normal",
-		"name": "Entrainment",
-		"img_name": "45_1"
-	},
-	{
-		"id": 416,
-		"type": "Normal",
-		"name": "Explosion",
-		"img_name": "45_2"
-	},
-	{
-		"id": 417,
-		"type": "Normal",
-		"name": "Extreme Speed",
-		"img_name": "45_3"
-	},
-	{
-		"id": 418,
-		"type": "Normal",
-		"name": "Facade",
-		"img_name": "45_4"
-	},
-	{
-		"id": 419,
-		"type": "Normal",
-		"name": "Fake Out",
-		"img_name": "45_5"
-	},
-	{
-		"id": 420,
-		"type": "Normal",
-		"name": "False Swipe",
-		"img_name": "45_6"
-	},
-	{
-		"id": 421,
-		"type": "Normal",
-		"name": "Feint",
-		"img_name": "45_7"
-	},
-	{
-		"id": 422,
-		"type": "Normal",
-		"name": "Flail",
-		"img_name": "45_8"
-	},
-	{
-		"id": 423,
-		"type": "Normal",
-		"name": "Flash",
-		"img_name": "45_9"
-	},
-	{
-		"id": 424,
-		"type": "Normal",
-		"name": "Focus Energy",
-		"img_name": "45_10"
-	},
-	{
-		"id": 425,
-		"type": "Normal",
-		"name": "Follow Me",
-		"img_name": "46_1"
-	},
-	{
-		"id": 426,
-		"type": "Normal",
-		"name": "Foresight",
-		"img_name": "46_2"
-	},
-	{
-		"id": 427,
-		"type": "Normal",
-		"name": "Frustration",
-		"img_name": "46_3"
-	},
-	{
-		"id": 428,
-		"type": "Normal",
-		"name": "Fury Attack",
-		"img_name": "46_4"
-	},
-	{
-		"id": 429,
-		"type": "Normal",
-		"name": "Fury Swipes",
-		"img_name": "46_5"
-	},
-	{
-		"id": 430,
-		"type": "Normal",
-		"name": "Giga Impact",
-		"img_name": "46_6"
-	},
-	{
-		"id": 431,
-		"type": "Normal",
-		"name": "Glare",
-		"img_name": "46_7"
-	},
-	{
-		"id": 432,
-		"type": "Normal",
-		"name": "Growl",
-		"img_name": "46_8"
-	},
-	{
-		"id": 433,
-		"type": "Normal",
-		"name": "Growth",
-		"img_name": "46_9"
-	},
-	{
-		"id": 434,
-		"type": "Normal",
-		"name": "Guillotine",
-		"img_name": "46_10"
-	},
-	{
-		"id": 435,
-		"type": "Normal",
-		"name": "Harden",
-		"img_name": "47_1"
-	},
-	{
-		"id": 436,
-		"type": "Normal",
-		"name": "Head Charge",
-		"img_name": "47_2"
-	},
-	{
-		"id": 437,
-		"type": "Normal",
-		"name": "Headbutt",
-		"img_name": "47_3"
-	},
-	{
-		"id": 438,
-		"type": "Normal",
-		"name": "Heal Bell",
-		"img_name": "47_4"
-	},
-	{
-		"id": 439,
-		"type": "Normal",
-		"name": "Helping Hand",
-		"img_name": "47_5"
-	},
-	{
-		"id": 440,
-		"type": "Normal",
-		"name": "Hidden Power",
-		"img_name": "47_6"
-	},
-	{
-		"id": 441,
-		"type": "Normal",
-		"name": "Horn Attack",
-		"img_name": "47_7"
-	},
-	{
-		"id": 442,
-		"type": "Normal",
-		"name": "Horn Drill",
-		"img_name": "47_8"
-	},
-	{
-		"id": 443,
-		"type": "Normal",
-		"name": "Howl",
-		"img_name": "47_9"
-	},
-	{
-		"id": 444,
-		"type": "Normal",
-		"name": "Hyper Beam",
-		"img_name": "47_10"
-	},
-	{
-		"id": 445,
-		"type": "Normal",
-		"name": "Hyper Fang",
-		"img_name": "48_1"
-	},
-	{
-		"id": 446,
-		"type": "Normal",
-		"name": "Hyper Voice",
-		"img_name": "48_2"
-	},
-	{
-		"id": 447,
-		"type": "Normal",
-		"name": "Judgment",
-		"img_name": "48_3"
-	},
-	{
-		"id": 448,
-		"type": "Normal",
-		"name": "Laser Focus",
-		"img_name": "48_4"
-	},
-	{
-		"id": 449,
-		"type": "Normal",
-		"name": "Last Resort",
-		"img_name": "48_5"
-	},
-	{
-		"id": 450,
-		"type": "Normal",
-		"name": "Leer",
-		"img_name": "48_6"
-	},
-	{
-		"id": 451,
-		"type": "Normal",
-		"name": "Lock-On",
-		"img_name": "48_7"
-	},
-	{
-		"id": 452,
-		"type": "Normal",
-		"name": "Lovely Kiss",
-		"img_name": "48_8"
-	},
-	{
-		"id": 453,
-		"type": "Normal",
-		"name": "Lucky Chant",
-		"img_name": "48_9"
-	},
-	{
-		"id": 454,
-		"type": "Normal",
-		"name": "Me First",
-		"img_name": "48_10"
-	},
-	{
-		"id": 455,
-		"type": "Normal",
-		"name": "Mean Look",
-		"img_name": "49_1"
-	},
-	{
-		"id": 456,
-		"type": "Normal",
-		"name": "Mega Kick",
-		"img_name": "49_2"
-	},
-	{
-		"id": 457,
-		"type": "Normal",
-		"name": "Mega Punch",
-		"img_name": "49_3"
-	},
-	{
-		"id": 458,
-		"type": "Normal",
-		"name": "Metronome",
-		"img_name": "49_4"
-	},
-	{
-		"id": 459,
-		"type": "Normal",
-		"name": "Milk Drink",
-		"img_name": "49_5"
-	},
-	{
-		"id": 460,
-		"type": "Normal",
-		"name": "Mimic",
-		"img_name": "49_6"
-	},
-	{
-		"id": 461,
-		"type": "Normal",
-		"name": "Mind Reader",
-		"img_name": "49_7"
-	},
-	{
-		"id": 462,
-		"type": "Normal",
-		"name": "Minimize",
-		"img_name": "49_8"
-	},
-	{
-		"id": 463,
-		"type": "Normal",
-		"name": "Morning Sun",
-		"img_name": "49_9"
-	},
-	{
-		"id": 464,
-		"type": "Normal",
-		"name": "Multi-Attack",
-		"img_name": "49_10"
-	},
-	{
-		"id": 465,
-		"type": "Normal",
-		"name": "Natural Gift",
-		"img_name": "50_1"
-	},
-	{
-		"id": 466,
-		"type": "Normal",
-		"name": "Nature Power",
-		"img_name": "50_2"
-	},
-	{
-		"id": 467,
-		"type": "Normal",
-		"name": "Noble Roar",
-		"img_name": "50_3"
-	},
-	{
-		"id": 468,
-		"type": "Normal",
-		"name": "Odor Sleuth",
-		"img_name": "50_4"
-	},
-	{
-		"id": 469,
-		"type": "Normal",
-		"name": "Pain Split",
-		"img_name": "50_5"
-	},
-	{
-		"id": 470,
-		"type": "Normal",
-		"name": "Pay Day",
-		"img_name": "50_6"
-	},
-	{
-		"id": 471,
-		"type": "Normal",
-		"name": "Perish Song",
-		"img_name": "50_7"
-	},
-	{
-		"id": 472,
-		"type": "Normal",
-		"name": "Play Nice",
-		"img_name": "50_8"
-	},
-	{
-		"id": 473,
-		"type": "Normal",
-		"name": "Pound",
-		"img_name": "50_9"
-	},
-	{
-		"id": 474,
-		"type": "Normal",
-		"name": "Present",
-		"img_name": "50_10"
-	},
-	{
-		"id": 475,
-		"type": "Normal",
-		"name": "Protect",
-		"img_name": "51_1"
-	},
-	{
-		"id": 476,
-		"type": "Normal",
-		"name": "Psych Up",
-		"img_name": "51_2"
-	},
-	{
-		"id": 477,
-		"type": "Normal",
-		"name": "Quick Attack",
-		"img_name": "51_3"
-	},
-	{
-		"id": 478,
-		"type": "Normal",
-		"name": "Rage",
-		"img_name": "51_4"
-	},
-	{
-		"id": 479,
-		"type": "Normal",
-		"name": "Rapid Spin",
-		"img_name": "51_5"
-	},
-	{
-		"id": 480,
-		"type": "Normal",
-		"name": "Razor Wind",
-		"img_name": "51_6"
-	},
-	{
-		"id": 481,
-		"type": "Normal",
-		"name": "Recover",
-		"img_name": "51_7"
-	},
-	{
-		"id": 482,
-		"type": "Normal",
-		"name": "Recycle",
-		"img_name": "51_8"
-	},
-	{
-		"id": 483,
-		"type": "Normal",
-		"name": "Reflect Type",
-		"img_name": "51_9"
-	},
-	{
-		"id": 484,
-		"type": "Normal",
-		"name": "Refresh",
-		"img_name": "51_10"
-	},
-	{
-		"id": 485,
-		"type": "Normal",
-		"name": "Relic Song",
-		"img_name": "52_1"
-	},
-	{
-		"id": 486,
-		"type": "Normal",
-		"name": "Retaliate",
-		"img_name": "52_2"
-	},
-	{
-		"id": 487,
-		"type": "Normal",
-		"name": "Return",
-		"img_name": "52_3"
-	},
-	{
-		"id": 488,
-		"type": "Normal",
-		"name": "Revelation Dance",
-		"img_name": "52_4"
-	},
-	{
-		"id": 489,
-		"type": "Normal",
-		"name": "Roar",
-		"img_name": "52_5"
-	},
-	{
-		"id": 490,
-		"type": "Normal",
-		"name": "Rock Climb",
-		"img_name": "52_6"
-	},
-	{
-		"id": 491,
-		"type": "Normal",
-		"name": "Round",
-		"img_name": "52_7"
-	},
-	{
-		"id": 492,
-		"type": "Normal",
-		"name": "Safeguard",
-		"img_name": "52_8"
-	},
-	{
-		"id": 493,
-		"type": "Normal",
-		"name": "Scary Face",
-		"img_name": "52_9"
-	},
-	{
-		"id": 494,
-		"type": "Normal",
-		"name": "Scratch",
-		"img_name": "52_10"
-	},
-	{
-		"id": 495,
-		"type": "Normal",
-		"name": "Screech",
-		"img_name": "53_1"
-	},
-	{
-		"id": 496,
-		"type": "Normal",
-		"name": "Secret Power",
-		"img_name": "53_2"
-	},
-	{
-		"id": 497,
-		"type": "Normal",
-		"name": "Self Destruct",
-		"img_name": "53_3"
-	},
-	{
-		"id": 498,
-		"type": "Normal",
-		"name": "Sharpen",
-		"img_name": "53_4"
-	},
-	{
-		"id": 499,
-		"type": "Normal",
-		"name": "Shell Smash",
-		"img_name": "53_5"
-	},
-	{
-		"id": 500,
-		"type": "Normal",
-		"name": "Simple Beam",
-		"img_name": "53_6"
-	},
-	{
-		"id": 501,
-		"type": "Normal",
-		"name": "Sing",
-		"img_name": "53_7"
-	},
-	{
-		"id": 502,
-		"type": "Normal",
-		"name": "Sketch",
-		"img_name": "53_8"
-	},
-	{
-		"id": 503,
-		"type": "Normal",
-		"name": "Skull Bash",
-		"img_name": "53_9"
-	},
-	{
-		"id": 504,
-		"type": "Normal",
-		"name": "Slack Off",
-		"img_name": "53_10"
-	},
-	{
-		"id": 505,
-		"type": "Normal",
-		"name": "Slam",
-		"img_name": "54_1"
-	},
-	{
-		"id": 506,
-		"type": "Normal",
-		"name": "Slash",
-		"img_name": "54_2"
-	},
-	{
-		"id": 507,
-		"type": "Normal",
-		"name": "Sleep Talk",
-		"img_name": "54_3"
-	},
-	{
-		"id": 508,
-		"type": "Normal",
-		"name": "Smeling Salt",
-		"img_name": "54_4"
-	},
-	{
-		"id": 509,
-		"type": "Normal",
-		"name": "Smokescreen",
-		"img_name": "54_5"
-	},
-	{
-		"id": 510,
-		"type": "Normal",
-		"name": "Snore",
-		"img_name": "54_6"
-	},
-	{
-		"id": 511,
-		"type": "Normal",
-		"name": "Soft Boiled",
-		"img_name": "54_7"
-	},
-	{
-		"id": 512,
-		"type": "Normal",
-		"name": "Sonic Boom",
-		"img_name": "54_8"
-	},
-	{
-		"id": 513,
-		"type": "Normal",
-		"name": "Spike Cannon",
-		"img_name": "54_9"
-	},
-	{
-		"id": 514,
-		"type": "Normal",
-		"name": "Spit Up",
-		"img_name": "54_10"
-	},
-	{
-		"id": 515,
-		"type": "Normal",
-		"name": "Splash",
-		"img_name": "55_1"
-	},
-	{
-		"id": 516,
-		"type": "Normal",
-		"name": "Spotlight",
-		"img_name": "55_2"
-	},
-	{
-		"id": 517,
-		"type": "Normal",
-		"name": "Stockpile",
-		"img_name": "55_3"
-	},
-	{
-		"id": 518,
-		"type": "Normal",
-		"name": "Stomp",
-		"img_name": "55_4"
-	},
-	{
-		"id": 519,
-		"type": "Normal",
-		"name": "Strength",
-		"img_name": "55_5"
-	},
-	{
-		"id": 520,
-		"type": "Normal",
-		"name": "Stuff Cheeks",
-		"img_name": "55_6"
-	},
-	{
-		"id": 521,
-		"type": "Normal",
-		"name": "Substitute",
-		"img_name": "55_7"
-	},
-	{
-		"id": 522,
-		"type": "Normal",
-		"name": "Super Fang",
-		"img_name": "55_8"
-	},
-	{
-		"id": 523,
-		"type": "Normal",
-		"name": "Supersonic",
-		"img_name": "55_9"
-	},
-	{
-		"id": 524,
-		"type": "Normal",
-		"name": "Swagger",
-		"img_name": "55_10"
-	},
-	{
-		"id": 525,
-		"type": "Normal",
-		"name": "Swallow",
-		"img_name": "56_1"
-	},
-	{
-		"id": 526,
-		"type": "Normal",
-		"name": "Sweet Scent",
-		"img_name": "56_2"
-	},
-	{
-		"id": 527,
-		"type": "Normal",
-		"name": "Swift",
-		"img_name": "56_3"
-	},
-	{
-		"id": 528,
-		"type": "Normal",
-		"name": "Swords Dance",
-		"img_name": "56_4"
-	},
-	{
-		"id": 529,
-		"type": "Normal",
-		"name": "Tackle",
-		"img_name": "56_5"
-	},
-	{
-		"id": 530,
-		"type": "Normal",
-		"name": "Tail Slap",
-		"img_name": "56_6"
-	},
-	{
-		"id": 531,
-		"type": "Normal",
-		"name": "Tail Whip",
-		"img_name": "56_7"
-	},
-	{
-		"id": 532,
-		"type": "Normal",
-		"name": "Take Down",
-		"img_name": "56_8"
-	},
-	{
-		"id": 533,
-		"type": "Normal",
-		"name": "Tearful Look",
-		"img_name": "56_9"
-	},
-	{
-		"id": 534,
-		"type": "Normal",
-		"name": "Teatime",
-		"img_name": "56_10"
-	},
-	{
-		"id": 535,
-		"type": "Normal",
-		"name": "Techno Blast",
-		"img_name": "57_1"
-	},
-	{
-		"id": 536,
-		"type": "Normal",
-		"name": "Teeter Dance",
-		"img_name": "57_2"
-	},
-	{
-		"id": 537,
-		"type": "Normal",
-		"name": "Thrash",
-		"img_name": "57_3"
-	},
-	{
-		"id": 538,
-		"type": "Normal",
-		"name": "Tickle",
-		"img_name": "57_4"
-	},
-	{
-		"id": 539,
-		"type": "Normal",
-		"name": "Transform",
-		"img_name": "57_5"
-	},
-	{
-		"id": 540,
-		"type": "Normal",
-		"name": "Tri Attack",
-		"img_name": "57_6"
-	},
-	{
-		"id": 541,
-		"type": "Normal",
-		"name": "Trump Card",
-		"img_name": "57_7"
-	},
-	{
-		"id": 542,
-		"type": "Normal",
-		"name": "Uproar",
-		"img_name": "57_8"
-	},
-	{
-		"id": 543,
-		"type": "Normal",
-		"name": "Veevee Volley",
-		"img_name": "57_9"
-	},
-	{
-		"id": 544,
-		"type": "Normal",
-		"name": "Vice Grip",
-		"img_name": "57_10"
-	},
-	{
-		"id": 545,
-		"type": "Normal",
-		"name": "Weather Ball",
-		"img_name": "58_1"
-	},
-	{
-		"id": 546,
-		"type": "Normal",
-		"name": "Whirlwind",
-		"img_name": "58_2"
-	},
-	{
-		"id": 547,
-		"type": "Normal",
-		"name": "Wish",
-		"img_name": "58_3"
-	},
-	{
-		"id": 548,
-		"type": "Normal",
-		"name": "Work Up",
-		"img_name": "58_4"
-	},
-	{
-		"id": 549,
-		"type": "Normal",
-		"name": "Wrap",
-		"img_name": "58_5"
-	},
-	{
-		"id": 550,
-		"type": "Normal",
-		"name": "Wring Out",
-		"img_name": "58_6"
-	},
-	{
-		"id": 551,
-		"type": "Normal",
-		"name": "Yawn",
-		"img_name": "58_7"
-	},
-	{
-		"id": 552,
-		"type": "Poison",
-		"name": "Acid Armor",
-		"img_name": "59_1"
-	},
-	{
-		"id": 553,
-		"type": "Poison",
-		"name": "Acid Spray",
-		"img_name": "59_2"
-	},
-	{
-		"id": 554,
-		"type": "Poison",
-		"name": "Baneful Bunker",
-		"img_name": "59_3"
-	},
-	{
-		"id": 555,
-		"type": "Poison",
-		"name": "Belch",
-		"img_name": "59_4"
-	},
-	{
-		"id": 556,
-		"type": "Poison",
-		"name": "Clear Smog",
-		"img_name": "59_5"
-	},
-	{
-		"id": 557,
-		"type": "Poison",
-		"name": "Coil",
-		"img_name": "59_6"
-	},
-	{
-		"id": 558,
-		"type": "Poison",
-		"name": "Cross Poison",
-		"img_name": "59_7"
-	},
-	{
-		"id": 559,
-		"type": "Poison",
-		"name": "Gastro Acid",
-		"img_name": "59_8"
-	},
-	{
-		"id": 560,
-		"type": "Poison",
-		"name": "Gunk Shot",
-		"img_name": "59_9"
-	},
-	{
-		"id": 561,
-		"type": "Poison",
-		"name": "Poison Fang",
-		"img_name": "59_10"
-	},
-	{
-		"id": 562,
-		"type": "Poison",
-		"name": "Poison Gas",
-		"img_name": "60_2"
-	},
-	{
-		"id": 563,
-		"type": "Poison",
-		"name": "Poison Jab",
-		"img_name": "60_2"
-	},
-	{
-		"id": 564,
-		"type": "Poison",
-		"name": "Poison Powder",
-		"img_name": "60_3"
-	},
-	{
-		"id": 565,
-		"type": "Poison",
-		"name": "Poison Sting",
-		"img_name": "60_4"
-	},
-	{
-		"id": 566,
-		"type": "Poison",
-		"name": "Poison Tail",
-		"img_name": "60_5"
-	},
-	{
-		"id": 567,
-		"type": "Poison",
-		"name": "Purify",
-		"img_name": "60_6"
-	},
-	{
-		"id": 568,
-		"type": "Poison",
-		"name": "Sludge",
-		"img_name": "60_7"
-	},
-	{
-		"id": 569,
-		"type": "Poison",
-		"name": "Sludge Bomb",
-		"img_name": "60_8"
-	},
-	{
-		"id": 570,
-		"type": "Poison",
-		"name": "Sludge Wave",
-		"img_name": "60_9"
-	},
-	{
-		"id": 571,
-		"type": "Poison",
-		"name": "Smog",
-		"img_name": "60_10"
-	},
-	{
-		"id": 572,
-		"type": "Poison",
-		"name": "Toxic",
-		"img_name": "61_1"
-	},
-	{
-		"id": 573,
-		"type": "Poison",
-		"name": "Toxic Spikes",
-		"img_name": "61_2"
-	},
-	{
-		"id": 574,
-		"type": "Poison",
-		"name": "Toxic Thread",
-		"img_name": "61_3"
-	},
-	{
-		"id": 575,
-		"type": "Poison",
-		"name": "Venom Drench",
-		"img_name": "61_4"
-	},
-	{
-		"id": 576,
-		"type": "Poison",
-		"name": "Venoshock",
-		"img_name": "61_5"
-	},
-	{
-		"id": 577,
-		"type": "Psychic",
-		"name": "Agility",
-		"img_name": "61_8"
-	},
-	{
-		"id": 578,
-		"type": "Psychic",
-		"name": "Ally Switch",
-		"img_name": "61_9"
-	},
-	{
-		"id": 579,
-		"type": "Psychic",
-		"name": "Amnesia",
-		"img_name": "61_10"
-	},
-	{
-		"id": 580,
-		"type": "Psychic",
-		"name": "Barrier",
-		"img_name": "62_1"
-	},
-	{
-		"id": 581,
-		"type": "Psychic",
-		"name": "Calm Mind",
-		"img_name": "62_2"
-	},
-	{
-		"id": 582,
-		"type": "Psychic",
-		"name": "Confusion",
-		"img_name": "62_3"
-	},
-	{
-		"id": 583,
-		"type": "Psychic",
-		"name": "Cosmic Power",
-		"img_name": "62_4"
-	},
-	{
-		"id": 584,
-		"type": "Psychic",
-		"name": "Dream Eater",
-		"img_name": "62_5"
-	},
-	{
-		"id": 585,
-		"type": "Psychic",
-		"name": "Extrasensory",
-		"img_name": "62_6"
-	},
-	{
-		"id": 586,
-		"type": "Psychic",
-		"name": "Future Sight",
-		"img_name": "62_7"
-	},
-	{
-		"id": 587,
-		"type": "Psychic",
-		"name": "Glitzy Glow",
-		"img_name": "62_8"
-	},
-	{
-		"id": 588,
-		"type": "Psychic",
-		"name": "Gravity",
-		"img_name": "62_9"
-	},
-	{
-		"id": 589,
-		"type": "Psychic",
-		"name": "Guard Split",
-		"img_name": "62_10"
-	},
-	{
-		"id": 590,
-		"type": "Psychic",
-		"name": "Guard Swap",
-		"img_name": "63_1"
-	},
-	{
-		"id": 591,
-		"type": "Psychic",
-		"name": "Heal Block",
-		"img_name": "63_2"
-	},
-	{
-		"id": 592,
-		"type": "Psychic",
-		"name": "Heal Pulse",
-		"img_name": "63_3"
-	},
-	{
-		"id": 593,
-		"type": "Psychic",
-		"name": "Healing Wish",
-		"img_name": "63_4"
-	},
-	{
-		"id": 594,
-		"type": "Psychic",
-		"name": "Heart Stamp",
-		"img_name": "63_5"
-	},
-	{
-		"id": 595,
-		"type": "Psychic",
-		"name": "Heart Swap",
-		"img_name": "63_6"
-	},
-	{
-		"id": 596,
-		"type": "Psychic",
-		"name": "Hyperspace Hole",
-		"img_name": "63_7"
-	},
-	{
-		"id": 597,
-		"type": "Psychic",
-		"name": "Hypnosis",
-		"img_name": "63_8"
-	},
-	{
-		"id": 598,
-		"type": "Psychic",
-		"name": "Imprison",
-		"img_name": "63_9"
-	},
-	{
-		"id": 599,
-		"type": "Psychic",
-		"name": "Instruct",
-		"img_name": "63_10"
-	},
-	{
-		"id": 600,
-		"type": "Psychic",
-		"name": "Kinesis",
-		"img_name": "64_1"
-	},
-	{
-		"id": 601,
-		"type": "Psychic",
-		"name": "Light Screen",
-		"img_name": "64_2"
-	},
-	{
-		"id": 602,
-		"type": "Psychic",
-		"name": "Lunar Dance",
-		"img_name": "64_3"
-	},
-	{
-		"id": 603,
-		"type": "Psychic",
-		"name": "Luster Purge",
-		"img_name": "64_4"
-	},
-	{
-		"id": 604,
-		"type": "Psychic",
-		"name": "Magic Coat",
-		"img_name": "64_5"
-	},
-	{
-		"id": 605,
-		"type": "Psychic",
-		"name": "Magic Powder",
-		"img_name": "64_6"
-	},
-	{
-		"id": 606,
-		"type": "Psychic",
-		"name": "Magic Room",
-		"img_name": "64_7"
-	},
-	{
-		"id": 607,
-		"type": "Psychic",
-		"name": "Meditate",
-		"img_name": "64_8"
-	},
-	{
-		"id": 608,
-		"type": "Psychic",
-		"name": "Miracle Eye",
-		"img_name": "64_9"
-	},
-	{
-		"id": 609,
-		"type": "Psychic",
-		"name": "Mirror Coat",
-		"img_name": "64_10"
-	},
-	{
-		"id": 610,
-		"type": "Psychic",
-		"name": "Mist Ball",
-		"img_name": "65_1"
-	},
-	{
-		"id": 611,
-		"type": "Psychic",
-		"name": "Photon Geyser",
-		"img_name": "65_2"
-	},
-	{
-		"id": 612,
-		"type": "Psychic",
-		"name": "Power Split",
-		"img_name": "65_3"
-	},
-	{
-		"id": 613,
-		"type": "Psychic",
-		"name": "Power Swap",
-		"img_name": "65_4"
-	},
-	{
-		"id": 614,
-		"type": "Psychic",
-		"name": "Power Trick",
-		"img_name": "65_5"
-	},
-	{
-		"id": 615,
-		"type": "Psychic",
-		"name": "Prismatic Laser",
-		"img_name": "65_6"
-	},
-	{
-		"id": 616,
-		"type": "Psychic",
-		"name": "Psybeam",
-		"img_name": "65_7"
-	},
-	{
-		"id": 617,
-		"type": "Psychic",
-		"name": "Psychic",
-		"img_name": "65_8"
-	},
-	{
-		"id": 618,
-		"type": "Psychic",
-		"name": "Psychic Fangs",
-		"img_name": "65_9"
-	},
-	{
-		"id": 619,
-		"type": "Psychic",
-		"name": "Psychic Terrain",
-		"img_name": "65_10"
-	},
-	{
-		"id": 620,
-		"type": "Psychic",
-		"name": "Psycho Boost",
-		"img_name": "66_1"
-	},
-	{
-		"id": 621,
-		"type": "Psychic",
-		"name": "Psycho Cut",
-		"img_name": "66_2"
-	},
-	{
-		"id": 622,
-		"type": "Psychic",
-		"name": "Psycho Shift",
-		"img_name": "66_3"
-	},
-	{
-		"id": 623,
-		"type": "Psychic",
-		"name": "Psyshock",
-		"img_name": "66_4"
-	},
-	{
-		"id": 624,
-		"type": "Psychic",
-		"name": "Psystrike",
-		"img_name": "66_5"
-	},
-	{
-		"id": 625,
-		"type": "Psychic",
-		"name": "Psywave",
-		"img_name": "66_6"
-	},
-	{
-		"id": 626,
-		"type": "Psychic",
-		"name": "Reflect",
-		"img_name": "66_7"
-	},
-	{
-		"id": 627,
-		"type": "Psychic",
-		"name": "Rest",
-		"img_name": "66_8"
-	},
-	{
-		"id": 628,
-		"type": "Psychic",
-		"name": "Role Play",
-		"img_name": "66_9"
-	},
-	{
-		"id": 629,
-		"type": "Psychic",
-		"name": "Skill Swap",
-		"img_name": "66_10"
-	},
-	{
-		"id": 630,
-		"type": "Psychic",
-		"name": "Speed Swap",
-		"img_name": "67_1"
-	},
-	{
-		"id": 631,
-		"type": "Psychic",
-		"name": "Stored Power",
-		"img_name": "67_2"
-	},
-	{
-		"id": 632,
-		"type": "Psychic",
-		"name": "Synchronoise",
-		"img_name": "67_3"
-	},
-	{
-		"id": 633,
-		"type": "Psychic",
-		"name": "Telekinesis",
-		"img_name": "67_4"
-	},
-	{
-		"id": 634,
-		"type": "Psychic",
-		"name": "Teleport",
-		"img_name": "67_5"
-	},
-	{
-		"id": 635,
-		"type": "Psychic",
-		"name": "Trick",
-		"img_name": "67_6"
-	},
-	{
-		"id": 636,
-		"type": "Psychic",
-		"name": "Trick Room",
-		"img_name": "67_7"
-	},
-	{
-		"id": 637,
-		"type": "Psychic",
-		"name": "Wonder Room",
-		"img_name": "67_8"
-	},
-	{
-		"id": 638,
-		"type": "Psychic",
-		"name": "Zen Headbutt",
-		"img_name": "67_9"
-	},
-	{
-		"id": 639,
-		"type": "Rock",
-		"name": "Accelerock",
-		"img_name": "68_3"
-	},
-	{
-		"id": 640,
-		"type": "Rock",
-		"name": "Ancient Power",
-		"img_name": "68_4"
-	},
-	{
-		"id": 641,
-		"type": "Rock",
-		"name": "Diamond Storm",
-		"img_name": "68_5"
-	},
-	{
-		"id": 642,
-		"type": "Rock",
-		"name": "Head Smash",
-		"img_name": "68_6"
-	},
-	{
-		"id": 643,
-		"type": "Rock",
-		"name": "Power Gem",
-		"img_name": "68_7"
-	},
-	{
-		"id": 644,
-		"type": "Rock",
-		"name": "Rock Blast",
-		"img_name": "68_8"
-	},
-	{
-		"id": 645,
-		"type": "Rock",
-		"name": "Rock Polish",
-		"img_name": "68_9"
-	},
-	{
-		"id": 646,
-		"type": "Rock",
-		"name": "Rock Slide",
-		"img_name": "68_10"
-	},
-	{
-		"id": 647,
-		"type": "Rock",
-		"name": "Rock Throw",
-		"img_name": "69_1"
-	},
-	{
-		"id": 648,
-		"type": "Rock",
-		"name": "Rock Tomb",
-		"img_name": "69_2"
-	},
-	{
-		"id": 649,
-		"type": "Rock",
-		"name": "Rock Wrecker",
-		"img_name": "69_3"
-	},
-	{
-		"id": 650,
-		"type": "Rock",
-		"name": "Rollout",
-		"img_name": "69_4"
-	},
-	{
-		"id": 651,
-		"type": "Rock",
-		"name": "Sandstorm",
-		"img_name": "69_5"
-	},
-	{
-		"id": 652,
-		"type": "Rock",
-		"name": "Smack Down",
-		"img_name": "69_6"
-	},
-	{
-		"id": 653,
-		"type": "Rock",
-		"name": "Stealth Rock",
-		"img_name": "69_7"
-	},
-	{
-		"id": 654,
-		"type": "Rock",
-		"name": "Stone Edge",
-		"img_name": "69_8"
-	},
-	{
-		"id": 655,
-		"type": "Rock",
-		"name": "Tar Shot",
-		"img_name": "69_9"
-	},
-	{
-		"id": 656,
-		"type": "Rock",
-		"name": "Wide Guard",
-		"img_name": "69_10"
-	},
-	{
-		"id": 657,
-		"type": "Steel",
-		"name": "Anchor Shot",
-		"img_name": "70_3"
-	},
-	{
-		"id": 658,
-		"type": "Steel",
-		"name": "Autotomize",
-		"img_name": "70_4"
-	},
-	{
-		"id": 659,
-		"type": "Steel",
-		"name": "Behemoth Bash",
-		"img_name": "70_5"
-	},
-	{
-		"id": 660,
-		"type": "Steel",
-		"name": "Behemoth Blade",
-		"img_name": "70_6"
-	},
-	{
-		"id": 661,
-		"type": "Steel",
-		"name": "Bullet Punch",
-		"img_name": "70_7"
-	},
-	{
-		"id": 662,
-		"type": "Steel",
-		"name": "Doom Desire",
-		"img_name": "70_8"
-	},
-	{
-		"id": 663,
-		"type": "Steel",
-		"name": "Double Iron Bash",
-		"img_name": "70_9"
-	},
-	{
-		"id": 664,
-		"type": "Steel",
-		"name": "Flash Cannon",
-		"img_name": "70_10"
-	},
-	{
-		"id": 665,
-		"type": "Steel",
-		"name": "Gear Grind",
-		"img_name": "71_1"
-	},
-	{
-		"id": 666,
-		"type": "Steel",
-		"name": "Gear Up",
-		"img_name": "71_2"
-	},
-	{
-		"id": 667,
-		"type": "Steel",
-		"name": "Gyro Ball",
-		"img_name": "71_3"
-	},
-	{
-		"id": 668,
-		"type": "Steel",
-		"name": "Heavy Slam",
-		"img_name": "71_4"
-	},
-	{
-		"id": 669,
-		"type": "Steel",
-		"name": "Iron Defense",
-		"img_name": "71_5"
-	},
-	{
-		"id": 670,
-		"type": "Steel",
-		"name": "Iron Head",
-		"img_name": "71_6"
-	},
-	{
-		"id": 671,
-		"type": "Steel",
-		"name": "Iron Tail",
-		"img_name": "71_7"
-	},
-	{
-		"id": 672,
-		"type": "Steel",
-		"name": "King's Shield",
-		"img_name": "71_8"
-	},
-	{
-		"id": 673,
-		"type": "Steel",
-		"name": "Magnet Bomb",
-		"img_name": "71_9"
-	},
-	{
-		"id": 674,
-		"type": "Steel",
-		"name": "Metal Burst",
-		"img_name": "71_10"
-	},
-	{
-		"id": 675,
-		"type": "Steel",
-		"name": "Metal Claw",
-		"img_name": "72_1"
-	},
-	{
-		"id": 676,
-		"type": "Steel",
-		"name": "Metal Sound",
-		"img_name": "72_2"
-	},
-	{
-		"id": 677,
-		"type": "Steel",
-		"name": "Meteor Mash",
-		"img_name": "72_3"
-	},
-	{
-		"id": 678,
-		"type": "Steel",
-		"name": "Mirror Shot",
-		"img_name": "72_4"
-	},
-	{
-		"id": 679,
-		"type": "Steel",
-		"name": "Shift Gear",
-		"img_name": "72_5"
-	},
-	{
-		"id": 680,
-		"type": "Steel",
-		"name": "Smart Strike",
-		"img_name": "72_6"
-	},
-	{
-		"id": 681,
-		"type": "Steel",
-		"name": "Steel Beam",
-		"img_name": "72_7"
-	},
-	{
-		"id": 682,
-		"type": "Steel",
-		"name": "Steel Wing",
-		"img_name": "72_8"
-	},
-	{
-		"id": 683,
-		"type": "Steel",
-		"name": "Sunsteel Strike",
-		"img_name": "72_9"
-	},
-	{
-		"id": 684,
-		"type": "Water",
-		"name": "Aqua Jet",
-		"img_name": "73_2"
-	},
-	{
-		"id": 685,
-		"type": "Water",
-		"name": "Aqua Ring",
-		"img_name": "73_3"
-	},
-	{
-		"id": 686,
-		"type": "Water",
-		"name": "Aqua Tail",
-		"img_name": "73_4"
-	},
-	{
-		"id": 687,
-		"type": "Water",
-		"name": "Bouncy Bubble",
-		"img_name": "73_5"
-	},
-	{
-		"id": 688,
-		"type": "Water",
-		"name": "Brine",
-		"img_name": "73_6"
-	},
-	{
-		"id": 689,
-		"type": "Water",
-		"name": "Bubble",
-		"img_name": "73_7"
-	},
-	{
-		"id": 690,
-		"type": "Water",
-		"name": "Bubble Beam",
-		"img_name": "73_8"
-	},
-	{
-		"id": 691,
-		"type": "Water",
-		"name": "Clamp",
-		"img_name": "73_9"
-	},
-	{
-		"id": 692,
-		"type": "Water",
-		"name": "Crabhammer",
-		"img_name": "73_10"
-	},
-	{
-		"id": 693,
-		"type": "Water",
-		"name": "Dive",
-		"img_name": "74_1"
-	},
-	{
-		"id": 694,
-		"type": "Water",
-		"name": "Fishious Rend",
-		"img_name": "74_2"
-	},
-	{
-		"id": 695,
-		"type": "Water",
-		"name": "Hydro Cannon",
-		"img_name": "74_3"
-	},
-	{
-		"id": 696,
-		"type": "Water",
-		"name": "Hydro Pump",
-		"img_name": "74_4"
-	},
-	{
-		"id": 697,
-		"type": "Water",
-		"name": "Life Dew",
-		"img_name": "74_5"
-	},
-	{
-		"id": 698,
-		"type": "Water",
-		"name": "Liquidation",
-		"img_name": "74_6"
-	},
-	{
-		"id": 699,
-		"type": "Water",
-		"name": "Muddy Water",
-		"img_name": "74_7"
-	},
-	{
-		"id": 700,
-		"type": "Water",
-		"name": "Octazooka",
-		"img_name": "74_8"
-	},
-	{
-		"id": 701,
-		"type": "Water",
-		"name": "Origin Pulse",
-		"img_name": "74_9"
-	},
-	{
-		"id": 702,
-		"type": "Water",
-		"name": "Rain Dance",
-		"img_name": "74_10"
-	},
-	{
-		"id": 703,
-		"type": "Water",
-		"name": "Razor Shell",
-		"img_name": "75_1"
-	},
-	{
-		"id": 704,
-		"type": "Water",
-		"name": "Scald",
-		"img_name": "75_2"
-	},
-	{
-		"id": 705,
-		"type": "Water",
-		"name": "Snipe Shot",
-		"img_name": "75_3"
-	},
-	{
-		"id": 706,
-		"type": "Water",
-		"name": "Soak",
-		"img_name": "75_4"
-	},
-	{
-		"id": 707,
-		"type": "Water",
-		"name": "Sparkling Aria",
-		"img_name": "75_5"
-	},
-	{
-		"id": 708,
-		"type": "Water",
-		"name": "Splishy Splash",
-		"img_name": "75_6"
-	},
-	{
-		"id": 709,
-		"type": "Water",
-		"name": "Steam Eruption",
-		"img_name": "75_7"
-	},
-	{
-		"id": 710,
-		"type": "Water",
-		"name": "Surf",
-		"img_name": "75_8"
-	},
-	{
-		"id": 711,
-		"type": "Water",
-		"name": "Water Gun",
-		"img_name": "75_9"
-	},
-	{
-		"id": 712,
-		"type": "Water",
-		"name": "Water Pledge",
-		"img_name": "74_10"
-	},
-	{
-		"id": 713,
-		"type": "Water",
-		"name": "Water Pulse",
-		"img_name": "76_1"
-	},
-	{
-		"id": 714,
-		"type": "Water",
-		"name": "Water Shuriken",
-		"img_name": "76_2"
-	},
-	{
-		"id": 715,
-		"type": "Water",
-		"name": "Water Sport",
-		"img_name": "76_3"
-	},
-	{
-		"id": 716,
-		"type": "Water",
-		"name": "Water Spout",
-		"img_name": "76_4"
-	},
-	{
-		"id": 717,
-		"type": "Water",
-		"name": "Waterfall",
-		"img_name": "76_5"
-	},
-	{
-		"id": 718,
-		"type": "Water",
-		"name": "Whirlpool",
-		"img_name": "76_6"
-	},
-	{
-		"id": 719,
-		"type": "Water",
-		"name": "Withdraw",
-		"img_name": "76_7"
-	}
+    {
+        "id": 1,
+        "type": "Bug",
+        "name": "Attack Order",
+        "img_name": "bug/attack_order"
+    },
+    {
+        "id": 2,
+        "type": "Bug",
+        "name": "Bug Bite",
+        "img_name": "bug/bug_bite"
+    },
+    {
+        "id": 3,
+        "type": "Bug",
+        "name": "Bug Buzz",
+        "img_name": "bug/bug_buzz"
+    },
+    {
+        "id": 4,
+        "type": "Bug",
+        "name": "Defend Order",
+        "img_name": "bug/defend_order"
+    },
+    {
+        "id": 5,
+        "type": "Bug",
+        "name": "Fell Stinger",
+        "img_name": "bug/fell_stinger"
+    },
+    {
+        "id": 6,
+        "type": "Bug",
+        "name": "First Impression",
+        "img_name": "bug/first_impression"
+    },
+    {
+        "id": 7,
+        "type": "Bug",
+        "name": "Fury Cutter",
+        "img_name": "bug/fury_cutter"
+    },
+    {
+        "id": 8,
+        "type": "Bug",
+        "name": "Heal Order",
+        "img_name": "bug/heal_order"
+    },
+    {
+        "id": 9,
+        "type": "Bug",
+        "name": "Infestation",
+        "img_name": "bug/infestation"
+    },
+    {
+        "id": 10,
+        "type": "Bug",
+        "name": "Leech Life",
+        "img_name": "bug/leech_life"
+    },
+    {
+        "id": 11,
+        "type": "Bug",
+        "name": "Lunge",
+        "img_name": "bug/lunge"
+    },
+    {
+        "id": 12,
+        "type": "Bug",
+        "name": "Megahorn",
+        "img_name": "bug/megahorn"
+    },
+    {
+        "id": 13,
+        "type": "Bug",
+        "name": "Pin Missile",
+        "img_name": "bug/pin_missile"
+    },
+    {
+        "id": 14,
+        "type": "Bug",
+        "name": "Pollen Puff",
+        "img_name": "bug/pollen_puff"
+    },
+    {
+        "id": 15,
+        "type": "Bug",
+        "name": "Powder",
+        "img_name": "bug/powder"
+    },
+    {
+        "id": 16,
+        "type": "Bug",
+        "name": "Quiver Dance",
+        "img_name": "bug/quiver_dance"
+    },
+    {
+        "id": 17,
+        "type": "Bug",
+        "name": "Rage Powder",
+        "img_name": "bug/rage_powder"
+    },
+    {
+        "id": 18,
+        "type": "Bug",
+        "name": "Signal Beam",
+        "img_name": "bug/signal_beam"
+    },
+    {
+        "id": 19,
+        "type": "Bug",
+        "name": "Silver Wind",
+        "img_name": "bug/silver_wind"
+    },
+    {
+        "id": 20,
+        "type": "Bug",
+        "name": "Spider Web",
+        "img_name": "bug/spider_web"
+    },
+    {
+        "id": 21,
+        "type": "Bug",
+        "name": "Steamroller",
+        "img_name": "bug/steamroller"
+    },
+    {
+        "id": 22,
+        "type": "Bug",
+        "name": "Sticky Web",
+        "img_name": "bug/sticky_web"
+    },
+    {
+        "id": 23,
+        "type": "Bug",
+        "name": "String Shot",
+        "img_name": "bug/string_shot"
+    },
+    {
+        "id": 24,
+        "type": "Bug",
+        "name": "Struggle Bug",
+        "img_name": "bug/struggle_bug"
+    },
+    {
+        "id": 25,
+        "type": "Bug",
+        "name": "Tail Glow",
+        "img_name": "bug/tail_glow"
+    },
+    {
+        "id": 26,
+        "type": "Bug",
+        "name": "Twineedle",
+        "img_name": "bug/twineedle"
+    },
+    {
+        "id": 27,
+        "type": "Bug",
+        "name": "U-Turn",
+        "img_name": "bug/u-turn"
+    },
+    {
+        "id": 28,
+        "type": "Bug",
+        "name": "X-Scissor",
+        "img_name": "bug/x-scissor"
+    },
+    {
+        "id": 29,
+        "type": "Dark",
+        "name": "Assurance",
+        "img_name": "dark/assurance"
+    },
+    {
+        "id": 30,
+        "type": "Dark",
+        "name": "Baddy Bad",
+        "img_name": "dark/baddy_bad"
+    },
+    {
+        "id": 31,
+        "type": "Dark",
+        "name": "Beat Up",
+        "img_name": "dark/beat_up"
+    },
+    {
+        "id": 32,
+        "type": "Dark",
+        "name": "Bite",
+        "img_name": "dark/bite"
+    },
+    {
+        "id": 33,
+        "type": "Dark",
+        "name": "Brutal Swing",
+        "img_name": "dark/brutal_swing"
+    },
+    {
+        "id": 34,
+        "type": "Dark",
+        "name": "Crunch",
+        "img_name": "dark/crunch"
+    },
+    {
+        "id": 35,
+        "type": "Dark",
+        "name": "Dark Pulse",
+        "img_name": "dark/dark_pulse"
+    },
+    {
+        "id": 36,
+        "type": "Dark",
+        "name": "Dark Void",
+        "img_name": "dark/dark_void"
+    },
+    {
+        "id": 37,
+        "type": "Dark",
+        "name": "Darkest Lariat",
+        "img_name": "dark/darkest_lariat"
+    },
+    {
+        "id": 38,
+        "type": "Dark",
+        "name": "Embargo",
+        "img_name": "dark/embargo"
+    },
+    {
+        "id": 39,
+        "type": "Dark",
+        "name": "Fake Tears",
+        "img_name": "dark/fake_tears"
+    },
+    {
+        "id": 40,
+        "type": "Dark",
+        "name": "False Surrender",
+        "img_name": "dark/false_surrender"
+    },
+    {
+        "id": 41,
+        "type": "Dark",
+        "name": "Feint Attack",
+        "img_name": "dark/feint_attack"
+    },
+    {
+        "id": 42,
+        "type": "Dark",
+        "name": "Flatter",
+        "img_name": "dark/flatter"
+    },
+    {
+        "id": 43,
+        "type": "Dark",
+        "name": "Fling",
+        "img_name": "dark/fling"
+    },
+    {
+        "id": 44,
+        "type": "Dark",
+        "name": "Foul Play",
+        "img_name": "dark/foul_play"
+    },
+    {
+        "id": 45,
+        "type": "Dark",
+        "name": "Hone Claws",
+        "img_name": "dark/hone_claws"
+    },
+    {
+        "id": 46,
+        "type": "Dark",
+        "name": "Hyperspace Fury",
+        "img_name": "dark/hyperspace_fury"
+    },
+    {
+        "id": 47,
+        "type": "Dark",
+        "name": "Jaw Lock",
+        "img_name": "dark/jaw_lock"
+    },
+    {
+        "id": 48,
+        "type": "Dark",
+        "name": "Knock Off",
+        "img_name": "dark/knock_off"
+    },
+    {
+        "id": 49,
+        "type": "Dark",
+        "name": "Memento",
+        "img_name": "dark/memento"
+    },
+    {
+        "id": 50,
+        "type": "Dark",
+        "name": "Nasty Plot",
+        "img_name": "dark/nasty_plot"
+    },
+    {
+        "id": 51,
+        "type": "Dark",
+        "name": "Night Daze",
+        "img_name": "dark/night_daze"
+    },
+    {
+        "id": 52,
+        "type": "Dark",
+        "name": "Night Slash",
+        "img_name": "dark/night_slash"
+    },
+    {
+        "id": 53,
+        "type": "Dark",
+        "name": "Obstruct",
+        "img_name": "dark/obstruct"
+    },
+    {
+        "id": 54,
+        "type": "Dark",
+        "name": "Parting Shot",
+        "img_name": "dark/parting_shot"
+    },
+    {
+        "id": 55,
+        "type": "Dark",
+        "name": "Payback",
+        "img_name": "dark/payback"
+    },
+    {
+        "id": 56,
+        "type": "Dark",
+        "name": "Power Trip",
+        "img_name": "dark/power_trip"
+    },
+    {
+        "id": 57,
+        "type": "Dark",
+        "name": "Punishment",
+        "img_name": "dark/punishment"
+    },
+    {
+        "id": 58,
+        "type": "Dark",
+        "name": "Pursuit",
+        "img_name": "dark/pursuit"
+    },
+    {
+        "id": 59,
+        "type": "Dark",
+        "name": "Quash",
+        "img_name": "dark/quash"
+    },
+    {
+        "id": 60,
+        "type": "Dark",
+        "name": "Snarl",
+        "img_name": "dark/snarl"
+    },
+    {
+        "id": 61,
+        "type": "Dark",
+        "name": "Snatch",
+        "img_name": "dark/snatch"
+    },
+    {
+        "id": 62,
+        "type": "Dark",
+        "name": "Sucker Punch",
+        "img_name": "dark/sucker_punch"
+    },
+    {
+        "id": 63,
+        "type": "Dark",
+        "name": "Switcheroo",
+        "img_name": "dark/switcheroo"
+    },
+    {
+        "id": 64,
+        "type": "Dark",
+        "name": "Taunt",
+        "img_name": "dark/taunt"
+    },
+    {
+        "id": 65,
+        "type": "Dark",
+        "name": "Thief",
+        "img_name": "dark/thief"
+    },
+    {
+        "id": 66,
+        "type": "Dark",
+        "name": "Throat Chop",
+        "img_name": "dark/throat_chop"
+    },
+    {
+        "id": 67,
+        "type": "Dark",
+        "name": "Topsy-Turvy",
+        "img_name": "dark/topsy-turvy"
+    },
+    {
+        "id": 68,
+        "type": "Dark",
+        "name": "Torment",
+        "img_name": "dark/torment"
+    },
+    {
+        "id": 69,
+        "type": "Dragon",
+        "name": "Breaking Swipe",
+        "img_name": "dragon/breaking_swipe"
+    },
+    {
+        "id": 70,
+        "type": "Dragon",
+        "name": "Clanging Scales",
+        "img_name": "dragon/clanging_scales"
+    },
+    {
+        "id": 71,
+        "type": "Dragon",
+        "name": "Clangorous Soul",
+        "img_name": "dragon/clangorous_soul"
+    },
+    {
+        "id": 72,
+        "type": "Dragon",
+        "name": "Core Enforcer",
+        "img_name": "dragon/core_enforcer"
+    },
+    {
+        "id": 73,
+        "type": "Dragon",
+        "name": "Dragon Breath",
+        "img_name": "dragon/dragon_breath"
+    },
+    {
+        "id": 74,
+        "type": "Dragon",
+        "name": "Dragon Claw",
+        "img_name": "dragon/dragon_claw"
+    },
+    {
+        "id": 75,
+        "type": "Dragon",
+        "name": "Dragon Dance",
+        "img_name": "dragon/dragon_dance"
+    },
+    {
+        "id": 76,
+        "type": "Dragon",
+        "name": "Dragon Darts",
+        "img_name": "dragon/dragon_darts"
+    },
+    {
+        "id": 77,
+        "type": "Dragon",
+        "name": "Dragon Hammer",
+        "img_name": "dragon/dragon_hammer"
+    },
+    {
+        "id": 78,
+        "type": "Dragon",
+        "name": "Draco Meteor",
+        "img_name": "dragon/draco_meteor"
+    },
+    {
+        "id": 79,
+        "type": "Dragon",
+        "name": "Dragon Pulse",
+        "img_name": "dragon/dragon_pulse"
+    },
+    {
+        "id": 80,
+        "type": "Dragon",
+        "name": "Dragon Rage",
+        "img_name": "dragon/dragon_rage"
+    },
+    {
+        "id": 81,
+        "type": "Dragon",
+        "name": "Dragon Rush",
+        "img_name": "dragon/dragon_rush"
+    },
+    {
+        "id": 82,
+        "type": "Dragon",
+        "name": "Dragon Tail",
+        "img_name": "dragon/dragon_tail"
+    },
+    {
+        "id": 83,
+        "type": "Dragon",
+        "name": "Dual Chop",
+        "img_name": "dragon/dual_chop"
+    },
+    {
+        "id": 84,
+        "type": "Dragon",
+        "name": "Dynamax Cannon",
+        "img_name": "dragon/dynamax_cannon"
+    },
+    {
+        "id": 85,
+        "type": "Dragon",
+        "name": "Eternabeam",
+        "img_name": "dragon/eternabeam"
+    },
+    {
+        "id": 86,
+        "type": "Dragon",
+        "name": "Outrage",
+        "img_name": "dragon/outrage"
+    },
+    {
+        "id": 87,
+        "type": "Dragon",
+        "name": "Roar of Time",
+        "img_name": "dragon/roar_of_time"
+    },
+    {
+        "id": 88,
+        "type": "Dragon",
+        "name": "Spacial Rend",
+        "img_name": "dragon/spacial_rend"
+    },
+    {
+        "id": 89,
+        "type": "Dragon",
+        "name": "Twister",
+        "img_name": "dragon/twister"
+    },
+    {
+        "id": 90,
+        "type": "Electric",
+        "name": "Aura Wheel",
+        "img_name": "electric/aura_wheel"
+    },
+    {
+        "id": 91,
+        "type": "Electric",
+        "name": "Bolt Beak",
+        "img_name": "electric/bolt_beak"
+    },
+    {
+        "id": 92,
+        "type": "Electric",
+        "name": "Bolt Strike",
+        "img_name": "electric/bolt_strike"
+    },
+    {
+        "id": 93,
+        "type": "Electric",
+        "name": "Buzzy Buzz",
+        "img_name": "electric/buzzy_buzz"
+    },
+    {
+        "id": 94,
+        "type": "Electric",
+        "name": "Charge",
+        "img_name": "electric/charge"
+    },
+    {
+        "id": 95,
+        "type": "Electric",
+        "name": "Charge Beam",
+        "img_name": "electric/charge_beam"
+    },
+    {
+        "id": 96,
+        "type": "Electric",
+        "name": "Discharge",
+        "img_name": "electric/discharge"
+    },
+    {
+        "id": 97,
+        "type": "Electric",
+        "name": "Eerie Impulse",
+        "img_name": "electric/eerie_impulse"
+    },
+    {
+        "id": 98,
+        "type": "Electric",
+        "name": "Electric Terrain",
+        "img_name": "electric/electric_terrain"
+    },
+    {
+        "id": 99,
+        "type": "Electric",
+        "name": "Electrify",
+        "img_name": "electric/electrify"
+    },
+    {
+        "id": 100,
+        "type": "Electric",
+        "name": "Electro Ball",
+        "img_name": "electric/electro_ball"
+    },
+    {
+        "id": 101,
+        "type": "Electric",
+        "name": "Electroweb",
+        "img_name": "electric/electroweb"
+    },
+    {
+        "id": 102,
+        "type": "Electric",
+        "name": "Fusion Bolt",
+        "img_name": "electric/fusion_bolt"
+    },
+    {
+        "id": 103,
+        "type": "Electric",
+        "name": "Ion Deluge",
+        "img_name": "electric/ion_deluge"
+    },
+    {
+        "id": 104,
+        "type": "Electric",
+        "name": "Magnet Rise",
+        "img_name": "electric/magnet_rise"
+    },
+    {
+        "id": 105,
+        "type": "Electric",
+        "name": "Magnetic Flux",
+        "img_name": "electric/magnetic_flux"
+    },
+    {
+        "id": 106,
+        "type": "Electric",
+        "name": "Nuzzle",
+        "img_name": "electric/nuzzle"
+    },
+    {
+        "id": 107,
+        "type": "Electric",
+        "name": "Overdrive",
+        "img_name": "electric/overdrive"
+    },
+    {
+        "id": 108,
+        "type": "Electric",
+        "name": "Parabolic Charge",
+        "img_name": "electric/parabolic_charge"
+    },
+    {
+        "id": 109,
+        "type": "Electric",
+        "name": "Pika Papow",
+        "img_name": "electric/pika_papow"
+    },
+    {
+        "id": 110,
+        "type": "Electric",
+        "name": "Plasma Fists",
+        "img_name": "electric/plasma_fists"
+    },
+    {
+        "id": 111,
+        "type": "Electric",
+        "name": "Shock Wave",
+        "img_name": "electric/shock_wave"
+    },
+    {
+        "id": 112,
+        "type": "Electric",
+        "name": "Spark",
+        "img_name": "electric/spark"
+    },
+    {
+        "id": 113,
+        "type": "Electric",
+        "name": "Thunder",
+        "img_name": "electric/thunder"
+    },
+    {
+        "id": 114,
+        "type": "Electric",
+        "name": "Thunder Fang",
+        "img_name": "electric/thunder_fang"
+    },
+    {
+        "id": 115,
+        "type": "Electric",
+        "name": "Thunder Punch",
+        "img_name": "electric/thunder_punch"
+    },
+    {
+        "id": 116,
+        "type": "Electric",
+        "name": "Thunder Shock",
+        "img_name": "electric/thunder_shock"
+    },
+    {
+        "id": 117,
+        "type": "Electric",
+        "name": "Thunder Wave",
+        "img_name": "electric/thunder_wave"
+    },
+    {
+        "id": 118,
+        "type": "Electric",
+        "name": "Thunderbolt",
+        "img_name": "electric/thunderbolt"
+    },
+    {
+        "id": 119,
+        "type": "Electric",
+        "name": "Volt Switch",
+        "img_name": "electric/volt_switch"
+    },
+    {
+        "id": 120,
+        "type": "Electric",
+        "name": "Volt Tackle",
+        "img_name": "electric/volt_tackle"
+    },
+    {
+        "id": 121,
+        "type": "Electric",
+        "name": "Wild Charge",
+        "img_name": "electric/wild_charge"
+    },
+    {
+        "id": 122,
+        "type": "Electric",
+        "name": "Zap Cannon",
+        "img_name": "electric/zap_cannon"
+    },
+    {
+        "id": 123,
+        "type": "Electric",
+        "name": "Zing Zap",
+        "img_name": "electric/zing_zap"
+    },
+    {
+        "id": 124,
+        "type": "Electric",
+        "name": "Zippy Zap",
+        "img_name": "electric/zippy_zap"
+    },
+    {
+        "id": 125,
+        "type": "Fairy",
+        "name": "Aromatic Mist",
+        "img_name": "fairy/aromatic_mist"
+    },
+    {
+        "id": 126,
+        "type": "Fairy",
+        "name": "Baby-Doll Eyes",
+        "img_name": "fairy/baby-doll_eyes"
+    },
+    {
+        "id": 127,
+        "type": "Fairy",
+        "name": "Charm",
+        "img_name": "fairy/charm"
+    },
+    {
+        "id": 128,
+        "type": "Fairy",
+        "name": "Crafty Shield",
+        "img_name": "fairy/crafty_shield"
+    },
+    {
+        "id": 129,
+        "type": "Fairy",
+        "name": "Dazzling Gleam",
+        "img_name": "fairy/dazzling_gleam"
+    },
+    {
+        "id": 130,
+        "type": "Fairy",
+        "name": "Decorate",
+        "img_name": "fairy/decorate"
+    },
+    {
+        "id": 131,
+        "type": "Fairy",
+        "name": "Disarming Voice",
+        "img_name": "fairy/disarming_voice"
+    },
+    {
+        "id": 132,
+        "type": "Fairy",
+        "name": "Draining Kiss",
+        "img_name": "fairy/draining_kiss"
+    },
+    {
+        "id": 133,
+        "type": "Fairy",
+        "name": "Fairy Lock",
+        "img_name": "fairy/fairy_lock"
+    },
+    {
+        "id": 134,
+        "type": "Fairy",
+        "name": "Fairy Wind",
+        "img_name": "fairy/fairy_wind"
+    },
+    {
+        "id": 135,
+        "type": "Fairy",
+        "name": "Fleur Cannon",
+        "img_name": "fairy/fleur_cannon"
+    },
+    {
+        "id": 136,
+        "type": "Fairy",
+        "name": "Floral Healing",
+        "img_name": "fairy/floral_healing"
+    },
+    {
+        "id": 137,
+        "type": "Fairy",
+        "name": "Flower Shield",
+        "img_name": "fairy/flower_shield"
+    },
+    {
+        "id": 138,
+        "type": "Fairy",
+        "name": "Geomancy",
+        "img_name": "fairy/geomancy"
+    },
+    {
+        "id": 139,
+        "type": "Fairy",
+        "name": "Light of Ruin",
+        "img_name": "fairy/light_of_ruin"
+    },
+    {
+        "id": 140,
+        "type": "Fairy",
+        "name": "Misty Terrain",
+        "img_name": "fairy/misty_terrain"
+    },
+    {
+        "id": 141,
+        "type": "Fairy",
+        "name": "Moonblast",
+        "img_name": "fairy/moonblast"
+    },
+    {
+        "id": 142,
+        "type": "Fairy",
+        "name": "Moonlight",
+        "img_name": "fairy/moonlight"
+    },
+    {
+        "id": 143,
+        "type": "Fairy",
+        "name": "Nature's Madness",
+        "img_name": "fairy/nature's_madness"
+    },
+    {
+        "id": 144,
+        "type": "Fairy",
+        "name": "Play Rough",
+        "img_name": "fairy/play_rough"
+    },
+    {
+        "id": 145,
+        "type": "Fairy",
+        "name": "Sparkly Swirl",
+        "img_name": "fairy/sparkly_swirl"
+    },
+    {
+        "id": 146,
+        "type": "Fairy",
+        "name": "Spirit Break",
+        "img_name": "fairy/spirit_break"
+    },
+    {
+        "id": 147,
+        "type": "Fairy",
+        "name": "Strange Steam",
+        "img_name": "fairy/strange_steam"
+    },
+    {
+        "id": 148,
+        "type": "Fairy",
+        "name": "Sweet Kiss",
+        "img_name": "fairy/sweet_kiss"
+    },
+    {
+        "id": 149,
+        "type": "Fighting",
+        "name": "Arm Thrust",
+        "img_name": "fighting/arm_thrust"
+    },
+    {
+        "id": 150,
+        "type": "Fighting",
+        "name": "Aura Sphere",
+        "img_name": "fighting/aura_sphere"
+    },
+    {
+        "id": 151,
+        "type": "Fighting",
+        "name": "Body Press",
+        "img_name": "fighting/body_press"
+    },
+    {
+        "id": 152,
+        "type": "Fighting",
+        "name": "Brick Break",
+        "img_name": "fighting/brick_break"
+    },
+    {
+        "id": 153,
+        "type": "Fighting",
+        "name": "Bulk Up",
+        "img_name": "fighting/bulk_up"
+    },
+    {
+        "id": 154,
+        "type": "Fighting",
+        "name": "Circle Throw",
+        "img_name": "fighting/circle_throw"
+    },
+    {
+        "id": 155,
+        "type": "Fighting",
+        "name": "Close Combat",
+        "img_name": "fighting/close_combat"
+    },
+    {
+        "id": 156,
+        "type": "Fighting",
+        "name": "Counter",
+        "img_name": "fighting/counter"
+    },
+    {
+        "id": 157,
+        "type": "Fighting",
+        "name": "Cross Chop",
+        "img_name": "fighting/cross_chop"
+    },
+    {
+        "id": 158,
+        "type": "Fighting",
+        "name": "Detect",
+        "img_name": "fighting/detect"
+    },
+    {
+        "id": 159,
+        "type": "Fighting",
+        "name": "Double Kick",
+        "img_name": "fighting/double_kick"
+    },
+    {
+        "id": 160,
+        "type": "Fighting",
+        "name": "Drain Punch",
+        "img_name": "fighting/drain_punch"
+    },
+    {
+        "id": 161,
+        "type": "Fighting",
+        "name": "Dynamic Punch",
+        "img_name": "fighting/dynamic_punch"
+    },
+    {
+        "id": 162,
+        "type": "Fighting",
+        "name": "Final Gambit",
+        "img_name": "fighting/final_gambit"
+    },
+    {
+        "id": 163,
+        "type": "Fighting",
+        "name": "Flying Press",
+        "img_name": "fighting/flying_press"
+    },
+    {
+        "id": 164,
+        "type": "Fighting",
+        "name": "Focus Blast",
+        "img_name": "fighting/focus_blast"
+    },
+    {
+        "id": 165,
+        "type": "Fighting",
+        "name": "Focus Punch",
+        "img_name": "fighting/focus_punch"
+    },
+    {
+        "id": 166,
+        "type": "Fighting",
+        "name": "Force Palm",
+        "img_name": "fighting/force_palm"
+    },
+    {
+        "id": 167,
+        "type": "Fighting",
+        "name": "Hammer Arm",
+        "img_name": "fighting/hammer_arm"
+    },
+    {
+        "id": 168,
+        "type": "Fighting",
+        "name": "High Jump Kick",
+        "img_name": "fighting/high_jump_kick"
+    },
+    {
+        "id": 169,
+        "type": "Fighting",
+        "name": "Jump Kick",
+        "img_name": "fighting/jump_kick"
+    },
+    {
+        "id": 170,
+        "type": "Fighting",
+        "name": "Karate Chop",
+        "img_name": "fighting/karate_chop"
+    },
+    {
+        "id": 171,
+        "type": "Fighting",
+        "name": "Low Kick",
+        "img_name": "fighting/low_kick"
+    },
+    {
+        "id": 172,
+        "type": "Fighting",
+        "name": "Low Sweep",
+        "img_name": "fighting/low_sweep"
+    },
+    {
+        "id": 173,
+        "type": "Fighting",
+        "name": "Mach Punch",
+        "img_name": "fighting/mach_punch"
+    },
+    {
+        "id": 174,
+        "type": "Fighting",
+        "name": "Mat Block",
+        "img_name": "fighting/mat_block"
+    },
+    {
+        "id": 175,
+        "type": "Fighting",
+        "name": "Meteor Assault",
+        "img_name": "fighting/meteor_assault"
+    },
+    {
+        "id": 176,
+        "type": "Fighting",
+        "name": "No Retrat",
+        "img_name": "fighting/no_retreat"
+    },
+    {
+        "id": 177,
+        "type": "Fighting",
+        "name": "Octolock",
+        "img_name": "fighting/octolock"
+    },
+    {
+        "id": 178,
+        "type": "Fighting",
+        "name": "Power-up Punch",
+        "img_name": "fighting/power-up_punch"
+    },
+    {
+        "id": 179,
+        "type": "Fighting",
+        "name": "Quick Guard",
+        "img_name": "fighting/quick_guard"
+    },
+    {
+        "id": 180,
+        "type": "Fighting",
+        "name": "Revenge",
+        "img_name": "fighting/revenge"
+    },
+    {
+        "id": 181,
+        "type": "Fighting",
+        "name": "Reversal",
+        "img_name": "fighting/reversal"
+    },
+    {
+        "id": 182,
+        "type": "Fighting",
+        "name": "Rock Smash",
+        "img_name": "fighting/rock_smash"
+    },
+    {
+        "id": 183,
+        "type": "Fighting",
+        "name": "Rolling Kick",
+        "img_name": "fighting/rolling_kick"
+    },
+    {
+        "id": 184,
+        "type": "Fighting",
+        "name": "Sacred Sword",
+        "img_name": "fighting/sacred_sword"
+    },
+    {
+        "id": 185,
+        "type": "Fighting",
+        "name": "Secret Sword",
+        "img_name": "fighting/secret_sword"
+    },
+    {
+        "id": 186,
+        "type": "Fighting",
+        "name": "Seismic Toss",
+        "img_name": "fighting/seismic_toss"
+    },
+    {
+        "id": 187,
+        "type": "Fighting",
+        "name": "Sky Uppercut",
+        "img_name": "fighting/sky_uppercut"
+    },
+    {
+        "id": 188,
+        "type": "Fighting",
+        "name": "Storm Throw",
+        "img_name": "fighting/storm_throw"
+    },
+    {
+        "id": 189,
+        "type": "Fighting",
+        "name": "Submission",
+        "img_name": "fighting/submission"
+    },
+    {
+        "id": 190,
+        "type": "Fighting",
+        "name": "Superpower",
+        "img_name": "fighting/superpower"
+    },
+    {
+        "id": 191,
+        "type": "Fighting",
+        "name": "Triple Kick",
+        "img_name": "fighting/triple_kick"
+    },
+    {
+        "id": 192,
+        "type": "Fighting",
+        "name": "Vacuum Wave",
+        "img_name": "fighting/vacuum_wave"
+    },
+    {
+        "id": 193,
+        "type": "Fighting",
+        "name": "Vital Throw",
+        "img_name": "fighting/vital_throw"
+    },
+    {
+        "id": 194,
+        "type": "Fighting",
+        "name": "Wake-up Slap",
+        "img_name": "fighting/wake-up_slap"
+    },
+    {
+        "id": 195,
+        "type": "Fire",
+        "name": "Blast Burn",
+        "img_name": "fire/blast_burn"
+    },
+    {
+        "id": 196,
+        "type": "Fire",
+        "name": "Blaze Kick",
+        "img_name": "fire/blaze_kick"
+    },
+    {
+        "id": 197,
+        "type": "Fire",
+        "name": "Blue Flare",
+        "img_name": "fire/blue_flare"
+    },
+    {
+        "id": 198,
+        "type": "Fire",
+        "name": "Burn Up",
+        "img_name": "fire/burn_up"
+    },
+    {
+        "id": 199,
+        "type": "Fire",
+        "name": "Ember",
+        "img_name": "fire/ember"
+    },
+    {
+        "id": 200,
+        "type": "Fire",
+        "name": "Eruption",
+        "img_name": "fire/eruption"
+    },
+    {
+        "id": 201,
+        "type": "Fire",
+        "name": "Fiery Dance",
+        "img_name": "fire/fiery_dance"
+    },
+    {
+        "id": 202,
+        "type": "Fire",
+        "name": "Fire Blast",
+        "img_name": "fire/fire_blast"
+    },
+    {
+        "id": 203,
+        "type": "Fire",
+        "name": "Fire Fang",
+        "img_name": "fire/fire_fang"
+    },
+    {
+        "id": 204,
+        "type": "Fire",
+        "name": "Fire Lash",
+        "img_name": "fire/fire_lash"
+    },
+    {
+        "id": 205,
+        "type": "Fire",
+        "name": "Fire Pledge",
+        "img_name": "fire/fire_pledge"
+    },
+    {
+        "id": 206,
+        "type": "Fire",
+        "name": "Fire Punch",
+        "img_name": "fire/fire_punch"
+    },
+    {
+        "id": 207,
+        "type": "Fire",
+        "name": "Fire Spin",
+        "img_name": "fire/fire_spin"
+    },
+    {
+        "id": 208,
+        "type": "Fire",
+        "name": "Flame Burst",
+        "img_name": "fire/flame_burst"
+    },
+    {
+        "id": 209,
+        "type": "Fire",
+        "name": "Flame Charge",
+        "img_name": "fire/flame_charge"
+    },
+    {
+        "id": 210,
+        "type": "Fire",
+        "name": "Flame Wheel",
+        "img_name": "fire/flame_wheel"
+    },
+    {
+        "id": 211,
+        "type": "Fire",
+        "name": "Flamethrower",
+        "img_name": "fire/flamethrower"
+    },
+    {
+        "id": 212,
+        "type": "Fire",
+        "name": "Flare Blitz",
+        "img_name": "fire/flare_blitz"
+    },
+    {
+        "id": 213,
+        "type": "Fire",
+        "name": "Fusion Flare",
+        "img_name": "fire/fusion_flare"
+    },
+    {
+        "id": 214,
+        "type": "Fire",
+        "name": "Heat Crash",
+        "img_name": "fire/heat_crash"
+    },
+    {
+        "id": 215,
+        "type": "Fire",
+        "name": "Heat Wave",
+        "img_name": "fire/heat_wave"
+    },
+    {
+        "id": 216,
+        "type": "Fire",
+        "name": "Incinerate",
+        "img_name": "fire/incinerate"
+    },
+    {
+        "id": 217,
+        "type": "Fire",
+        "name": "Inferno",
+        "img_name": "fire/inferno"
+    },
+    {
+        "id": 218,
+        "type": "Fire",
+        "name": "Lava Plume",
+        "img_name": "fire/lava_plume"
+    },
+    {
+        "id": 219,
+        "type": "Fire",
+        "name": "Magma Storm",
+        "img_name": "fire/magma_storm"
+    },
+    {
+        "id": 220,
+        "type": "Fire",
+        "name": "Mind Blown",
+        "img_name": "fire/mind_blown"
+    },
+    {
+        "id": 221,
+        "type": "Fire",
+        "name": "Mystical Fire",
+        "img_name": "fire/mystical_fire"
+    },
+    {
+        "id": 222,
+        "type": "Fire",
+        "name": "Overheat",
+        "img_name": "fire/overheat"
+    },
+    {
+        "id": 223,
+        "type": "Fire",
+        "name": "Pyro Ball",
+        "img_name": "fire/pyro_ball"
+    },
+    {
+        "id": 224,
+        "type": "Fire",
+        "name": "Sacred Fire",
+        "img_name": "fire/sacred_fire"
+    },
+    {
+        "id": 225,
+        "type": "Fire",
+        "name": "Searing Shot",
+        "img_name": "fire/searing_shot"
+    },
+    {
+        "id": 226,
+        "type": "Fire",
+        "name": "Shell Trap",
+        "img_name": "fire/shell_trap"
+    },
+    {
+        "id": 227,
+        "type": "Fire",
+        "name": "Sizzly Slide",
+        "img_name": "fire/sizzly_slide"
+    },
+    {
+        "id": 228,
+        "type": "Fire",
+        "name": "Sunny Day",
+        "img_name": "fire/sunny_day"
+    },
+    {
+        "id": 229,
+        "type": "Fire",
+        "name": "V-Create",
+        "img_name": "fire/v-create"
+    },
+    {
+        "id": 230,
+        "type": "Fire",
+        "name": "Will-o-Wisp",
+        "img_name": "fire/will-o-wisp"
+    },
+    {
+        "id": 231,
+        "type": "Flying",
+        "name": "Acrobatics",
+        "img_name": "flying/acrobatics"
+    },
+    {
+        "id": 232,
+        "type": "Flying",
+        "name": "Aerial Ace",
+        "img_name": "flying/aerial_ace"
+    },
+    {
+        "id": 233,
+        "type": "Flying",
+        "name": "Aeroblast",
+        "img_name": "flying/aeroblast"
+    },
+    {
+        "id": 234,
+        "type": "Flying",
+        "name": "Air Cutter",
+        "img_name": "flying/air_cutter"
+    },
+    {
+        "id": 235,
+        "type": "Flying",
+        "name": "Air Slash",
+        "img_name": "flying/air_slash"
+    },
+    {
+        "id": 236,
+        "type": "Flying",
+        "name": "Beak Blast",
+        "img_name": "flying/beak_blast"
+    },
+    {
+        "id": 237,
+        "type": "Flying",
+        "name": "Bounce",
+        "img_name": "flying/bounce"
+    },
+    {
+        "id": 238,
+        "type": "Flying",
+        "name": "Brave Bird",
+        "img_name": "flying/brave_bird"
+    },
+    {
+        "id": 239,
+        "type": "Flying",
+        "name": "Chatter",
+        "img_name": "flying/chatter"
+    },
+    {
+        "id": 240,
+        "type": "Flying",
+        "name": "Defog",
+        "img_name": "flying/defog"
+    },
+    {
+        "id": 241,
+        "type": "Flying",
+        "name": "Dragon Ascent",
+        "img_name": "flying/dragon_ascent"
+    },
+    {
+        "id": 242,
+        "type": "Flying",
+        "name": "Drill Peck",
+        "img_name": "flying/drill_peck"
+    },
+    {
+        "id": 243,
+        "type": "Flying",
+        "name": "Feather Dance",
+        "img_name": "flying/feather_dance"
+    },
+    {
+        "id": 244,
+        "type": "Flying",
+        "name": "Floaty Fall",
+        "img_name": "flying/floaty_fall"
+    },
+    {
+        "id": 245,
+        "type": "Flying",
+        "name": "Fly",
+        "img_name": "flying/fly"
+    },
+    {
+        "id": 246,
+        "type": "Flying",
+        "name": "Gust",
+        "img_name": "flying/gust"
+    },
+    {
+        "id": 247,
+        "type": "Flying",
+        "name": "Hurricane",
+        "img_name": "flying/hurricane"
+    },
+    {
+        "id": 248,
+        "type": "Flying",
+        "name": "Mirror Move",
+        "img_name": "flying/mirror_move"
+    },
+    {
+        "id": 249,
+        "type": "Flying",
+        "name": "Oblivion Wing",
+        "img_name": "flying/oblivion_wing"
+    },
+    {
+        "id": 250,
+        "type": "Flying",
+        "name": "Peck",
+        "img_name": "flying/peck"
+    },
+    {
+        "id": 251,
+        "type": "Flying",
+        "name": "Pluck",
+        "img_name": "flying/pluck"
+    },
+    {
+        "id": 252,
+        "type": "Flying",
+        "name": "Roost",
+        "img_name": "flying/roost"
+    },
+    {
+        "id": 253,
+        "type": "Flying",
+        "name": "Sky Attack",
+        "img_name": "flying/sky_attack"
+    },
+    {
+        "id": 254,
+        "type": "Flying",
+        "name": "Sky Drop",
+        "img_name": "flying/sky_drop"
+    },
+    {
+        "id": 255,
+        "type": "Flying",
+        "name": "Tailwind",
+        "img_name": "flying/tailwind"
+    },
+    {
+        "id": 256,
+        "type": "Flying",
+        "name": "Wing Attack",
+        "img_name": "flying/wing_attack"
+    },
+    {
+        "id": 257,
+        "type": "Ghost",
+        "name": "Astonish",
+        "img_name": "ghost/astonish"
+    },
+    {
+        "id": 258,
+        "type": "Ghost",
+        "name": "Confuse Ray",
+        "img_name": "ghost/confuse_ray"
+    },
+    {
+        "id": 259,
+        "type": "Ghost",
+        "name": "Curse",
+        "img_name": "ghost/curse"
+    },
+    {
+        "id": 260,
+        "type": "Ghost",
+        "name": "Curse (Non-Ghost User)",
+        "img_name": "ghost/curse_(non-ghost_user)"
+    },
+    {
+        "id": 261,
+        "type": "Ghost",
+        "name": "Destiny Bond",
+        "img_name": "ghost/destiny_bond"
+    },
+    {
+        "id": 262,
+        "type": "Ghost",
+        "name": "Grudge",
+        "img_name": "ghost/grudge"
+    },
+    {
+        "id": 263,
+        "type": "Ghost",
+        "name": "Hex",
+        "img_name": "ghost/hex"
+    },
+    {
+        "id": 264,
+        "type": "Ghost",
+        "name": "Lick",
+        "img_name": "ghost/lick"
+    },
+    {
+        "id": 265,
+        "type": "Ghost",
+        "name": "Moongeist Beam",
+        "img_name": "ghost/moongeist_beam"
+    },
+    {
+        "id": 266,
+        "type": "Ghost",
+        "name": "Night Shade",
+        "img_name": "ghost/night_shade"
+    },
+    {
+        "id": 267,
+        "type": "Ghost",
+        "name": "Nightmare",
+        "img_name": "ghost/nightmare"
+    },
+    {
+        "id": 268,
+        "type": "Ghost",
+        "name": "Ominous Wind",
+        "img_name": "ghost/ominous_wind"
+    },
+    {
+        "id": 269,
+        "type": "Ghost",
+        "name": "Phantom Force",
+        "img_name": "ghost/phantom_force"
+    },
+    {
+        "id": 270,
+        "type": "Ghost",
+        "name": "Shadow Ball",
+        "img_name": "ghost/shadow_ball"
+    },
+    {
+        "id": 271,
+        "type": "Ghost",
+        "name": "Shadow Bone",
+        "img_name": "ghost/shadow_bone"
+    },
+    {
+        "id": 272,
+        "type": "Ghost",
+        "name": "Shadow Claw",
+        "img_name": "ghost/shadow_claw"
+    },
+    {
+        "id": 273,
+        "type": "Ghost",
+        "name": "Shadow Force",
+        "img_name": "ghost/shadow_force"
+    },
+    {
+        "id": 274,
+        "type": "Ghost",
+        "name": "Shadow Punch",
+        "img_name": "ghost/shadow_punch"
+    },
+    {
+        "id": 275,
+        "type": "Ghost",
+        "name": "Shadow Sneak",
+        "img_name": "ghost/shadow_sneak"
+    },
+    {
+        "id": 276,
+        "type": "Ghost",
+        "name": "Spectral Thief",
+        "img_name": "ghost/spectral_thief"
+    },
+    {
+        "id": 277,
+        "type": "Ghost",
+        "name": "Spirit Shackle",
+        "img_name": "ghost/spirit_shackle"
+    },
+    {
+        "id": 278,
+        "type": "Ghost",
+        "name": "Spite",
+        "img_name": "ghost/spite"
+    },
+    {
+        "id": 279,
+        "type": "Ghost",
+        "name": "Trick-or-Treat",
+        "img_name": "ghost/trick-or-treat"
+    },
+    {
+        "id": 280,
+        "type": "Grass",
+        "name": "Absorb",
+        "img_name": "grass/absorb"
+    },
+    {
+        "id": 281,
+        "type": "Grass",
+        "name": "Apple Acid",
+        "img_name": "grass/apple_acid"
+    },
+    {
+        "id": 282,
+        "type": "Grass",
+        "name": "Aromatherapy",
+        "img_name": "grass/aromatherapy"
+    },
+    {
+        "id": 283,
+        "type": "Grass",
+        "name": "Branch Poke",
+        "img_name": "grass/branch_poke"
+    },
+    {
+        "id": 284,
+        "type": "Grass",
+        "name": "Bullet Seed",
+        "img_name": "grass/bullet_seed"
+    },
+    {
+        "id": 285,
+        "type": "Grass",
+        "name": "Cotton Guard",
+        "img_name": "grass/cotton_guard"
+    },
+    {
+        "id": 286,
+        "type": "Grass",
+        "name": "Cotton Spore",
+        "img_name": "grass/cotton_spore"
+    },
+    {
+        "id": 287,
+        "type": "Grass",
+        "name": "Drum Beating",
+        "img_name": "grass/drum_beating"
+    },
+    {
+        "id": 288,
+        "type": "Grass",
+        "name": "Energy Ball",
+        "img_name": "grass/energy_ball"
+    },
+    {
+        "id": 289,
+        "type": "Grass",
+        "name": "Forest's Curse",
+        "img_name": "grass/forest's_curse"
+    },
+    {
+        "id": 290,
+        "type": "Grass",
+        "name": "Frenzy Plant",
+        "img_name": "grass/frenzy_plant"
+    },
+    {
+        "id": 291,
+        "type": "Grass",
+        "name": "Giga Drain",
+        "img_name": "grass/giga_drain"
+    },
+    {
+        "id": 292,
+        "type": "Grass",
+        "name": "Grass Knot",
+        "img_name": "grass/grass_knot"
+    },
+    {
+        "id": 293,
+        "type": "Grass",
+        "name": "Grass Pledge",
+        "img_name": "grass/grass_pledge"
+    },
+    {
+        "id": 294,
+        "type": "Grass",
+        "name": "Grass Whistle",
+        "img_name": "grass/grass_whistle"
+    },
+    {
+        "id": 295,
+        "type": "Grass",
+        "name": "Grassy Terrain",
+        "img_name": "grass/grassy_terrain"
+    },
+    {
+        "id": 296,
+        "type": "Grass",
+        "name": "Grav Apple",
+        "img_name": "grass/grav_apple"
+    },
+    {
+        "id": 297,
+        "type": "Grass",
+        "name": "Horn Leech",
+        "img_name": "grass/horn_leech"
+    },
+    {
+        "id": 298,
+        "type": "Grass",
+        "name": "Ingrain",
+        "img_name": "grass/ingrain"
+    },
+    {
+        "id": 299,
+        "type": "Grass",
+        "name": "Leaf Blade",
+        "img_name": "grass/leaf_blade"
+    },
+    {
+        "id": 300,
+        "type": "Grass",
+        "name": "Leaf Storm",
+        "img_name": "grass/leaf_storm"
+    },
+    {
+        "id": 301,
+        "type": "Grass",
+        "name": "Leaf Tornado",
+        "img_name": "grass/leaf_tornado"
+    },
+    {
+        "id": 302,
+        "type": "Grass",
+        "name": "Leafage",
+        "img_name": "grass/leafage"
+    },
+    {
+        "id": 303,
+        "type": "Grass",
+        "name": "Leech Seed",
+        "img_name": "grass/leech_seed"
+    },
+    {
+        "id": 304,
+        "type": "Grass",
+        "name": "Magical Leaf",
+        "img_name": "grass/magical_leaf"
+    },
+    {
+        "id": 305,
+        "type": "Grass",
+        "name": "Mega Drain",
+        "img_name": "grass/mega_drain"
+    },
+    {
+        "id": 306,
+        "type": "Grass",
+        "name": "Needle Arm",
+        "img_name": "grass/needle_arm"
+    },
+    {
+        "id": 307,
+        "type": "Grass",
+        "name": "Petal Blizzard",
+        "img_name": "grass/petal_blizzard"
+    },
+    {
+        "id": 308,
+        "type": "Grass",
+        "name": "Petal Dance",
+        "img_name": "grass/petal_dance"
+    },
+    {
+        "id": 309,
+        "type": "Grass",
+        "name": "Power Whip",
+        "img_name": "grass/power_whip"
+    },
+    {
+        "id": 310,
+        "type": "Grass",
+        "name": "Razor Leaf",
+        "img_name": "grass/razor_leaf"
+    },
+    {
+        "id": 311,
+        "type": "Grass",
+        "name": "Sappy Seed",
+        "img_name": "grass/sappy_seed"
+    },
+    {
+        "id": 312,
+        "type": "Grass",
+        "name": "Seed Bomb",
+        "img_name": "grass/seed_bomb"
+    },
+    {
+        "id": 313,
+        "type": "Grass",
+        "name": "Seed Flare",
+        "img_name": "grass/seed_flare"
+    },
+    {
+        "id": 314,
+        "type": "Grass",
+        "name": "Sleep Powder",
+        "img_name": "grass/sleep_powder"
+    },
+    {
+        "id": 315,
+        "type": "Grass",
+        "name": "Snap Trap",
+        "img_name": "grass/snap_trap"
+    },
+    {
+        "id": 316,
+        "type": "Grass",
+        "name": "Solar Beam",
+        "img_name": "grass/solar_beam"
+    },
+    {
+        "id": 317,
+        "type": "Grass",
+        "name": "Solar Blade",
+        "img_name": "grass/solar_blade"
+    },
+    {
+        "id": 318,
+        "type": "Grass",
+        "name": "Spiky Shield",
+        "img_name": "grass/spiky_shield"
+    },
+    {
+        "id": 319,
+        "type": "Grass",
+        "name": "Spore",
+        "img_name": "grass/spore"
+    },
+    {
+        "id": 320,
+        "type": "Grass",
+        "name": "Strength Sap",
+        "img_name": "grass/strength_sap"
+    },
+    {
+        "id": 321,
+        "type": "Grass",
+        "name": "Stun Spore",
+        "img_name": "grass/stun_spore"
+    },
+    {
+        "id": 322,
+        "type": "Grass",
+        "name": "Synthesis",
+        "img_name": "grass/synthesis"
+    },
+    {
+        "id": 323,
+        "type": "Grass",
+        "name": "Trop Kick",
+        "img_name": "grass/trop_kick"
+    },
+    {
+        "id": 324,
+        "type": "Grass",
+        "name": "Vine Whip",
+        "img_name": "grass/vine_whip"
+    },
+    {
+        "id": 325,
+        "type": "Grass",
+        "name": "Wood Hammer",
+        "img_name": "grass/wood_hammer"
+    },
+    {
+        "id": 326,
+        "type": "Grass",
+        "name": "Worry Seed",
+        "img_name": "grass/worry_seed"
+    },
+    {
+        "id": 327,
+        "type": "Ground",
+        "name": "Bone Club",
+        "img_name": "ground/bone_club"
+    },
+    {
+        "id": 328,
+        "type": "Ground",
+        "name": "Bone Rush",
+        "img_name": "ground/bone_rush"
+    },
+    {
+        "id": 329,
+        "type": "Ground",
+        "name": "Bonemerang",
+        "img_name": "ground/bonemerang"
+    },
+    {
+        "id": 330,
+        "type": "Ground",
+        "name": "Bulldoze",
+        "img_name": "ground/bulldoze"
+    },
+    {
+        "id": 331,
+        "type": "Ground",
+        "name": "Dig",
+        "img_name": "ground/dig"
+    },
+    {
+        "id": 332,
+        "type": "Ground",
+        "name": "Drill Run",
+        "img_name": "ground/drill_run"
+    },
+    {
+        "id": 333,
+        "type": "Ground",
+        "name": "Earth Power",
+        "img_name": "ground/earth_power"
+    },
+    {
+        "id": 334,
+        "type": "Ground",
+        "name": "Earthquake",
+        "img_name": "ground/earthquake"
+    },
+    {
+        "id": 335,
+        "type": "Ground",
+        "name": "Fissure",
+        "img_name": "ground/fissure"
+    },
+    {
+        "id": 336,
+        "type": "Ground",
+        "name": "High Horsepower",
+        "img_name": "ground/high_horsepower"
+    },
+    {
+        "id": 337,
+        "type": "Ground",
+        "name": "Land's Wrath",
+        "img_name": "ground/land's_wrath"
+    },
+    {
+        "id": 338,
+        "type": "Ground",
+        "name": "Magnitude",
+        "img_name": "ground/magnitude"
+    },
+    {
+        "id": 339,
+        "type": "Ground",
+        "name": "Mud Bomb",
+        "img_name": "ground/mud_bomb"
+    },
+    {
+        "id": 340,
+        "type": "Ground",
+        "name": "Mud Shot",
+        "img_name": "ground/mud_shot"
+    },
+    {
+        "id": 341,
+        "type": "Ground",
+        "name": "Mud Slap",
+        "img_name": "ground/mud_slap"
+    },
+    {
+        "id": 342,
+        "type": "Ground",
+        "name": "Mud Sport",
+        "img_name": "ground/mud_sport"
+    },
+    {
+        "id": 343,
+        "type": "Ground",
+        "name": "Precipice Blades",
+        "img_name": "ground/precipice_blades"
+    },
+    {
+        "id": 344,
+        "type": "Ground",
+        "name": "Rototiller",
+        "img_name": "ground/rototiller"
+    },
+    {
+        "id": 345,
+        "type": "Ground",
+        "name": "Sand Attack",
+        "img_name": "ground/sand_attack"
+    },
+    {
+        "id": 346,
+        "type": "Ground",
+        "name": "Sand Tomb",
+        "img_name": "ground/sand_tomb"
+    },
+    {
+        "id": 347,
+        "type": "Ground",
+        "name": "Shore Up",
+        "img_name": "ground/shore_up"
+    },
+    {
+        "id": 348,
+        "type": "Ground",
+        "name": "Spikes",
+        "img_name": "ground/spikes"
+    },
+    {
+        "id": 349,
+        "type": "Ground",
+        "name": "Stomping Tantrum",
+        "img_name": "ground/stomping_tantrum"
+    },
+    {
+        "id": 350,
+        "type": "Ground",
+        "name": "Thousand Arrows",
+        "img_name": "ground/thousand_arrows"
+    },
+    {
+        "id": 351,
+        "type": "Ground",
+        "name": "Thousand Waves",
+        "img_name": "ground/thousand_waves"
+    },
+    {
+        "id": 352,
+        "type": "Ice",
+        "name": "Aurora Beam",
+        "img_name": "ice/aurora_beam"
+    },
+    {
+        "id": 353,
+        "type": "Ice",
+        "name": "Aurora Veil",
+        "img_name": "ice/aurora_veil"
+    },
+    {
+        "id": 354,
+        "type": "Ice",
+        "name": "Avalanche",
+        "img_name": "ice/avalanche"
+    },
+    {
+        "id": 355,
+        "type": "Ice",
+        "name": "Blizzard",
+        "img_name": "ice/blizzard"
+    },
+    {
+        "id": 356,
+        "type": "Ice",
+        "name": "Freeze Shock",
+        "img_name": "ice/freeze_shock"
+    },
+    {
+        "id": 357,
+        "type": "Ice",
+        "name": "Freeze-Dry",
+        "img_name": "ice/freeze-dry"
+    },
+    {
+        "id": 358,
+        "type": "Ice",
+        "name": "Freezy Frost",
+        "img_name": "ice/freezy_frost"
+    },
+    {
+        "id": 359,
+        "type": "Ice",
+        "name": "Frost Breath",
+        "img_name": "ice/frost_breath"
+    },
+    {
+        "id": 360,
+        "type": "Ice",
+        "name": "Glaciate",
+        "img_name": "ice/glaciate"
+    },
+    {
+        "id": 361,
+        "type": "Ice",
+        "name": "Hail",
+        "img_name": "ice/hail"
+    },
+    {
+        "id": 362,
+        "type": "Ice",
+        "name": "Haze",
+        "img_name": "ice/haze"
+    },
+    {
+        "id": 363,
+        "type": "Ice",
+        "name": "Ice Ball",
+        "img_name": "ice/ice_ball"
+    },
+    {
+        "id": 364,
+        "type": "Ice",
+        "name": "Ice Beam",
+        "img_name": "ice/ice_beam"
+    },
+    {
+        "id": 365,
+        "type": "Ice",
+        "name": "Ice Burn",
+        "img_name": "ice/ice_burn"
+    },
+    {
+        "id": 366,
+        "type": "Ice",
+        "name": "Ice Fang",
+        "img_name": "ice/ice_fang"
+    },
+    {
+        "id": 367,
+        "type": "Ice",
+        "name": "Ice Hammer",
+        "img_name": "ice/ice_hammer"
+    },
+    {
+        "id": 368,
+        "type": "Ice",
+        "name": "Ice Punch",
+        "img_name": "ice/ice_punch"
+    },
+    {
+        "id": 369,
+        "type": "Ice",
+        "name": "Ice Shard",
+        "img_name": "ice/ice_shard"
+    },
+    {
+        "id": 370,
+        "type": "Ice",
+        "name": "Icicle Crash",
+        "img_name": "ice/icicle_crash"
+    },
+    {
+        "id": 371,
+        "type": "Ice",
+        "name": "Icicle Spear",
+        "img_name": "ice/icicle_spear"
+    },
+    {
+        "id": 372,
+        "type": "Ice",
+        "name": "Icy Wind",
+        "img_name": "ice/icy_wind"
+    },
+    {
+        "id": 373,
+        "type": "Ice",
+        "name": "Mist",
+        "img_name": "ice/mist"
+    },
+    {
+        "id": 374,
+        "type": "Ice",
+        "name": "Powder Snow",
+        "img_name": "ice/powder_snow"
+    },
+    {
+        "id": 375,
+        "type": "Ice",
+        "name": "Sheer Cold",
+        "img_name": "ice/sheer_cold"
+    },
+    {
+        "id": 376,
+        "type": "Normal",
+        "name": "Accupressure",
+        "img_name": "normal/accupressure"
+    },
+    {
+        "id": 377,
+        "type": "Normal",
+        "name": "After You",
+        "img_name": "normal/after_you"
+    },
+    {
+        "id": 378,
+        "type": "Normal",
+        "name": "Assist",
+        "img_name": "normal/assist"
+    },
+    {
+        "id": 379,
+        "type": "Normal",
+        "name": "Attract",
+        "img_name": "normal/attract"
+    },
+    {
+        "id": 380,
+        "type": "Normal",
+        "name": "Barrage",
+        "img_name": "normal/barrage"
+    },
+    {
+        "id": 381,
+        "type": "Normal",
+        "name": "Batton Pass",
+        "img_name": "normal/batton_pass"
+    },
+    {
+        "id": 382,
+        "type": "Normal",
+        "name": "Belly Drum",
+        "img_name": "normal/belly_drum"
+    },
+    {
+        "id": 383,
+        "type": "Normal",
+        "name": "Bestow",
+        "img_name": "normal/bestow"
+    },
+    {
+        "id": 384,
+        "type": "Normal",
+        "name": "Bide",
+        "img_name": "normal/bide"
+    },
+    {
+        "id": 385,
+        "type": "Normal",
+        "name": "Bind",
+        "img_name": "normal/bind"
+    },
+    {
+        "id": 386,
+        "type": "Normal",
+        "name": "Block",
+        "img_name": "normal/block"
+    },
+    {
+        "id": 387,
+        "type": "Normal",
+        "name": "Body Slam",
+        "img_name": "normal/body_slam"
+    },
+    {
+        "id": 388,
+        "type": "Normal",
+        "name": "Boomburst",
+        "img_name": "normal/boomburst"
+    },
+    {
+        "id": 389,
+        "type": "Normal",
+        "name": "Camouflage",
+        "img_name": "normal/camouflage"
+    },
+    {
+        "id": 390,
+        "type": "Normal",
+        "name": "Captivate",
+        "img_name": "normal/captivate"
+    },
+    {
+        "id": 391,
+        "type": "Normal",
+        "name": "Chip Away",
+        "img_name": "normal/chip_away"
+    },
+    {
+        "id": 392,
+        "type": "Normal",
+        "name": "Comet Punch",
+        "img_name": "normal/comet_punch"
+    },
+    {
+        "id": 393,
+        "type": "Normal",
+        "name": "Confide",
+        "img_name": "normal/confide"
+    },
+    {
+        "id": 394,
+        "type": "Normal",
+        "name": "Constrict",
+        "img_name": "normal/constrict"
+    },
+    {
+        "id": 395,
+        "type": "Normal",
+        "name": "Conversion",
+        "img_name": "normal/conversion"
+    },
+    {
+        "id": 396,
+        "type": "Normal",
+        "name": "Conversion 2",
+        "img_name": "normal/conversion_2"
+    },
+    {
+        "id": 397,
+        "type": "Normal",
+        "name": "Copycat",
+        "img_name": "normal/copycat"
+    },
+    {
+        "id": 398,
+        "type": "Normal",
+        "name": "Court Change",
+        "img_name": "normal/court_change"
+    },
+    {
+        "id": 399,
+        "type": "Normal",
+        "name": "Covet",
+        "img_name": "normal/covet"
+    },
+    {
+        "id": 400,
+        "type": "Normal",
+        "name": "Crush Claw",
+        "img_name": "normal/crush_claw"
+    },
+    {
+        "id": 401,
+        "type": "Normal",
+        "name": "Crush Grip",
+        "img_name": "normal/crush_grip"
+    },
+    {
+        "id": 402,
+        "type": "Normal",
+        "name": "Cut",
+        "img_name": "normal/cut"
+    },
+    {
+        "id": 403,
+        "type": "Normal",
+        "name": "Defense Curl",
+        "img_name": "normal/defense_curl"
+    },
+    {
+        "id": 404,
+        "type": "Normal",
+        "name": "Disable",
+        "img_name": "normal/disable"
+    },
+    {
+        "id": 405,
+        "type": "Normal",
+        "name": "Dizzy Punch",
+        "img_name": "normal/dizzy_punch"
+    },
+    {
+        "id": 406,
+        "type": "Normal",
+        "name": "Double Hit",
+        "img_name": "normal/double_hit"
+    },
+    {
+        "id": 407,
+        "type": "Normal",
+        "name": "Double Slap",
+        "img_name": "normal/double_slap"
+    },
+    {
+        "id": 408,
+        "type": "Normal",
+        "name": "Double Team",
+        "img_name": "normal/double_team"
+    },
+    {
+        "id": 409,
+        "type": "Normal",
+        "name": "Double-Edge",
+        "img_name": "normal/double-edge"
+    },
+    {
+        "id": 410,
+        "type": "Normal",
+        "name": "Echoed Voice",
+        "img_name": "normal/echoed_voice"
+    },
+    {
+        "id": 411,
+        "type": "Normal",
+        "name": "Egg Bomb",
+        "img_name": "normal/egg_bomb"
+    },
+    {
+        "id": 412,
+        "type": "Normal",
+        "name": "Encore",
+        "img_name": "normal/encore"
+    },
+    {
+        "id": 413,
+        "type": "Normal",
+        "name": "Endeavor",
+        "img_name": "normal/endeavor"
+    },
+    {
+        "id": 414,
+        "type": "Normal",
+        "name": "Endure",
+        "img_name": "normal/endure"
+    },
+    {
+        "id": 415,
+        "type": "Normal",
+        "name": "Entrainment",
+        "img_name": "normal/entrainment"
+    },
+    {
+        "id": 416,
+        "type": "Normal",
+        "name": "Explosion",
+        "img_name": "normal/explosion"
+    },
+    {
+        "id": 417,
+        "type": "Normal",
+        "name": "Extreme Speed",
+        "img_name": "normal/extreme_speed"
+    },
+    {
+        "id": 418,
+        "type": "Normal",
+        "name": "Facade",
+        "img_name": "normal/facade"
+    },
+    {
+        "id": 419,
+        "type": "Normal",
+        "name": "Fake Out",
+        "img_name": "normal/fake_out"
+    },
+    {
+        "id": 420,
+        "type": "Normal",
+        "name": "False Swipe",
+        "img_name": "normal/false_swipe"
+    },
+    {
+        "id": 421,
+        "type": "Normal",
+        "name": "Feint",
+        "img_name": "normal/feint"
+    },
+    {
+        "id": 422,
+        "type": "Normal",
+        "name": "Flail",
+        "img_name": "normal/flail"
+    },
+    {
+        "id": 423,
+        "type": "Normal",
+        "name": "Flash",
+        "img_name": "normal/flash"
+    },
+    {
+        "id": 424,
+        "type": "Normal",
+        "name": "Focus Energy",
+        "img_name": "normal/focus_energy"
+    },
+    {
+        "id": 425,
+        "type": "Normal",
+        "name": "Follow Me",
+        "img_name": "normal/follow_me"
+    },
+    {
+        "id": 426,
+        "type": "Normal",
+        "name": "Foresight",
+        "img_name": "normal/foresight"
+    },
+    {
+        "id": 427,
+        "type": "Normal",
+        "name": "Frustration",
+        "img_name": "normal/frustration"
+    },
+    {
+        "id": 428,
+        "type": "Normal",
+        "name": "Fury Attack",
+        "img_name": "normal/fury_attack"
+    },
+    {
+        "id": 429,
+        "type": "Normal",
+        "name": "Fury Swipes",
+        "img_name": "normal/fury_swipes"
+    },
+    {
+        "id": 430,
+        "type": "Normal",
+        "name": "Giga Impact",
+        "img_name": "normal/giga_impact"
+    },
+    {
+        "id": 431,
+        "type": "Normal",
+        "name": "Glare",
+        "img_name": "normal/glare"
+    },
+    {
+        "id": 432,
+        "type": "Normal",
+        "name": "Growl",
+        "img_name": "normal/growl"
+    },
+    {
+        "id": 433,
+        "type": "Normal",
+        "name": "Growth",
+        "img_name": "normal/growth"
+    },
+    {
+        "id": 434,
+        "type": "Normal",
+        "name": "Guillotine",
+        "img_name": "normal/guillotine"
+    },
+    {
+        "id": 435,
+        "type": "Normal",
+        "name": "Harden",
+        "img_name": "normal/harden"
+    },
+    {
+        "id": 436,
+        "type": "Normal",
+        "name": "Head Charge",
+        "img_name": "normal/head_charge"
+    },
+    {
+        "id": 437,
+        "type": "Normal",
+        "name": "Headbutt",
+        "img_name": "normal/headbutt"
+    },
+    {
+        "id": 438,
+        "type": "Normal",
+        "name": "Heal Bell",
+        "img_name": "normal/heal_bell"
+    },
+    {
+        "id": 439,
+        "type": "Normal",
+        "name": "Helping Hand",
+        "img_name": "normal/helping_hand"
+    },
+    {
+        "id": 440,
+        "type": "Normal",
+        "name": "Hidden Power",
+        "img_name": "normal/hidden_power"
+    },
+    {
+        "id": 441,
+        "type": "Normal",
+        "name": "Horn Attack",
+        "img_name": "normal/horn_attack"
+    },
+    {
+        "id": 442,
+        "type": "Normal",
+        "name": "Horn Drill",
+        "img_name": "normal/horn_drill"
+    },
+    {
+        "id": 443,
+        "type": "Normal",
+        "name": "Howl",
+        "img_name": "normal/howl"
+    },
+    {
+        "id": 444,
+        "type": "Normal",
+        "name": "Hyper Beam",
+        "img_name": "normal/hyper_beam"
+    },
+    {
+        "id": 445,
+        "type": "Normal",
+        "name": "Hyper Fang",
+        "img_name": "normal/hyper_fang"
+    },
+    {
+        "id": 446,
+        "type": "Normal",
+        "name": "Hyper Voice",
+        "img_name": "normal/hyper_voice"
+    },
+    {
+        "id": 447,
+        "type": "Normal",
+        "name": "Judgment",
+        "img_name": "normal/judgment"
+    },
+    {
+        "id": 448,
+        "type": "Normal",
+        "name": "Laser Focus",
+        "img_name": "normal/laser_focus"
+    },
+    {
+        "id": 449,
+        "type": "Normal",
+        "name": "Last Resort",
+        "img_name": "normal/last_resort"
+    },
+    {
+        "id": 450,
+        "type": "Normal",
+        "name": "Leer",
+        "img_name": "normal/leer"
+    },
+    {
+        "id": 451,
+        "type": "Normal",
+        "name": "Lock-On",
+        "img_name": "normal/lock-on"
+    },
+    {
+        "id": 452,
+        "type": "Normal",
+        "name": "Lovely Kiss",
+        "img_name": "normal/lovely_kiss"
+    },
+    {
+        "id": 453,
+        "type": "Normal",
+        "name": "Lucky Chant",
+        "img_name": "normal/lucky_chant"
+    },
+    {
+        "id": 454,
+        "type": "Normal",
+        "name": "Me First",
+        "img_name": "normal/me_first"
+    },
+    {
+        "id": 455,
+        "type": "Normal",
+        "name": "Mean Look",
+        "img_name": "normal/mean_look"
+    },
+    {
+        "id": 456,
+        "type": "Normal",
+        "name": "Mega Kick",
+        "img_name": "normal/mega_kick"
+    },
+    {
+        "id": 457,
+        "type": "Normal",
+        "name": "Mega Punch",
+        "img_name": "normal/mega_punch"
+    },
+    {
+        "id": 458,
+        "type": "Normal",
+        "name": "Metronome",
+        "img_name": "normal/metronome"
+    },
+    {
+        "id": 459,
+        "type": "Normal",
+        "name": "Milk Drink",
+        "img_name": "normal/milk_drink"
+    },
+    {
+        "id": 460,
+        "type": "Normal",
+        "name": "Mimic",
+        "img_name": "normal/mimic"
+    },
+    {
+        "id": 461,
+        "type": "Normal",
+        "name": "Mind Reader",
+        "img_name": "normal/mind_reader"
+    },
+    {
+        "id": 462,
+        "type": "Normal",
+        "name": "Minimize",
+        "img_name": "normal/minimize"
+    },
+    {
+        "id": 463,
+        "type": "Normal",
+        "name": "Morning Sun",
+        "img_name": "normal/morning_sun"
+    },
+    {
+        "id": 464,
+        "type": "Normal",
+        "name": "Multi-Attack",
+        "img_name": "normal/multi-attack"
+    },
+    {
+        "id": 465,
+        "type": "Normal",
+        "name": "Natural Gift",
+        "img_name": "normal/natural_gift"
+    },
+    {
+        "id": 466,
+        "type": "Normal",
+        "name": "Nature Power",
+        "img_name": "normal/nature_power"
+    },
+    {
+        "id": 467,
+        "type": "Normal",
+        "name": "Noble Roar",
+        "img_name": "normal/noble_roar"
+    },
+    {
+        "id": 468,
+        "type": "Normal",
+        "name": "Odor Sleuth",
+        "img_name": "normal/odor_sleuth"
+    },
+    {
+        "id": 469,
+        "type": "Normal",
+        "name": "Pain Split",
+        "img_name": "normal/pain_split"
+    },
+    {
+        "id": 470,
+        "type": "Normal",
+        "name": "Pay Day",
+        "img_name": "normal/pay_day"
+    },
+    {
+        "id": 471,
+        "type": "Normal",
+        "name": "Perish Song",
+        "img_name": "normal/perish_song"
+    },
+    {
+        "id": 472,
+        "type": "Normal",
+        "name": "Play Nice",
+        "img_name": "normal/play_nice"
+    },
+    {
+        "id": 473,
+        "type": "Normal",
+        "name": "Pound",
+        "img_name": "normal/pound"
+    },
+    {
+        "id": 474,
+        "type": "Normal",
+        "name": "Present",
+        "img_name": "normal/present"
+    },
+    {
+        "id": 475,
+        "type": "Normal",
+        "name": "Protect",
+        "img_name": "normal/protect"
+    },
+    {
+        "id": 476,
+        "type": "Normal",
+        "name": "Psych Up",
+        "img_name": "normal/psych_up"
+    },
+    {
+        "id": 477,
+        "type": "Normal",
+        "name": "Quick Attack",
+        "img_name": "normal/quick_attack"
+    },
+    {
+        "id": 478,
+        "type": "Normal",
+        "name": "Rage",
+        "img_name": "normal/rage"
+    },
+    {
+        "id": 479,
+        "type": "Normal",
+        "name": "Rapid Spin",
+        "img_name": "normal/rapid_spin"
+    },
+    {
+        "id": 480,
+        "type": "Normal",
+        "name": "Razor Wind",
+        "img_name": "normal/razor_wind"
+    },
+    {
+        "id": 481,
+        "type": "Normal",
+        "name": "Recover",
+        "img_name": "normal/recover"
+    },
+    {
+        "id": 482,
+        "type": "Normal",
+        "name": "Recycle",
+        "img_name": "normal/recycle"
+    },
+    {
+        "id": 483,
+        "type": "Normal",
+        "name": "Reflect Type",
+        "img_name": "normal/reflect_type"
+    },
+    {
+        "id": 484,
+        "type": "Normal",
+        "name": "Refresh",
+        "img_name": "normal/refresh"
+    },
+    {
+        "id": 485,
+        "type": "Normal",
+        "name": "Relic Song",
+        "img_name": "normal/relic_song"
+    },
+    {
+        "id": 486,
+        "type": "Normal",
+        "name": "Retaliate",
+        "img_name": "normal/retaliate"
+    },
+    {
+        "id": 487,
+        "type": "Normal",
+        "name": "Return",
+        "img_name": "normal/return"
+    },
+    {
+        "id": 488,
+        "type": "Normal",
+        "name": "Revelation Dance",
+        "img_name": "normal/revelation_dance"
+    },
+    {
+        "id": 489,
+        "type": "Normal",
+        "name": "Roar",
+        "img_name": "normal/roar"
+    },
+    {
+        "id": 490,
+        "type": "Normal",
+        "name": "Rock Climb",
+        "img_name": "normal/rock_climb"
+    },
+    {
+        "id": 491,
+        "type": "Normal",
+        "name": "Round",
+        "img_name": "normal/round"
+    },
+    {
+        "id": 492,
+        "type": "Normal",
+        "name": "Safeguard",
+        "img_name": "normal/safeguard"
+    },
+    {
+        "id": 493,
+        "type": "Normal",
+        "name": "Scary Face",
+        "img_name": "normal/scary_face"
+    },
+    {
+        "id": 494,
+        "type": "Normal",
+        "name": "Scratch",
+        "img_name": "normal/scratch"
+    },
+    {
+        "id": 495,
+        "type": "Normal",
+        "name": "Screech",
+        "img_name": "normal/screech"
+    },
+    {
+        "id": 496,
+        "type": "Normal",
+        "name": "Secret Power",
+        "img_name": "normal/secret_power"
+    },
+    {
+        "id": 497,
+        "type": "Normal",
+        "name": "Self Destruct",
+        "img_name": "normal/self_destruct"
+    },
+    {
+        "id": 498,
+        "type": "Normal",
+        "name": "Sharpen",
+        "img_name": "normal/sharpen"
+    },
+    {
+        "id": 499,
+        "type": "Normal",
+        "name": "Shell Smash",
+        "img_name": "normal/shell_smash"
+    },
+    {
+        "id": 500,
+        "type": "Normal",
+        "name": "Simple Beam",
+        "img_name": "normal/simple_beam"
+    },
+    {
+        "id": 501,
+        "type": "Normal",
+        "name": "Sing",
+        "img_name": "normal/sing"
+    },
+    {
+        "id": 502,
+        "type": "Normal",
+        "name": "Sketch",
+        "img_name": "normal/sketch"
+    },
+    {
+        "id": 503,
+        "type": "Normal",
+        "name": "Skull Bash",
+        "img_name": "normal/skull_bash"
+    },
+    {
+        "id": 504,
+        "type": "Normal",
+        "name": "Slack Off",
+        "img_name": "normal/slack_off"
+    },
+    {
+        "id": 505,
+        "type": "Normal",
+        "name": "Slam",
+        "img_name": "normal/slam"
+    },
+    {
+        "id": 506,
+        "type": "Normal",
+        "name": "Slash",
+        "img_name": "normal/slash"
+    },
+    {
+        "id": 507,
+        "type": "Normal",
+        "name": "Sleep Talk",
+        "img_name": "normal/sleep_talk"
+    },
+    {
+        "id": 508,
+        "type": "Normal",
+        "name": "Smeling Salt",
+        "img_name": "normal/smeling_salt"
+    },
+    {
+        "id": 509,
+        "type": "Normal",
+        "name": "Smokescreen",
+        "img_name": "normal/smokescreen"
+    },
+    {
+        "id": 510,
+        "type": "Normal",
+        "name": "Snore",
+        "img_name": "normal/snore"
+    },
+    {
+        "id": 511,
+        "type": "Normal",
+        "name": "Soft Boiled",
+        "img_name": "normal/soft_boiled"
+    },
+    {
+        "id": 512,
+        "type": "Normal",
+        "name": "Sonic Boom",
+        "img_name": "normal/sonic_boom"
+    },
+    {
+        "id": 513,
+        "type": "Normal",
+        "name": "Spike Cannon",
+        "img_name": "normal/spike_cannon"
+    },
+    {
+        "id": 514,
+        "type": "Normal",
+        "name": "Spit Up",
+        "img_name": "normal/spit_up"
+    },
+    {
+        "id": 515,
+        "type": "Normal",
+        "name": "Splash",
+        "img_name": "normal/splash"
+    },
+    {
+        "id": 516,
+        "type": "Normal",
+        "name": "Spotlight",
+        "img_name": "normal/spotlight"
+    },
+    {
+        "id": 517,
+        "type": "Normal",
+        "name": "Stockpile",
+        "img_name": "normal/stockpile"
+    },
+    {
+        "id": 518,
+        "type": "Normal",
+        "name": "Stomp",
+        "img_name": "normal/stomp"
+    },
+    {
+        "id": 519,
+        "type": "Normal",
+        "name": "Strength",
+        "img_name": "normal/strength"
+    },
+    {
+        "id": 520,
+        "type": "Normal",
+        "name": "Stuff Cheeks",
+        "img_name": "normal/stuff_cheeks"
+    },
+    {
+        "id": 521,
+        "type": "Normal",
+        "name": "Substitute",
+        "img_name": "normal/substitute"
+    },
+    {
+        "id": 522,
+        "type": "Normal",
+        "name": "Super Fang",
+        "img_name": "normal/super_fang"
+    },
+    {
+        "id": 523,
+        "type": "Normal",
+        "name": "Supersonic",
+        "img_name": "normal/supersonic"
+    },
+    {
+        "id": 524,
+        "type": "Normal",
+        "name": "Swagger",
+        "img_name": "normal/swagger"
+    },
+    {
+        "id": 525,
+        "type": "Normal",
+        "name": "Swallow",
+        "img_name": "normal/swallow"
+    },
+    {
+        "id": 526,
+        "type": "Normal",
+        "name": "Sweet Scent",
+        "img_name": "normal/sweet_scent"
+    },
+    {
+        "id": 527,
+        "type": "Normal",
+        "name": "Swift",
+        "img_name": "normal/swift"
+    },
+    {
+        "id": 528,
+        "type": "Normal",
+        "name": "Swords Dance",
+        "img_name": "normal/swords_dance"
+    },
+    {
+        "id": 529,
+        "type": "Normal",
+        "name": "Tackle",
+        "img_name": "normal/tackle"
+    },
+    {
+        "id": 530,
+        "type": "Normal",
+        "name": "Tail Slap",
+        "img_name": "normal/tail_slap"
+    },
+    {
+        "id": 531,
+        "type": "Normal",
+        "name": "Tail Whip",
+        "img_name": "normal/tail_whip"
+    },
+    {
+        "id": 532,
+        "type": "Normal",
+        "name": "Take Down",
+        "img_name": "normal/take_down"
+    },
+    {
+        "id": 533,
+        "type": "Normal",
+        "name": "Tearful Look",
+        "img_name": "normal/tearful_look"
+    },
+    {
+        "id": 534,
+        "type": "Normal",
+        "name": "Teatime",
+        "img_name": "normal/teatime"
+    },
+    {
+        "id": 535,
+        "type": "Normal",
+        "name": "Techno Blast",
+        "img_name": "normal/techno_blast"
+    },
+    {
+        "id": 536,
+        "type": "Normal",
+        "name": "Teeter Dance",
+        "img_name": "normal/teeter_dance"
+    },
+    {
+        "id": 537,
+        "type": "Normal",
+        "name": "Thrash",
+        "img_name": "normal/thrash"
+    },
+    {
+        "id": 538,
+        "type": "Normal",
+        "name": "Tickle",
+        "img_name": "normal/tickle"
+    },
+    {
+        "id": 539,
+        "type": "Normal",
+        "name": "Transform",
+        "img_name": "normal/transform"
+    },
+    {
+        "id": 540,
+        "type": "Normal",
+        "name": "Tri Attack",
+        "img_name": "normal/tri_attack"
+    },
+    {
+        "id": 541,
+        "type": "Normal",
+        "name": "Trump Card",
+        "img_name": "normal/trump_card"
+    },
+    {
+        "id": 542,
+        "type": "Normal",
+        "name": "Uproar",
+        "img_name": "normal/uproar"
+    },
+    {
+        "id": 543,
+        "type": "Normal",
+        "name": "Veevee Volley",
+        "img_name": "normal/veevee_volley"
+    },
+    {
+        "id": 544,
+        "type": "Normal",
+        "name": "Vice Grip",
+        "img_name": "normal/vice_grip"
+    },
+    {
+        "id": 545,
+        "type": "Normal",
+        "name": "Weather Ball",
+        "img_name": "normal/weather_ball"
+    },
+    {
+        "id": 546,
+        "type": "Normal",
+        "name": "Whirlwind",
+        "img_name": "normal/whirlwind"
+    },
+    {
+        "id": 547,
+        "type": "Normal",
+        "name": "Wish",
+        "img_name": "normal/wish"
+    },
+    {
+        "id": 548,
+        "type": "Normal",
+        "name": "Work Up",
+        "img_name": "normal/work_up"
+    },
+    {
+        "id": 549,
+        "type": "Normal",
+        "name": "Wrap",
+        "img_name": "normal/wrap"
+    },
+    {
+        "id": 550,
+        "type": "Normal",
+        "name": "Wring Out",
+        "img_name": "normal/wring_out"
+    },
+    {
+        "id": 551,
+        "type": "Normal",
+        "name": "Yawn",
+        "img_name": "normal/yawn"
+    },
+    {
+        "id": 552,
+        "type": "Poison",
+        "name": "Acid Armor",
+        "img_name": "poison/acid_armor"
+    },
+    {
+        "id": 553,
+        "type": "Poison",
+        "name": "Acid Spray",
+        "img_name": "poison/acid_spray"
+    },
+    {
+        "id": 554,
+        "type": "Poison",
+        "name": "Baneful Bunker",
+        "img_name": "poison/baneful_bunker"
+    },
+    {
+        "id": 555,
+        "type": "Poison",
+        "name": "Belch",
+        "img_name": "poison/belch"
+    },
+    {
+        "id": 556,
+        "type": "Poison",
+        "name": "Clear Smog",
+        "img_name": "poison/clear_smog"
+    },
+    {
+        "id": 557,
+        "type": "Poison",
+        "name": "Coil",
+        "img_name": "poison/coil"
+    },
+    {
+        "id": 558,
+        "type": "Poison",
+        "name": "Cross Poison",
+        "img_name": "poison/cross_poison"
+    },
+    {
+        "id": 559,
+        "type": "Poison",
+        "name": "Gastro Acid",
+        "img_name": "poison/gastro_acid"
+    },
+    {
+        "id": 560,
+        "type": "Poison",
+        "name": "Gunk Shot",
+        "img_name": "poison/gunk_shot"
+    },
+    {
+        "id": 561,
+        "type": "Poison",
+        "name": "Poison Fang",
+        "img_name": "poison/poison_fang"
+    },
+    {
+        "id": 562,
+        "type": "Poison",
+        "name": "Poison Gas",
+        "img_name": "poison/poison_gas"
+    },
+    {
+        "id": 563,
+        "type": "Poison",
+        "name": "Poison Jab",
+        "img_name": "poison/poison_jab"
+    },
+    {
+        "id": 564,
+        "type": "Poison",
+        "name": "Poison Powder",
+        "img_name": "poison/poison_powder"
+    },
+    {
+        "id": 565,
+        "type": "Poison",
+        "name": "Poison Sting",
+        "img_name": "poison/poison_sting"
+    },
+    {
+        "id": 566,
+        "type": "Poison",
+        "name": "Poison Tail",
+        "img_name": "poison/poison_tail"
+    },
+    {
+        "id": 567,
+        "type": "Poison",
+        "name": "Purify",
+        "img_name": "poison/purify"
+    },
+    {
+        "id": 568,
+        "type": "Poison",
+        "name": "Sludge",
+        "img_name": "poison/sludge"
+    },
+    {
+        "id": 569,
+        "type": "Poison",
+        "name": "Sludge Bomb",
+        "img_name": "poison/sludge_bomb"
+    },
+    {
+        "id": 570,
+        "type": "Poison",
+        "name": "Sludge Wave",
+        "img_name": "poison/sludge_wave"
+    },
+    {
+        "id": 571,
+        "type": "Poison",
+        "name": "Smog",
+        "img_name": "poison/smog"
+    },
+    {
+        "id": 572,
+        "type": "Poison",
+        "name": "Toxic",
+        "img_name": "poison/toxic"
+    },
+    {
+        "id": 573,
+        "type": "Poison",
+        "name": "Toxic Spikes",
+        "img_name": "poison/toxic_spikes"
+    },
+    {
+        "id": 574,
+        "type": "Poison",
+        "name": "Toxic Thread",
+        "img_name": "poison/toxic_thread"
+    },
+    {
+        "id": 575,
+        "type": "Poison",
+        "name": "Venom Drench",
+        "img_name": "poison/venom_drench"
+    },
+    {
+        "id": 576,
+        "type": "Poison",
+        "name": "Venoshock",
+        "img_name": "poison/venoshock"
+    },
+    {
+        "id": 577,
+        "type": "Psychic",
+        "name": "Agility",
+        "img_name": "psychic/agility"
+    },
+    {
+        "id": 578,
+        "type": "Psychic",
+        "name": "Ally Switch",
+        "img_name": "psychic/ally_switch"
+    },
+    {
+        "id": 579,
+        "type": "Psychic",
+        "name": "Amnesia",
+        "img_name": "psychic/amnesia"
+    },
+    {
+        "id": 580,
+        "type": "Psychic",
+        "name": "Barrier",
+        "img_name": "psychic/barrier"
+    },
+    {
+        "id": 581,
+        "type": "Psychic",
+        "name": "Calm Mind",
+        "img_name": "psychic/calm_mind"
+    },
+    {
+        "id": 582,
+        "type": "Psychic",
+        "name": "Confusion",
+        "img_name": "psychic/confusion"
+    },
+    {
+        "id": 583,
+        "type": "Psychic",
+        "name": "Cosmic Power",
+        "img_name": "psychic/cosmic_power"
+    },
+    {
+        "id": 584,
+        "type": "Psychic",
+        "name": "Dream Eater",
+        "img_name": "psychic/dream_eater"
+    },
+    {
+        "id": 585,
+        "type": "Psychic",
+        "name": "Extrasensory",
+        "img_name": "psychic/extrasensory"
+    },
+    {
+        "id": 586,
+        "type": "Psychic",
+        "name": "Future Sight",
+        "img_name": "psychic/future_sight"
+    },
+    {
+        "id": 587,
+        "type": "Psychic",
+        "name": "Glitzy Glow",
+        "img_name": "psychic/glitzy_glow"
+    },
+    {
+        "id": 588,
+        "type": "Psychic",
+        "name": "Gravity",
+        "img_name": "psychic/gravity"
+    },
+    {
+        "id": 589,
+        "type": "Psychic",
+        "name": "Guard Split",
+        "img_name": "psychic/guard_split"
+    },
+    {
+        "id": 590,
+        "type": "Psychic",
+        "name": "Guard Swap",
+        "img_name": "psychic/guard_swap"
+    },
+    {
+        "id": 591,
+        "type": "Psychic",
+        "name": "Heal Block",
+        "img_name": "psychic/heal_block"
+    },
+    {
+        "id": 592,
+        "type": "Psychic",
+        "name": "Heal Pulse",
+        "img_name": "psychic/heal_pulse"
+    },
+    {
+        "id": 593,
+        "type": "Psychic",
+        "name": "Healing Wish",
+        "img_name": "psychic/healing_wish"
+    },
+    {
+        "id": 594,
+        "type": "Psychic",
+        "name": "Heart Stamp",
+        "img_name": "psychic/heart_stamp"
+    },
+    {
+        "id": 595,
+        "type": "Psychic",
+        "name": "Heart Swap",
+        "img_name": "psychic/heart_swap"
+    },
+    {
+        "id": 596,
+        "type": "Psychic",
+        "name": "Hyperspace Hole",
+        "img_name": "psychic/hyperspace_hole"
+    },
+    {
+        "id": 597,
+        "type": "Psychic",
+        "name": "Hypnosis",
+        "img_name": "psychic/hypnosis"
+    },
+    {
+        "id": 598,
+        "type": "Psychic",
+        "name": "Imprison",
+        "img_name": "psychic/imprison"
+    },
+    {
+        "id": 599,
+        "type": "Psychic",
+        "name": "Instruct",
+        "img_name": "psychic/instruct"
+    },
+    {
+        "id": 600,
+        "type": "Psychic",
+        "name": "Kinesis",
+        "img_name": "psychic/kinesis"
+    },
+    {
+        "id": 601,
+        "type": "Psychic",
+        "name": "Light Screen",
+        "img_name": "psychic/light_screen"
+    },
+    {
+        "id": 602,
+        "type": "Psychic",
+        "name": "Lunar Dance",
+        "img_name": "psychic/lunar_dance"
+    },
+    {
+        "id": 603,
+        "type": "Psychic",
+        "name": "Luster Purge",
+        "img_name": "psychic/luster_purge"
+    },
+    {
+        "id": 604,
+        "type": "Psychic",
+        "name": "Magic Coat",
+        "img_name": "psychic/magic_coat"
+    },
+    {
+        "id": 605,
+        "type": "Psychic",
+        "name": "Magic Powder",
+        "img_name": "psychic/magic_powder"
+    },
+    {
+        "id": 606,
+        "type": "Psychic",
+        "name": "Magic Room",
+        "img_name": "psychic/magic_room"
+    },
+    {
+        "id": 607,
+        "type": "Psychic",
+        "name": "Meditate",
+        "img_name": "psychic/meditate"
+    },
+    {
+        "id": 608,
+        "type": "Psychic",
+        "name": "Miracle Eye",
+        "img_name": "psychic/miracle_eye"
+    },
+    {
+        "id": 609,
+        "type": "Psychic",
+        "name": "Mirror Coat",
+        "img_name": "psychic/mirror_coat"
+    },
+    {
+        "id": 610,
+        "type": "Psychic",
+        "name": "Mist Ball",
+        "img_name": "psychic/mist_ball"
+    },
+    {
+        "id": 611,
+        "type": "Psychic",
+        "name": "Photon Geyser",
+        "img_name": "psychic/photon_geyser"
+    },
+    {
+        "id": 612,
+        "type": "Psychic",
+        "name": "Power Split",
+        "img_name": "psychic/power_split"
+    },
+    {
+        "id": 613,
+        "type": "Psychic",
+        "name": "Power Swap",
+        "img_name": "psychic/power_swap"
+    },
+    {
+        "id": 614,
+        "type": "Psychic",
+        "name": "Power Trick",
+        "img_name": "psychic/power_trick"
+    },
+    {
+        "id": 615,
+        "type": "Psychic",
+        "name": "Prismatic Laser",
+        "img_name": "psychic/prismatic_laser"
+    },
+    {
+        "id": 616,
+        "type": "Psychic",
+        "name": "Psybeam",
+        "img_name": "psychic/psybeam"
+    },
+    {
+        "id": 617,
+        "type": "Psychic",
+        "name": "Psychic",
+        "img_name": "psychic/psychic"
+    },
+    {
+        "id": 618,
+        "type": "Psychic",
+        "name": "Psychic Fangs",
+        "img_name": "psychic/psychic_fangs"
+    },
+    {
+        "id": 619,
+        "type": "Psychic",
+        "name": "Psychic Terrain",
+        "img_name": "psychic/psychic_terrain"
+    },
+    {
+        "id": 620,
+        "type": "Psychic",
+        "name": "Psycho Boost",
+        "img_name": "psychic/psycho_boost"
+    },
+    {
+        "id": 621,
+        "type": "Psychic",
+        "name": "Psycho Cut",
+        "img_name": "psychic/psycho_cut"
+    },
+    {
+        "id": 622,
+        "type": "Psychic",
+        "name": "Psycho Shift",
+        "img_name": "psychic/psycho_shift"
+    },
+    {
+        "id": 623,
+        "type": "Psychic",
+        "name": "Psyshock",
+        "img_name": "psychic/psyshock"
+    },
+    {
+        "id": 624,
+        "type": "Psychic",
+        "name": "Psystrike",
+        "img_name": "psychic/psystrike"
+    },
+    {
+        "id": 625,
+        "type": "Psychic",
+        "name": "Psywave",
+        "img_name": "psychic/psywave"
+    },
+    {
+        "id": 626,
+        "type": "Psychic",
+        "name": "Reflect",
+        "img_name": "psychic/reflect"
+    },
+    {
+        "id": 627,
+        "type": "Psychic",
+        "name": "Rest",
+        "img_name": "psychic/rest"
+    },
+    {
+        "id": 628,
+        "type": "Psychic",
+        "name": "Role Play",
+        "img_name": "psychic/role_play"
+    },
+    {
+        "id": 629,
+        "type": "Psychic",
+        "name": "Skill Swap",
+        "img_name": "psychic/skill_swap"
+    },
+    {
+        "id": 630,
+        "type": "Psychic",
+        "name": "Speed Swap",
+        "img_name": "psychic/speed_swap"
+    },
+    {
+        "id": 631,
+        "type": "Psychic",
+        "name": "Stored Power",
+        "img_name": "psychic/stored_power"
+    },
+    {
+        "id": 632,
+        "type": "Psychic",
+        "name": "Synchronoise",
+        "img_name": "psychic/synchronoise"
+    },
+    {
+        "id": 633,
+        "type": "Psychic",
+        "name": "Telekinesis",
+        "img_name": "psychic/telekinesis"
+    },
+    {
+        "id": 634,
+        "type": "Psychic",
+        "name": "Teleport",
+        "img_name": "psychic/teleport"
+    },
+    {
+        "id": 635,
+        "type": "Psychic",
+        "name": "Trick",
+        "img_name": "psychic/trick"
+    },
+    {
+        "id": 636,
+        "type": "Psychic",
+        "name": "Trick Room",
+        "img_name": "psychic/trick_room"
+    },
+    {
+        "id": 637,
+        "type": "Psychic",
+        "name": "Wonder Room",
+        "img_name": "psychic/wonder_room"
+    },
+    {
+        "id": 638,
+        "type": "Psychic",
+        "name": "Zen Headbutt",
+        "img_name": "psychic/zen_headbutt"
+    },
+    {
+        "id": 639,
+        "type": "Rock",
+        "name": "Accelerock",
+        "img_name": "rock/accelerock"
+    },
+    {
+        "id": 640,
+        "type": "Rock",
+        "name": "Ancient Power",
+        "img_name": "rock/ancient_power"
+    },
+    {
+        "id": 641,
+        "type": "Rock",
+        "name": "Diamond Storm",
+        "img_name": "rock/diamond_storm"
+    },
+    {
+        "id": 642,
+        "type": "Rock",
+        "name": "Head Smash",
+        "img_name": "rock/head_smash"
+    },
+    {
+        "id": 643,
+        "type": "Rock",
+        "name": "Power Gem",
+        "img_name": "rock/power_gem"
+    },
+    {
+        "id": 644,
+        "type": "Rock",
+        "name": "Rock Blast",
+        "img_name": "rock/rock_blast"
+    },
+    {
+        "id": 645,
+        "type": "Rock",
+        "name": "Rock Polish",
+        "img_name": "rock/rock_polish"
+    },
+    {
+        "id": 646,
+        "type": "Rock",
+        "name": "Rock Slide",
+        "img_name": "rock/rock_slide"
+    },
+    {
+        "id": 647,
+        "type": "Rock",
+        "name": "Rock Throw",
+        "img_name": "rock/rock_throw"
+    },
+    {
+        "id": 648,
+        "type": "Rock",
+        "name": "Rock Tomb",
+        "img_name": "rock/rock_tomb"
+    },
+    {
+        "id": 649,
+        "type": "Rock",
+        "name": "Rock Wrecker",
+        "img_name": "rock/rock_wrecker"
+    },
+    {
+        "id": 650,
+        "type": "Rock",
+        "name": "Rollout",
+        "img_name": "rock/rollout"
+    },
+    {
+        "id": 651,
+        "type": "Rock",
+        "name": "Sandstorm",
+        "img_name": "rock/sandstorm"
+    },
+    {
+        "id": 652,
+        "type": "Rock",
+        "name": "Smack Down",
+        "img_name": "rock/smack_down"
+    },
+    {
+        "id": 653,
+        "type": "Rock",
+        "name": "Stealth Rock",
+        "img_name": "rock/stealth_rock"
+    },
+    {
+        "id": 654,
+        "type": "Rock",
+        "name": "Stone Edge",
+        "img_name": "rock/stone_edge"
+    },
+    {
+        "id": 655,
+        "type": "Rock",
+        "name": "Tar Shot",
+        "img_name": "rock/tar_shot"
+    },
+    {
+        "id": 656,
+        "type": "Rock",
+        "name": "Wide Guard",
+        "img_name": "rock/wide_guard"
+    },
+    {
+        "id": 657,
+        "type": "Steel",
+        "name": "Anchor Shot",
+        "img_name": "steel/anchor_shot"
+    },
+    {
+        "id": 658,
+        "type": "Steel",
+        "name": "Autotomize",
+        "img_name": "steel/autotomize"
+    },
+    {
+        "id": 659,
+        "type": "Steel",
+        "name": "Behemoth Bash",
+        "img_name": "steel/behemoth_bash"
+    },
+    {
+        "id": 660,
+        "type": "Steel",
+        "name": "Behemoth Blade",
+        "img_name": "steel/behemoth_blade"
+    },
+    {
+        "id": 661,
+        "type": "Steel",
+        "name": "Bullet Punch",
+        "img_name": "steel/bullet_punch"
+    },
+    {
+        "id": 662,
+        "type": "Steel",
+        "name": "Doom Desire",
+        "img_name": "steel/doom_desire"
+    },
+    {
+        "id": 663,
+        "type": "Steel",
+        "name": "Double Iron Bash",
+        "img_name": "steel/double_iron_bash"
+    },
+    {
+        "id": 664,
+        "type": "Steel",
+        "name": "Flash Cannon",
+        "img_name": "steel/flash_cannon"
+    },
+    {
+        "id": 665,
+        "type": "Steel",
+        "name": "Gear Grind",
+        "img_name": "steel/gear_grind"
+    },
+    {
+        "id": 666,
+        "type": "Steel",
+        "name": "Gear Up",
+        "img_name": "steel/gear_up"
+    },
+    {
+        "id": 667,
+        "type": "Steel",
+        "name": "Gyro Ball",
+        "img_name": "steel/gyro_ball"
+    },
+    {
+        "id": 668,
+        "type": "Steel",
+        "name": "Heavy Slam",
+        "img_name": "steel/heavy_slam"
+    },
+    {
+        "id": 669,
+        "type": "Steel",
+        "name": "Iron Defense",
+        "img_name": "steel/iron_defense"
+    },
+    {
+        "id": 670,
+        "type": "Steel",
+        "name": "Iron Head",
+        "img_name": "steel/iron_head"
+    },
+    {
+        "id": 671,
+        "type": "Steel",
+        "name": "Iron Tail",
+        "img_name": "steel/iron_tail"
+    },
+    {
+        "id": 672,
+        "type": "Steel",
+        "name": "King's Shield",
+        "img_name": "steel/king's_shield"
+    },
+    {
+        "id": 673,
+        "type": "Steel",
+        "name": "Magnet Bomb",
+        "img_name": "steel/magnet_bomb"
+    },
+    {
+        "id": 674,
+        "type": "Steel",
+        "name": "Metal Burst",
+        "img_name": "steel/metal_burst"
+    },
+    {
+        "id": 675,
+        "type": "Steel",
+        "name": "Metal Claw",
+        "img_name": "steel/metal_claw"
+    },
+    {
+        "id": 676,
+        "type": "Steel",
+        "name": "Metal Sound",
+        "img_name": "steel/metal_sound"
+    },
+    {
+        "id": 677,
+        "type": "Steel",
+        "name": "Meteor Mash",
+        "img_name": "steel/meteor_mash"
+    },
+    {
+        "id": 678,
+        "type": "Steel",
+        "name": "Mirror Shot",
+        "img_name": "steel/mirror_shot"
+    },
+    {
+        "id": 679,
+        "type": "Steel",
+        "name": "Shift Gear",
+        "img_name": "steel/shift_gear"
+    },
+    {
+        "id": 680,
+        "type": "Steel",
+        "name": "Smart Strike",
+        "img_name": "steel/smart_strike"
+    },
+    {
+        "id": 681,
+        "type": "Steel",
+        "name": "Steel Beam",
+        "img_name": "steel/steel_beam"
+    },
+    {
+        "id": 682,
+        "type": "Steel",
+        "name": "Steel Wing",
+        "img_name": "steel/steel_wing"
+    },
+    {
+        "id": 683,
+        "type": "Steel",
+        "name": "Sunsteel Strike",
+        "img_name": "steel/sunsteel_strike"
+    },
+    {
+        "id": 684,
+        "type": "Water",
+        "name": "Aqua Jet",
+        "img_name": "water/aqua_jet"
+    },
+    {
+        "id": 685,
+        "type": "Water",
+        "name": "Aqua Ring",
+        "img_name": "water/aqua_ring"
+    },
+    {
+        "id": 686,
+        "type": "Water",
+        "name": "Aqua Tail",
+        "img_name": "water/aqua_tail"
+    },
+    {
+        "id": 687,
+        "type": "Water",
+        "name": "Bouncy Bubble",
+        "img_name": "water/bouncy_bubble"
+    },
+    {
+        "id": 688,
+        "type": "Water",
+        "name": "Brine",
+        "img_name": "water/brine"
+    },
+    {
+        "id": 689,
+        "type": "Water",
+        "name": "Bubble",
+        "img_name": "water/bubble"
+    },
+    {
+        "id": 690,
+        "type": "Water",
+        "name": "Bubble Beam",
+        "img_name": "water/bubble_beam"
+    },
+    {
+        "id": 691,
+        "type": "Water",
+        "name": "Clamp",
+        "img_name": "water/clamp"
+    },
+    {
+        "id": 692,
+        "type": "Water",
+        "name": "Crabhammer",
+        "img_name": "water/crabhammer"
+    },
+    {
+        "id": 693,
+        "type": "Water",
+        "name": "Dive",
+        "img_name": "water/dive"
+    },
+    {
+        "id": 694,
+        "type": "Water",
+        "name": "Fishious Rend",
+        "img_name": "water/fishious_rend"
+    },
+    {
+        "id": 695,
+        "type": "Water",
+        "name": "Hydro Cannon",
+        "img_name": "water/hydro_cannon"
+    },
+    {
+        "id": 696,
+        "type": "Water",
+        "name": "Hydro Pump",
+        "img_name": "water/hydro_pump"
+    },
+    {
+        "id": 697,
+        "type": "Water",
+        "name": "Life Dew",
+        "img_name": "water/life_dew"
+    },
+    {
+        "id": 698,
+        "type": "Water",
+        "name": "Liquidation",
+        "img_name": "water/liquidation"
+    },
+    {
+        "id": 699,
+        "type": "Water",
+        "name": "Muddy Water",
+        "img_name": "water/muddy_water"
+    },
+    {
+        "id": 700,
+        "type": "Water",
+        "name": "Octazooka",
+        "img_name": "water/octazooka"
+    },
+    {
+        "id": 701,
+        "type": "Water",
+        "name": "Origin Pulse",
+        "img_name": "water/origin_pulse"
+    },
+    {
+        "id": 702,
+        "type": "Water",
+        "name": "Rain Dance",
+        "img_name": "water/rain_dance"
+    },
+    {
+        "id": 703,
+        "type": "Water",
+        "name": "Razor Shell",
+        "img_name": "water/razor_shell"
+    },
+    {
+        "id": 704,
+        "type": "Water",
+        "name": "Scald",
+        "img_name": "water/scald"
+    },
+    {
+        "id": 705,
+        "type": "Water",
+        "name": "Snipe Shot",
+        "img_name": "water/snipe_shot"
+    },
+    {
+        "id": 706,
+        "type": "Water",
+        "name": "Soak",
+        "img_name": "water/soak"
+    },
+    {
+        "id": 707,
+        "type": "Water",
+        "name": "Sparkling Aria",
+        "img_name": "water/sparkling_aria"
+    },
+    {
+        "id": 708,
+        "type": "Water",
+        "name": "Splishy Splash",
+        "img_name": "water/splishy_splash"
+    },
+    {
+        "id": 709,
+        "type": "Water",
+        "name": "Steam Eruption",
+        "img_name": "water/steam_eruption"
+    },
+    {
+        "id": 710,
+        "type": "Water",
+        "name": "Surf",
+        "img_name": "water/surf"
+    },
+    {
+        "id": 711,
+        "type": "Water",
+        "name": "Water Gun",
+        "img_name": "water/water_gun"
+    },
+    {
+        "id": 712,
+        "type": "Water",
+        "name": "Water Pledge",
+        "img_name": "water/water_pledge"
+    },
+    {
+        "id": 713,
+        "type": "Water",
+        "name": "Water Pulse",
+        "img_name": "water/water_pulse"
+    },
+    {
+        "id": 714,
+        "type": "Water",
+        "name": "Water Shuriken",
+        "img_name": "water/water_shuriken"
+    },
+    {
+        "id": 715,
+        "type": "Water",
+        "name": "Water Sport",
+        "img_name": "water/water_sport"
+    },
+    {
+        "id": 716,
+        "type": "Water",
+        "name": "Water Spout",
+        "img_name": "water/water_spout"
+    },
+    {
+        "id": 717,
+        "type": "Water",
+        "name": "Waterfall",
+        "img_name": "water/waterfall"
+    },
+    {
+        "id": 718,
+        "type": "Water",
+        "name": "Whirlpool",
+        "img_name": "water/whirlpool"
+    },
+    {
+        "id": 719,
+        "type": "Water",
+        "name": "Withdraw",
+        "img_name": "water/withdraw"
+    }
 ]

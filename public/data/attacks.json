@@ -3306,6 +3306,12 @@
         "img_name": "normal/yawn"
     },
     {
+        "id": 720,
+        "type": "Poison",
+        "name": "Acid",
+        "img_name": "poison/acid"
+    },
+    {
         "id": 552,
         "type": "Poison",
         "name": "Acid Armor",
